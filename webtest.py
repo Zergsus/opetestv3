@@ -11,12 +11,13 @@ from collections import defaultdict
 
 # Selección de tema y archivos correspondientes
 temas = {
-    "Resto": "preguntas_resto.json",
+    "Todas": "preguntas.json",
     "Protección Radiológica": "preguntas_proteccion_radiologica.json",
-    "Dosimetría Física": "preguntas_dosimetría_física.json",
-    "Radiobiología": "preguntas_radiobiología.json",
+    "Dosimetría Física": "preguntas_dosimetria_fisica.json",
+    "Radiobiología": "preguntas_radiobiologia.json",
     "Radioterapia": "preguntas_radioterapia.json",
-    "Medicina Nuclear": "preguntas_medicina_nuclear.json"
+    "Medicina Nuclear": "preguntas_medicina_nuclear.json",
+    "Resto": "preguntas_resto.json",
 }
 
 tema_elegido = st.selectbox("Selecciona un tema:", list(temas.keys()))
