@@ -1,0 +1,672 @@
+{
+    "SAS 2023.pdf_pregunta21": {
+        "pregunta": "El factor de Lea -Catcheside se introduce en el modelo lineal cuadrático para \ncorre gir:",
+        "opciones": {
+            "A": "el efecto debido al aumento de células hipóxicas",
+            "B": "el efecto de la fase celular en la que el tumor recibe la irradiación",
+            "C": "el efecto de la tasa de dosis y del fraccionamiento",
+            "D": "el efecto de utilizar dosis mayores de 7 Gy"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023.pdf_pregunta65": {
+        "pregunta": "¿Cuál de los siguientes tiene el LET más alto?",
+        "opciones": {
+            "A": "Partícula alfa",
+            "B": "Rayos gamma",
+            "C": "Rayos X",
+            "D": "Partícula beta"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta10": {
+        "pregunta": "El artículo 21 de la Ley 2/2010 (Ley de Muerte Digna de Andalucía), establece los \ndeberes de los profesionales sanitarios respecto a la limitación del esfuerzo \nterapéutico (LET), entre los que encuentran recogidos todos los siguientes, \nEXCEPTO:",
+        "opciones": {
+            "A": "Reconoce la LET como un ejercicio de buena práctica clínica, cuando se emplea en \nuna situación clínica que lo aconseje y para evitar la obstinación terapéutica.",
+            "B": "Establece que la LET se llevará a cabo oído el criterio profesional del enfermero o \nenfermera responsable de los cuidados, y requerirá la opinión coincidente con la del \nmédico o médica.",
+            "C": "Determina que la LET debe consensuarse con el paciente, debiendo éste firmar por \nescrito su consentimiento.",
+            "D": "Obliga a que tanto la justificación de la LET, como la identidad y opinión de los \nprofesionales sanitarios que intervienen en el caso, queden registradas en la historia \nclínica."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta73": {
+        "pregunta": "El síndrome agudo de irradiación se puede producir cuando la irradiación afecta a \nuna parte completa o muy extensa de un individuo. Las fases que, en general, se \ndistinguen en este síndrome, por orden temporal de aparición, son:",
+        "opciones": {
+            "A": "Prodrómica, manifiest a, de desarrollo y de resolución.",
+            "B": "Latente, manifiesta y final .",
+            "C": "Prodrómica, latente, manifiesta y final .",
+            "D": "Prodrómica, manifiesta y final ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta83": {
+        "pregunta": "¿Cuál es la función del laberinto en una sala donde se ubica una unidad de \nteleterapia?",
+        "opciones": {
+            "A": "El objetivo que se persigue es que en la puerta de entrada de la sala, la fluencia de \nfotones q ue llegue haya sufrido al menos dos dispersiones.",
+            "B": "Evitar que haya que poner puerta de entrada a la sala de tratamiento facilitando el acceso de los profesionales a la sala de tratamiento.",
+            "C": "Evitar que personal ajeno a la instalación radiactiva entre en la sala de tratamiento.",
+            "D": "Disminuir los espesores de las barreras primarias de la sala de tratamiento."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta89": {
+        "pregunta": "El Roentgen es, hoy en día, una unidad obsoleta para la magnitud Exposición. Su \ncorrespondencia con la unidad de exposición en el Sistema Internacional es:",
+        "opciones": {
+            "A": "2.58 * 10-4 C/kg.",
+            "B": "8.77 J/kg .",
+            "C": "1.61 * 10-14 C/kg.",
+            "D": "25.8 µC/kg ."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta131": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / En una radiografía de tórax  PA, la dosis en superficie a la entrada del paciente \n(DSE):",
+        "opciones": {
+            "A": "No podrá exceder de 0.3 mGy.",
+            "B": "No podrá exceder de 3 mSv.",
+            "C": "No podrá exceder de 1.5 mGy.",
+            "D": "No existe un valor límite de dosis."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta132": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / Si en una exploración con un TC helicoidal, usando un espesor de corte nominal de \n10 mm, se dice que el “pitch” es de 2, esto significa que:",
+        "opciones": {
+            "A": "Durante una rotac ión de 180º del gantry, la distancia recorrida por la mesa será de 20 \nmm.",
+            "B": "Durante una rotación completa del gantry, la distancia recorrida por la mesa será de 5 mm.",
+            "C": "Durante una rotación completa del gantry, la mesa recorrerá una distancia de 2 cm.",
+            "D": "Durante una rotación de 180º del gantry, la mesa recorrerá 5 mm."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta133": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / Si un material tiene un coeficiente de atenuación un 25% mayor que el del agua, \n¿cuál será el número CT teórico para dicho material , expresado en unidades \nHounsfield?",
+        "opciones": {
+            "A": "125.",
+            "B": "25 0.",
+            "C": "-125.",
+            "D": "-250."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta134": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / ¿Cuál de las siguientes afirmaciones es posible en relación con un colimador LEGP \n(baja energía propósito general) y uno LEHR (baja energía alta resolución) de una misma gammacámara?",
+        "opciones": {
+            "A": "Ambos tienen septos idénticos (en grosor y longitud) , pero el colimador LEHR tiene un \nnúmero mayor de agujeros que el LEGP.",
+            "B": "El colimador LEHR tiene un septo de menor grosor y longitud y mismo número de agujeros que el colimador LEGP.",
+            "C": "El colimador LE HR tiene una longitud de septo mayor que el colimador LEGP , e igual \nnúmero de agujeros y grosor de septo.",
+            "D": "El colimador LEHR tiene mayor sensibilidad que el LEGP."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta135": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / En una gammacámara, cuando se trabaja  con actividades muy elevadas, puede \naparecer el fenómeno de apilamiento (“pile- up”). Si en el procedimiento de \nestimación del tamaño de píxel con dos fuentes puntuales de 99mTc ocurriera esto, \n¿qué observaríamos?",
+        "opciones": {
+            "A": "Una de las fuentes no sería detectada, mientras que aumentaría el número de \ndetecciones asignadas a la otra fuente.",
+            "B": "La imagen no diferiría de aquella en la que no apareciera este este efecto, pero paulatinamente la tasa de detección iría disminuyendo.",
+            "C": "Una imagen saturada de todo el cris tal de detección.",
+            "D": "Un contaje excesivo de eventos detectados en la línea que une ambas fuentes."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta136": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / En el caso de observarse “artefactos en anillo” en la prueba de uniformidad \ntomográfica de una gammacámara, ¿cuál de los siguientes supuestos cree más probable como causa?",
+        "opciones": {
+            "A": "Falta de uniformidad planar.",
+            "B": "Resolución espacial fuera de tolerancias.",
+            "C": "Resolución temporal fuera de tolerancias.",
+            "D": "Actividad insuficiente en el maniquí."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta137": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / De acuerdo con el ICRU50, la delimitación del CTV debe basars e en:",
+        "opciones": {
+            "A": "Consideraciones puramente anatómico -topográficas y biológicas, teniendo en cuenta \nlos movimientos de los tejidos, del paciente o factores técnicos .",
+            "B": "Consideraciones puramente anatómico -topográficas y biológicas , sin considerar los \nmovimi entos de los tejidos, del paciente o factores técnicos .",
+            "C": "Consideraciones puramente anatómico -topográficas y biológicas , sin considerar los \nmovimientos de los tejidos, pero teniendo en cuenta los del paciente o factores técnicos .",
+            "D": "Consideraciones pu ramente anatómico -topográficas y biológicas , teniendo en cuenta \nlos movimientos de los tejidos, del paciente, pero nunca factores técnicos."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta138": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / La dosis biológica equivalente para efectos tardíos (suponer α/β igual a 3) de un \ntratamiento de 30 fracciones de 2 Gy, con una fracción diaria, usando el modelo lineal- cuadrático , es:",
+        "opciones": {
+            "A": "60 Gy.",
+            "B": "150 Gy.",
+            "C": "80 Gy.",
+            "D": "100 Gy."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta139": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / Teniendo en cuenta  las dosis absorbidas de radioterapia externa y braquiterapia, se \nestablecen unos objetivos de dosis y límites de prescripción. Según la mayoría de los docum entos de referencia actuales, ¿cuál es el límite de dosis para el recto?",
+        "opciones": {
+            "A": "D2 cm3 < 75 Gy (EQD2, α/β=3Gy) .",
+            "B": "D1 cm3 < 65 Gy (EQD2, α/β=3Gy) .",
+            "C": "D0.1 cm3 < 75 Gy (EQD2, α/β=3Gy) .",
+            "D": "D2 cm3 < 65 Gy (EQD2, α/β=3Gy) ."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta140": {
+        "pregunta": "CASO PRÁCTICO 4: \nUna paciente es diagnosticada de una neoplasia de cérvix. En el estudio de extensión \nse solicita: RX de tórax, urografía, cistoscopia, TC abdómino-pélvico y RMN pélvica. Se \nsolicita también una gammagrafía ósea, que descarta metástasis óseas. Una vez \ncompletado el estudio se inicia tratamiento con radioterapia externa pélvica y \nbraquiterapia intracavitaria. / En la calibración de fuentes de braquiterapia se suele utilizar la magnitud “Tasa de \nkerma normal o de referencia en aire”, abreviada por TKRA, definida como:",
+        "opciones": {
+            "A": "La tasa de kerma en aire en el seno de aire a una distancia de referencia de 1 cm \ncorrigiendo la dispersión en aire.",
+            "B": "La tasa de kerma en aire en el seno de aire a una distancia de referencia de 1 cm corrigiendo por atenuación y dispersión en aire.",
+            "C": "La tasa de kerma en aire en el seno de aire a una distancia de referencia de 1 m sin corrección por atenuación ni dispersión en aire.",
+            "D": "La tasa de kerma en aire en el seno de aire a una distancia de referencia de 1 m"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta14": {
+        "pregunta": "Está evaluando un brote epidémico con 60 afectados (vómitos y diarreas), y tiene \ndatos de las 300 personas que estuvieron a riesgo, pues fue una celebración a \npuerta cerrada en un restaurante. De 70 personas que recuerdan haber tomado \nunas tartaletas con ensaladilla, 50 tienen síntomas de gastroenteritis aguda (GE",
+        "opciones": {
+            "A": "; \nmientras que en los restantes 230 invitados, que no tomaron dichos canapés (o no \nlo recuerdan bien) hay 10 con GEA. Con estos datos se pueden calcular diferentes \nindicadores; pero, ¿cuál de los siguientes es la odds ratio de GEA asociada al \nconsumo de tartaletas de ensaladilla?  \n  \nA) OR = (50 x 220) / (10 x 20) = 55.",
+            "B": "OR = 50 / 10 = 5.",
+            "C": "OR = (50 / 70) / (10 / 230) =  16.4.",
+            "D": "Ninguno de los anteriores."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta36": {
+        "pregunta": "Para una dosis determinada, el daño que produce la radiación a nivel celular en \nrelación con la transferencia lineal de energía (LET) de la radiación ionizante \nincidente",
+        "opciones": {
+            "A": "aumenta siemp re con el LET",
+            "B": "disminuye siempre con el LET",
+            "C": "aumenta con el LET hasta un cierto valor de éste",
+            "D": "es constante, ya que el daño está relacionado directamente con la dosis, no con el LET"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta47": {
+        "pregunta": "Según la ICRP 60, la dosis (Gy) que debida a una radiación de baja LET recibida de \nmanera uniforme por todo el cuerpo mataría a la mitad de la población expuesta es \ndel orden de:",
+        "opciones": {
+            "A": "1",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta121": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / Tras la sustitución de cuál de los siguientes elementos del ac elerador tendríamos \nque realizar prácticamente una puesta en marcha completa:",
+        "opciones": {
+            "A": "Klystron o magnetrón.",
+            "B": "Thyratron.",
+            "C": "Guía de ondas.",
+            "D": "Motor del MLC."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta43": {
+        "pregunta": ". En el modelo lineal cuadrático, el cociente α/β representa:",
+        "opciones": {
+            "A": "la relación entre el número de roturas de cadena del ADN que son dobles (α) y simples \n(β)",
+            "B": "la pendiente inicial de la curva que representa la fracción de supervivencia (S) frente a la \ndosis absorbida (D)",
+            "C": "la pendiente de la recta 'ln(S) frente a D', siendo S la fracción de supervivencia y D la \ndosis absorbida",
+            "D": "el valor de dosis en el que la componente lineal y cuadrática de la curva de supervivencia \nse igualan"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta86": {
+        "pregunta": ". Según la ICRP -103, el coeficiente no minal de riesgo ajustado al detrimento (10-2  \nSv-1), total y para adultos, para efectos estocásticos después de la exposición a \ntasa de dosis baja es:",
+        "opciones": {
+            "A": "4,2",
+            "B": "5,6",
+            "C": "5,7",
+            "D": "7,3"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta126": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / En el puesto del operador del acelerador , con una cámara de ionización la tasa de \ndosis medida fue de 25 μSv/h. Al menos uno de los técnicos opera el acelerador \ndurante el turno completo. Los cálculos de la barrera se realizaron con una carga de \ntrabajo semanal de 800 Gy/sem. ¿Hasta qué valor ha bría que reducir la carga de \ntrabajo semanal para que el operador no supere los nuevos valores de dosis \nefectivas anuales cuando entre en vigor en nuestro país la Directiva 2013/59 \nEuratom? (año laboral 2000 horas/año)",
+        "opciones": {
+            "A": "320 Gy/sem",
+            "B": "185Gy/sem",
+            "C": "230 Gy/sem",
+            "D": "10 Gy /h"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta131": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / En este bunker ya construido, ¿es posible instalar  una unidad de HDR con Ir -192 \nsin realizar ningún cambio en las barreras una vez realizado el estudio de \nseguridad?:",
+        "opciones": {
+            "A": "Sí, sería posible sin realizar ningún cambio  en ninguna de las barreras.",
+            "B": "Sólo habría que ampliar las barreras secundarias ya que para un equipo de HDR \ntodas las barreras son primarias.",
+            "C": "Habría que modificar todas las barreras, ya que  la carga de trabajo, factor de \nuso y el factor de ocupación  se mul tiplican por 1000.",
+            "D": "Es imprescindible destruir el laberinto, ya que dificulta el acceso a la sala de \ntratamiento."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta132": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / El interior del bunker de tratamiento de braquiterapia de alta tasa, cuando la fuente \nestá fuera de su alojamiento, se clasifica como:",
+        "opciones": {
+            "A": "Zona d e permanencia limitada, con riesgo de irradiación externa y sin riesgo de \ncontaminación.",
+            "B": "Zona de permanencia limitada, con riesgo de irradiación externa y de \ncontaminación",
+            "C": "Zona de acceso prohibido",
+            "D": "Zona de acceso controlado con riesgo de irradiación externa  y sin riesgo de \ncontaminación."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta133": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / Para el cálculo de la carga de trabajo utilizamos la magnitud S K es el Air Kerma \nStrength dado en unidades U, descrito en las recomendaciones del TG -43 de la \nAAPM, donde 1 U es igual:",
+        "opciones": {
+            "A": "1 μGy m2 h–1",
+            "B": "103 μGy cm2 h–1",
+            "C": "2,78 10-2μGy cm2 s–1",
+            "D": "100 mGy  cm2 h–1"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta134": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / El espesor requerido de un determinado material para obtener la transmisión B se \ndetermina a partir de las curvas de transmisión características, que dependen:",
+        "opciones": {
+            "A": "de cada energía de radiación y del material atenuador.",
+            "B": "de la distancia a la barrera que es está calculando.",
+            "C": "es independiente de cualquier factor, las curvas de transmisión son universales.",
+            "D": "sólo del material del que se trate."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta135": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / Es habitual encontrar las curvas de transmisión tabuladas en función de los \nvalores de la capa hemirreductora (HVL) y décimorreductora (TVL), considerando \npor separado la primera capa décimorreductora (TVL1) de las restantes, \nconsideradas de equilibrio (TVLe), ¿por qué?:",
+        "opciones": {
+            "A": "para tener en cuenta los cambios que se pr oducen en el espectro de radiación a \nmedida que la radiación penetra en la barrera.",
+            "B": "para considerar la degradación del material al incidir la radiación a lo largo del \ntiempo",
+            "C": "para ser conservadores en el cálculo de barreras",
+            "D": "no tiene ninguna trascendencia"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta136": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / La AAPM constituyó el grupo de trabajo TG43 que ha recomendado un nuevo \nformalismo para BT intersticial, formalismo que se ha extendido y en el que \naparecen caracterizados en la literatura las distribuciones de dosis absorbida \nalrededor de las fuentes. Las funciones que aparecen en esta formulación son:",
+        "opciones": {
+            "A": "G(r,q) que es la función de geometría, F(r,q) que es la función de anisotropía y \ng(r) que es la función radial .",
+            "B": "H(r,q) que es la función polar, F(r,q) q ue es la función de anisotropía.",
+            "C": "g(r) que es la función radial, P(r,q) que es la función isotrópica y S(r,q) que es \nla función angular.",
+            "D": "G(r,q) que es la función de geometría , H(r,q) que es la función polar  y P(r,q) que \nes la función isotrópica."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta137": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / El plan de emergencia es un documento general que debe estar adapt ado a las \ncondiciones particulares de cada instalación radiactiva, teniendo en cuenta los \nprocedimientos y tratamientos de cada hospital, los aplicadores utilizados, el \npersonal implicado, etc. Es un punto imprescindible en todo plan de emergencia en \nbraqu iterapia:",
+        "opciones": {
+            "A": "En todo plan de emergencia no es necesario a clara r la línea de autoridad y \nresponsabilidad.",
+            "B": "El plan debe someterse a los simulacros correspondientes que aseguran el \nentrenamiento y conocimiento adecuados del personal involucrado.",
+            "C": "No se notificará n los sucesos e incidentes radiológicos al CSN en instalaciones \nradiactivas.",
+            "D": "Cualquier profesional puede  participar  en una situación de emergencia \nindependientemente que esté entrenado o no."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta138": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / Además el plan de emergencia:",
+        "opciones": {
+            "A": "se ha de presentar cuando se soli cita la autorización reglamentaria de la \ninstalación.",
+            "B": "es un documento interno que no trasciende a la propia instalación radiactiva.",
+            "C": "no debe estar incluido en el plan de emergencia general del edificio .",
+            "D": "no está escrito, se transmite oralmente entre los prof esionales de la instalación."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta139": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / Las trabajadoras expuestas gestantes deberán estar sometidas a una vigilancia \nespecífica, y la principal restricción en su tarea profesional en la unidad de \nbraquiterapia es:",
+        "opciones": {
+            "A": "La trabajadora expuesta gestante no podrá parti cipar en los planes de \nemergencia de la instalación.",
+            "B": "La trabajadora expuesta gestante  realizará su trabajo detrás de una mampara \nde plomo de espesor suficiente para no superar la dosis al feto.",
+            "C": "La trabajadora expuesta gestante  estará suficientemente proteg ida con la \ncolocación de un dosímetro de lectura directa en su abdomen.",
+            "D": "La trabajadora expuesta gestante  no podrá entrar en la instalación de \nbraquiterapia bajo ningún concepto."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta140": {
+        "pregunta": "CASO PRÁCTICO 4 \nEn una instalación de radioterapia se está valorando la introducción de la \nbraquiterapia de alta tasa (HDR) dentro de la cartera de servicios de la unidad de \noncología. Se estudian todas las opciones de la braquiterapia de HDR antes de \ndecidirse por alguna de las posibilidades. \nSe dispone de un bunker vacío de una antigua unidad de teleterapia con Co-60, y \nla primera cuestión que se plantea es adquirir un equipo de HDR con una fuente de \nCo-60 o de Ir-192. / ¿Es aplicable el Real Decreto 1308/2011, sobre protección física de las \ninsta laciones, los materiales nucleares, y de las fuentes radiactivas, a las \ninstalaciones de HDR con una fuente de Ir -192?",
+        "opciones": {
+            "A": "Está dentro de la categoría 2 de fuentes radiactivas y deberán disponer de un \nsistema de protección física, que se describirá en el docum ento Plan de \nprotección física, cuya tramitación se incluirá en la autorización de \nfuncionamiento de la instalación radiactiva",
+            "B": "La actividad de la fuente de Ir -192 es inferior a la  correspondiente a la \ncategoría 3, que señala en RD, pero superior a los lím ites de exención y su \nutilización  deberá quedar garantizada mediante  prácticas de gestión prudente, \nde acuerdo con los criterios que el Consejo de Seguridad  Nuclear",
+            "C": "Sólo es aplicable en teleterapia, t eleterapia multihaz (Gamma Knife)  y \nbraquiterapia con Co -60.",
+            "D": "No es aplicable en instalaciones hospitalarias"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta59": {
+        "pregunta": "Para que en un haz de fotones de megavoltaje se pueda considerar que existe \nequilibrio electrónico completo hay que suponer que:",
+        "opciones": {
+            "A": "El Kerma de colisión es igual al Kerma de radiación",
+            "B": "El Kerma de colisión es mayor al Kerma de radiación",
+            "C": "El Kerma de colisión es menor al Kerma de radiación",
+            "D": "La atenuación del haz de fotones es despreciable en la región de interés"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta115": {
+        "pregunta": "CASO II: \nProcedimiento de declaración y control de una instalación de rayos X de \ndiagnóstico médico. / \nSi la documentación presentada es incompleta, errónea o inexacta, será notificado \nen un plazo de:",
+        "opciones": {
+            "A": "1 mes",
+            "B": "15 días",
+            "C": "20 días",
+            "D": "2 meses"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta54": {
+        "pregunta": ". Con respecto a las radiaciones de alta LET, ¿cuál de las siguientes afirmaciones es \nfalsa?:",
+        "opciones": {
+            "A": "Son poco sensibles al ciclo celular.",
+            "B": "Son poco sensibles al fraccionamiento, siendo susceptibles de administrarse en pocas \nsesiones.",
+            "C": "Son especialmente interesantes en el tratamiento de tumores de rápido crecimiento.",
+            "D": "Están especialmente indicadas en el tratamiento de lesiones mal oxigenadas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta84": {
+        "pregunta": ". De acuerdo con el vigente Reglamento de Instalaciones Nucleares y Radiactivas en su \nmodificación de 2008 (BOE 18.02.2008), el titular de una instalación radiactiva de \nRadioterapia de 2 ª categoría dedicada a Teleterapia con acelerador lineal y Braquiterapia \nde alta tasa con Ir-192, si quiere realizar una modificación en uno de los aceleradores \nexistentes, deberá:",
+        "opciones": {
+            "A": "Comunicarlo al CSN y a la Dirección General de Industria de la Consejería \ncorrespondiente.",
+            "B": "Solicitar directamente una aceptación expresa al CSN.",
+            "C": "La autorización vigente le permite la modificación por no cambiar de categoría la \ninstalación.",
+            "D": "Solicitar una nueva autorización de funcionamiento a través de la Dirección General de \nla Consejería correspondiente."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta134": {
+        "pregunta": ". De acuerdo con el vigente Reglamento de Instalaciones Nucleares y Radiactivas en \nsu modificación de 2008 (BOE 18.02.2008), el titular de una instalación radiactiva de \nRadioterapia de 2 ª categoría dedicada a Teleterapia con acelerador lineal y Braquiterapia \nde alta tasa con Ir-192 que quiera realizar implantes  permanentes de semillas de I-125 \npara tratamientos de próstata, deberá:",
+        "opciones": {
+            "A": "Comunicarlo al CSN y a la Dirección General de Industria de la Consejería \ncorrespondiente.",
+            "B": "Solicitar directamente una aceptación expresa al CSN.",
+            "C": "La autorización vigente le permite la nueva actividad por ser de categoría superior.",
+            "D": "Solicitar una nueva autorización de funcionamiento incluyendo el nuevo radioisótopo a de la \nDirección General de Industria de la Consejería correspondiente."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta95": {
+        "pregunta": "¿Cuál de las siguientes NO es una forma de muerte celular?",
+        "opciones": {
+            "A": "senescencia.",
+            "B": "catástrofe mitótica.",
+            "C": "retraso mitótico.",
+            "D": "apoptosis."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta99": {
+        "pregunta": "Según QUANTEC, en un fraccionamiento estándar nos acercaríamos a un 5% de probabilidad de mielitis para la irradiación de una sección transversal completa de la médula a una dosis de:",
+        "opciones": {
+            "A": "45 Gy.",
+            "B": "50 Gy.",
+            "C": "55 Gy.",
+            "D": "60 Gy."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta45": {
+        "pregunta": "En el modelo lineal cuadrático, en general los tejidos de respuesta rápida presentan:",
+        "opciones": {
+            "A": "Valores del cociente α/β altos, del orden de 10 Gy.",
+            "B": "Valores del cociente α/β bajos, del orden de 3 Gy.",
+            "C": "Valores del cociente α/β intermedios, del orden de 6 Gy.",
+            "D": "El modelo lineal cuadrático no aplica a este tipo de tejidos."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta57": {
+        "pregunta": "Los tumores en los que, según el modelo lineal cuadrático, el hipofraccionamiento sería ventajoso en cuanto a aumento de control para un nivel dado de complicaciones, serían los que tienen:",
+        "opciones": {
+            "A": "Valores del cociente α/β mayores que los de los órganos de riesgo cercanos.",
+            "B": "Valores del cociente α/β menores que los de los de los órganos de riesgo cercanos.",
+            "C": "Valores del cociente α/β del orden de la dosis por fracción a emplear.",
+            "D": "Valores del cociente α/β del orden del cuadrado de la dosis por fracción a emplear."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta047": {
+        "pregunta": "Un contador de centelleo de NaI(TI) tiene una tasa de contaje para fondo(espectro completo) de 200 cpm. La sensibilidad para el contaje del isotopo de 131 para ese contador es de 25 cpm/Bq. ¿Cuál es la mínima actividad detectable de 131I empleando medidas de 2 minutos de contaje?",
+        "opciones": {
+            "A": "0,08 Bq",
+            "B": "1,2 Bq",
+            "C": "8,2 Bq",
+            "D": "15,4 Bq"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta050": {
+        "pregunta": "El Roentgen por segundo, de símbolo R/s, es una unidad antigua y hoy obsoleta de la magnitud tasa de exposición, pues no pertenece al Sistema Internacional de Unidades (SI). ¿Cuál es la unidad de tasa de exposición, en el SI?",
+        "opciones": {
+            "A": "Watio / kilogramo",
+            "B": "Amperio / kilogramo",
+            "C": "Watio / segundo",
+            "D": "Julio / segundo"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta060": {
+        "pregunta": "Los efectos estocásticos se caracterizan por:",
+        "opciones": {
+            "A": "No tener umbral de dosis",
+            "B": "No estar relacionados con la aparición de mutaciones",
+            "C": "La gravedad del efecto depende de la dosis",
+            "D": "Ni la probabilidad ni la gravedad dependen de la dosis"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta061": {
+        "pregunta": "Los efectos estocásticos hereditarios se caracterizan porque:",
+        "opciones": {
+            "A": "Aparecen en la descendencia del individuo irradiado.",
+            "B": "Aparecen en el individuo que ha sufrido la irradiación.",
+            "C": "Se producen tras exposición a dosis altas de radiación.",
+            "D": "Son consecuencia de la muerte de un número elevado de células."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta141": {
+        "pregunta": "Los efectos deterministas se relacionan con:",
+        "opciones": {
+            "A": "La letalidad celular.",
+            "B": "La aparición de cáncer.",
+            "C": "Las mutaciones cromosómicas.",
+            "D": "El desarrollo de células tumorales"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta144": {
+        "pregunta": "El protocolo nacional de control de calidad en gammacámaras planares establece, para la \nprueba de resolución espacial extrínseca: se toma como valor límite de aceptación que el \nancho completo a mitad de altura (ACMA) no sobrepase mas de:",
+        "opciones": {
+            "A": "15% del valor establecido por el fabricante",
+            "B": "7,5 mm.",
+            "C": "5% del valor establecido por el fabricante",
+            "D": "10% del valor establecido por el fabricante"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta8": {
+        "pregunta": "Los efectos deterministas provocados por radiaciones ionizantes se caracterizan porque:",
+        "opciones": {
+            "A": "No tienen umbral de dosis.",
+            "B": "Suelen ocurrir en diagnóstico basado en TC.",
+            "C": "Su gravedad depende de la dosis.",
+            "D": "En radioterapia externa son infrecuentes."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta62": {
+        "pregunta": "Los iones de carbono combinan las propiedades macroscópicas de los protones con las ventajas de los neutrones que tienen mayor LET. Los únicos aceleradores que pueden acelerar los iones de carbono a las energías necesarias para tratar tumores profundos son los:",
+        "opciones": {
+            "A": "Ciclotrones.",
+            "B": "Sincrotrones.",
+            "C": "Aceleradores lineales.",
+            "D": "Betatrones."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta98": {
+        "pregunta": "Los efectos estocásticos se caracterizan por:",
+        "opciones": {
+            "A": "Tener umbral de dosis.",
+            "B": "Aumentar en gravedad con la dosis.",
+            "C": "No tener umbral y aumentar en probabilidad con la dosis.",
+            "D": "Aumentar en número y gravedad con la dosis."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp1_1": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // Según el RD1976/1999 por el que se establecen los criterios de calidad en radiodiagnóstico, la periodicidad con la que se deberán calibrar los equipos de medida de dosis utilizados en los controles de calidad es",
+        "opciones": {
+            "A": "1 año",
+            "B": "2 años",
+            "C": "4 años",
+            "D": "La recomendada por el fabricante."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp1_2": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  La norma en la que se describen los métodos para generar haces de radiación que se encuentran típicamente en laboratorios para la determinación de las características de los equipos de rayos X de diagnóstico médico es: ",
+        "opciones": {
+            "A": "ISO -4037",
+            "B": "IEC-60664",
+            "C": "IEC-61267",
+            "D": "IEC-63186"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp1_3": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //   La cámara tipo lápiz se usa para medidas en equipos de TC con un potencial generador de 120 kV. ¿Cuál de las siguientes calidades se genera con ese mismo kV?:  ",
+        "opciones": {
+            "A": "RQT-5.",
+            "B": "RQT-6.",
+            "C": "RQT-8.",
+            "D": "RQT-9."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp1_4": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //   Las calidades RQT se producen partiendo de la configuración establecida para las RQR e introduciendo una filtración añadida de:   ",
+        "opciones": {
+            "A": "Tungsteno.",
+            "B": "Cobre.",
+            "C": "Tulio.",
+            "D": "Plata."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp1_5": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  El multímetro se usa en el control de calidad de equipos dentales que operan con un potencial generador de 70 kV. ¿Cuál de las siguientes calidades se genera con ese mismo kV?: ",
+        "opciones": {
+            "A": "RQR-3.",
+            "B": "RQR-4.",
+            "C": "RQR-5.",
+            "D": "RQR-6."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp1_6": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //   El coeficiente de homogeneidad para una calidad estándar RQR se define como (siendo CHR la capa hemireductora):  ",
+        "opciones": {
+            "A": "CHR₁ / CHR₂",
+            "B": "(CHR₂ - CHR₁) / CHR₁",
+            "C": "(CHR₂ - CHR₁) / CHR₂",
+            "D": "1 - (CHR₁ / CHR₂)²"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp1_7": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // Del conjunto de calidades definidas en la norma ISO-4037 para radiación X, las utilizadas para la calibración de los equipos de protección radiológica son las de la serie",
+        "opciones": {
+            "A": "Espectro estrecho (N).",
+            "B": "Media tasa de kerma en aire (M).",
+            "C": "Radiación de fosforescencia (P).",
+            "D": "Espectro radiológico (RQR)."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp1_8": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  De las siguientes magnitudes, la más adecuada para realizar la calibración del monitor ambiental es: ",
+        "opciones": {
+            "A": "H*(0,07).",
+            "B": "H*(10).",
+            "C": "H (0,07).  p",
+            "D": "H (10).  p"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp1_9": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  En la calibración del monitor ambiental se utilizará: ",
+        "opciones": {
+            "A": "La esfera ICRU de 30 cm de diámetro.",
+            "B": "El cilindro ICRU de 10 cm de radio.",
+            "C": "El bloque ISO de 30 cm x 30 cm x 10 cm.",
+            "D": "No se usará ningún maniquí ya que se calibra en aire."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp1_10": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  En la calibración de los dosímetros personales de cuerpo completo se utilizará: ",
+        "opciones": {
+            "A": "La esfera ICRU de 30 cm de diámetro.",
+            "B": "El cilindro ICRU de 10 cm de radio.",
+            "C": "El bloque ISO de 30 cm x 30 cm x 15 cm.",
+            "D": "No se usará ningún maniquí ya que se calibra en aire."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp1_11": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  Para la calibración de los dosímetros personales de cuerpo completo en la calidad N-150 el laboratorio decide irradiar simultáneamente varios dosímetros. Para ello, respecto al centro de la cara frontal del maniquí, éstos no cubrirán ninguna superficie del maniquí fuera de un círculo de diámetro",
+        "opciones": {
+            "A": "28 cm.",
+            "B": "24 cm.",
+            "C": "18 cm.",
+            "D": "11 cm."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp1_12": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // Entre las desventajas de un dosímetro de lectura directa respecto a un dosímetro pasivo termoluminiscente está:  ",
+        "opciones": {
+            "A": "La independencia de campos electromagnéticos.",
+            "B": "El riesgo de pérdida de datos por manipulación del usuario.",
+            "C": "La incorporación de molestas alarmas sonoras.",
+            "D": "La ausencia de patrones de calibración."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp1_13": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // El laboratorio realizará un control y registro de las condiciones ambientales de su instalación para: ",
+        "opciones": {
+            "A": "Corregir la lectura de los dosímetros personales por un factor dependiente de la presión y la temperatura.",
+            "B": "Corregir la lectura del multímetro por un factor dependiente de la presión.",
+            "C": "Cumplir con un requisito de la norma UNE-EN ISO/IEC 17025:2017.",
+            "D": "Cumplir con el programa de validación de la instalación."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp1_14": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // En los certificados de calibración, el laboratorio debe indicar: ",
+        "opciones": {
+            "A": "La fecha en la que se realizó la calibración.",
+            "B": "La fecha de impresión del certificado.",
+            "C": "Una descripción detallada del método utilizado.",
+            "D": "Una opinión sobre el ítem de calibración."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp1_15": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 //  Entre los requisitos generales de la norma UNE-EN ISO/IEC 17025:2017 se encuentran:  ",
+        "opciones": {
+            "A": "Imparcialidad y confidencialidad.",
+            "B": "Personal.",
+            "C": "Validación de los métodos.",
+            "D": "Trazabilidad metrológica."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp1_16": {
+        "pregunta": "CASO PRACTICO 1: Un Servicio de Protección Radiológica dispone de los siguientes detectores de radiación ionizante: Cámara de ionización abierta al aire de tipo lápiz. Multímetro para rayos X con detector semiconductor. Monitor de radiación portátil para vigilancia radiológica ambiental con contador geiger. Dosímetros personales de cuerpo completo termoluminiscentes. Y realiza la calibración de los mismos en un laboratorio acreditado que tiene implantado un sistema de gestión de la calidad según la norma UNE-EN ISO/IEC 17025:2017 // El maniquí ISO de bloque es un bloque hecho de",
+        "opciones": {
+            "A": "Paredes de PMMA y relleno de tejido ICRU.",
+            "B": "Paredes de PMMA y relleno de agua.",
+            "C": "PMMA.",
+            "D": "Agua sólida (densidad 1,045 g/cm3)."
+        },
+        "respuesta_correcta": "B"
+    }
+}

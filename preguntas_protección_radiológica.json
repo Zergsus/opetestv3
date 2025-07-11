@@ -1,0 +1,1352 @@
+{
+    "SAS 2023.pdf_pregunta78": {
+        "pregunta": "Según el real decreto 1029/2022, por el que se aprueba el Reglamento sobre \nprotección de la salud contra los riesgos derivados de la exposición a las \nradiaciones ionizantes, el límite de dosis efectiva par a trabajadores expuestos es:",
+        "opciones": {
+            "A": "20 mSv por año oficial",
+            "B": "100 mSv durante un periodo de cinco años consecutivos",
+            "C": "50 mSv anuales",
+            "D": "100 mSv anuales."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta88": {
+        "pregunta": "La magnitud operacional de dosis efectiva para la vigilancia radiológica de la \nexposición al cristalino se define a una profundidad de:",
+        "opciones": {
+            "A": "0.07 mm",
+            "B": "0.7 mm",
+            "C": "10 mm",
+            "D": "3 mm"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta89": {
+        "pregunta": "La ICRP 103 (Recomendaciones 2007 de la Comis ión Internacional de Protección \nRadiológica) introduce las categorías de exposición como:",
+        "opciones": {
+            "A": "Ocupacionales, del público y médica de pacientes",
+            "B": "Ocupacionales y de emergencia",
+            "C": "Planificadas, del público y de emergencia",
+            "D": "Planificadas, ocupacionales y existentes"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta110": {
+        "pregunta": "Si se le asigna dosímetro de cristalino en su historial dosimétrico se incluirán, \nadicio nalmente:",
+        "opciones": {
+            "A": "Las dosis acumuladas en cinco años oficiales",
+            "B": "Las dosis acumuladas en tres años oficiales",
+            "C": "Las dosis acumuladas en diez años oficiales",
+            "D": "No se incluye nada en el historial dosimétrico por dosimetría de cristalino"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta137": {
+        "pregunta": "Durante el tratamiento, el paciente ha estado ingresado en una habitación para \nhospitalización que  debe tener unos blindajes estructurales necesarios para que \nno se superen los límites de dosis legalmente establecidos para los trabajadores \nexpuestos de l a instalación o personas del público que puedan situarse en las \ndiferentes zonas anexas. Los blindajes típicos serán del orden de:",
+        "opciones": {
+            "A": "Entre 2 o 3 cm de hormigón y disponer de mamparas móviles con blindaje equivalente \na 2 cm de plomo.",
+            "B": "Entre 20 o 30 cm de hormigón y disponer de mamparas móviles con blindaje \nequivalente a 5 cm de plomo.",
+            "C": "Entre 2 o 3 cm de hormigón y disponer de mamparas móviles con blindaje equivalente \na 5 cm de plomo.",
+            "D": "Entre 20 o 30 cm de hormigón y disponer de mamparas móviles con blindaje equivalente \na 2 cm de plomo."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta19": {
+        "pregunta": "El dispositivo más apropiado para ser utilizado para estimar de forma individual las \ndosis efectivas recibidas por los profesionales expuestos a las radiaciones ionizantes, es:",
+        "opciones": {
+            "A": "Una cámara plana.",
+            "B": "Una cámara de transmisión.",
+            "C": "Una cámar a Farmer .",
+            "D": "Un dosímetro de termoluminiscencia."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta46": {
+        "pregunta": "El uso de dosímetros individuales será obligatorio:",
+        "opciones": {
+            "A": "En zonas vigiladas .",
+            "B": "En zonas controladas .",
+            "C": "En zonas controladas, si hay riesgo de exposición externa.",
+            "D": "En zonas vigiladas si hay riesgo de contaminación."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta51": {
+        "pregunta": "En protección radiológica, los niveles de referencia se clasifican en:",
+        "opciones": {
+            "A": "De trabajadores y de pacientes .",
+            "B": "Vigila dos y controlados .",
+            "C": "De registro, de investigación y de intervención.",
+            "D": "De radiodiagnóstico y de medicina nuclear ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta100": {
+        "pregunta": "Según el ICRP -103, la magnitud operacional propuesta para monitorizar la dosis \nque un trabajador pudiera recibir en el cristalino sería:",
+        "opciones": {
+            "A": "H´(0.07).",
+            "B": "Hp(3).",
+            "C": "H´(3).",
+            "D": "Hp (0.07) ."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta70": {
+        "pregunta": "Señale  cuál de las siguientes exposiciones NO está incluida e n el ámbito de \naplicación del Real Decreto 601/2019,  sobre justificación y optimización del uso de \nlas radiaciones ionizantes para la protección radiológica de las personas con \nocasión de exposiciones médicas:",
+        "opciones": {
+            "A": "La exposición del público debida al funci onamiento de las instalaciones de uso médico.",
+            "B": "La exposición de las personas cuidadoras .",
+            "C": "La exposición de personas en programas de cribado sanitario.",
+            "D": "La exposición de los trabajadores en la vigilancia periódica de su estado de salud."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta75": {
+        "pregunta": "El documento NCRP -147 sobre diseño de blind ajes en instalaciones de rayos X , \nrecomienda que el factor de ocupación tras las puertas que dan a pasi llos sea de:",
+        "opciones": {
+            "A": "1/20 .",
+            "B": "1/8 .",
+            "C": "1/5 .",
+            "D": "1/10."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta79": {
+        "pregunta": "La principal desventaja de los dosímetros de semiconductor es que su respuesta \npuede variar con:",
+        "opciones": {
+            "A": "La energía, el ángulo de incidencia del haz, la temperatura y  la dosis absorbida \nacumulada.",
+            "B": "La energía, el ángulo de incidencia del haz, la temperatura, pero no la dosis absorbida \nacumulada.",
+            "C": "La energía, el ángulo de incidencia del haz, la dosis absorbida acumulada, pero no con \nla temperatura.",
+            "D": "La energía, la temperatura, la dosis absorbida acumulada, pero no con el ángulo de \nincidencia del haz."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta86": {
+        "pregunta": "Una zona, donde la dosis efectiva anual estimada para trabajador expuesto es de \n7mSv, debe clasificarse como:",
+        "opciones": {
+            "A": "Vigilada .",
+            "B": "Controlada.",
+            "C": "De permanencia limitada.",
+            "D": "De acceso prohibido."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta99": {
+        "pregunta": "Según el Real Decreto 601/2019, los criter ios de justificación de las exposiciones \nmédicas deberán constar en los correspondientes programas de garantía de calidad \nde las Unidades asistenciales de:",
+        "opciones": {
+            "A": "Radioterapia y Medicina Nuclear.",
+            "B": "Radiodiagnóstico, Radioterapia y Medicina Nuclear.",
+            "C": "Radio diagnóstico, Radioterapia y Medicina Nuclear, así como de otras unidades \nasistenciales que realicen procedimientos de radiología intervencionista.",
+            "D": "Radiodiagnóstico, Radioterapia y Medicina Nuclear, así como cualquier otra  unidad \nasistencial que realicen procedimientos donde no estén implicadas las radiaciones \nionizantes."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta104": {
+        "pregunta": "CASO PRÁCTICO 1: \nSe va a poner en marcha una Sala de Radiología Intervencionista, con un equipo cuya \ntensión máxima de pico es de 150 kV. / El programa de Protección Radiológica de una instalación de rayos X con \ndiagnóstico médico,  deberá contemplar , como mínimo:",
+        "opciones": {
+            "A": "Medidas de prevención, control, vigilancia y administrativas .",
+            "B": "Medidas de protección operacional, control dosimétrico y procedimientos de \nemergencia .",
+            "C": "Medidas de control de calidad, dosimetría personal, vigilancia de la salud y de registro \nde actividad.",
+            "D": "Medidas de protección, control dosimétrico personal y ambiental y registro de equipos \nde protección individual."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta105": {
+        "pregunta": "CASO PRÁCTICO 1: \nSe va a poner en marcha una Sala de Radiología Intervencionista, con un equipo cuya \ntensión máxima de pico es de 150 kV. / El Certificado de conformidad que ha de emitir periódicamente el Servicio o Unidad \nTécnica de Protección Radiológica para una instalación de este tipo , se realizará de \nmaner a:",
+        "opciones": {
+            "A": "Bienal .",
+            "B": "Quinquenal .",
+            "C": "Anual .",
+            "D": "Cada 10 años ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta151": {
+        "pregunta": "La ICRP 103 (Recomendaciones 2007 de la Comisión Internacional de Protección \nRadiológica) introduce las situaciones de exposición como :",
+        "opciones": {
+            "A": "Prácticas e intervenciones .",
+            "B": "Normales y de emergencia.",
+            "C": "Planificadas, de emergencia y existentes .",
+            "D": "De trabaj adores, público y pacientes ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta27": {
+        "pregunta": "En el caso de exposición ocupacional, si una mujer está embarazada deben tenerse \nen cuenta controles adicionales para proteger al feto. En el ICRP84 se recoge, de \nmanera conservadora, que el riesgo de cáncer fatal es del",
+        "opciones": {
+            "A": "0.6% por 100 mGy de dosis fetal",
+            "B": "3 % por 100 mGy de dosis fetal",
+            "C": "1% por 50 mGy de dosis fetal",
+            "D": "p0.5% por 50 mGy de dosis fetal"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta41": {
+        "pregunta": "De acuerdo con las recomendaciones recogidas en la ICRP 94, la limitación de \ndosis  para una tercera persona, que no sea la cuidadora, debido a la cercanía con \nun paciente que haya recibido tratamiento con radionúclidos es de",
+        "opciones": {
+            "A": "3 mSv por episodio",
+            "B": "1 mSv por episodio",
+            "C": "0.3 mSv por episodio",
+            "D": "15 mSv por episodio"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta52": {
+        "pregunta": "La dosis efectiva (mSv) para un exploración sencilla de torax de RX \n(posteroanterior) es del orden de:",
+        "opciones": {
+            "A": "0,05.",
+            "B": "0,2.",
+            "C": "1,",
+            "D": "3."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta86": {
+        "pregunta": "Según al ICRP 103 (Recomendaciones 2007 de la Comisión Internacional de \nProtecció n Radiológica), las magnitudes operacionales para la vigilancia \nradiológica de área son:",
+        "opciones": {
+            "A": "La dosis absorbida y el kerma",
+            "B": "La dosis equivalente y la exposición",
+            "C": "H* (10) y H` (0,07)",
+            "D": "Hp (10) y Hp (0,07)"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta87": {
+        "pregunta": "Según al ICRP 103 (Recomendaciones 2007  de la Comisión Internacional de \nProtección Radiológica), los tres tipos de situaciones de exposición son:",
+        "opciones": {
+            "A": "De exposición planificada, de emergencia y existente",
+            "B": "De exposición práctica, de emergencia y existente",
+            "C": "De exposición de emergencia, exist ente y radón",
+            "D": "De exposición existente, de accidente y radón"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta88": {
+        "pregunta": "Según al ICRP 103 (Recomendaciones 2007 de la Comisión Internacional de \nProtección Radiológica), los tres tipos de categorías de exposición son:",
+        "opciones": {
+            "A": "De exposición planificada, de emerge ncia y existente",
+            "B": "Ocupacionales, de emergencia y existentes",
+            "C": "Planificadas y existentes",
+            "D": "Ocupacionales, del público y médicas de pacientes"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta93": {
+        "pregunta": "Las zonas controladas y vigiladas:",
+        "opciones": {
+            "A": "No es necesario que estén delimitadas y señalizadas si su acceso está limitado a \npersonas autorizadas",
+            "B": "Estarán delimitadas y señalizadas y su acceso será limitado a person as autorizadas \nsólo si son vigiladas",
+            "C": "Estarán delimitadas y señalizadas y su acceso será limitado a personas autorizadas",
+            "D": "Estarán delimitadas y señalizadas y su acceso será limitado a personas autorizadas \nsólo si son controladas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta94": {
+        "pregunta": "A efectos de p rotección radiológica, y tras realizar una evaluación previa para \ndeterminar la naturaleza y magnitud del riesgo radiológico para los trabajadores \nexpuestos, el titular de la práctica identificará, delimitará y clasificará todos los \nlugares de trabajo en l os que exista la posibilidad de recibir dosis efectivas \nsuperiores a:",
+        "opciones": {
+            "A": "20 mSv",
+            "B": "6 mSv",
+            "C": "1 mSv",
+            "D": "3 mSv"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta98": {
+        "pregunta": "Protección radiológica del paciente. Se consideran prácticas especiales:",
+        "opciones": {
+            "A": "Las exposiciones médicas en la infancia, las que formen parte de  un programa de \ncribado sanitario o las exploraciones quirúrgicas",
+            "B": "Las exposiciones médicas en la infancia, las que formen parte de un programa de \ncribado sanitario o las que impliquen altas dosis al paciente",
+            "C": "Las que se llevan a cabo bajo la responsab ilidad de médicos, odontólogos o podólogos",
+            "D": "Las que superen los niveles de referencia para el diagnóstico (DRL) de la exploración \ncorrespondiente"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta132": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Se le debe dar información sobre:",
+        "opciones": {
+            "A": "El reglamento de funcionamiento y el plan de emergencia de la instalación",
+            "B": "La forma de declarar la instalación ante la consejería correspondiente",
+            "C": "Los tipos de dosimetría personal",
+            "D": "Los tipos de dosimetría personal"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta133": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Si es mujer en edad de procrear, se le indicará la necesidad de informar de la \nsituación de embarazo a:",
+        "opciones": {
+            "A": "Consejo de Seguridad Nuclear",
+            "B": "Jefe de Protección Radiológica",
+            "C": "Jefe de Servicio de Radiodiagnóstico",
+            "D": "Titular de la práctica"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta134": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Se le informará de:",
+        "opciones": {
+            "A": "Las normas de trabajo de su instalación",
+            "B": "Las normas de uso de los dosímetros personales",
+            "C": "A y b son ciertas",
+            "D": "El resultado de su revisión médica"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta135": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Si se la clasifica de categoría radiológica A, la vigencia de su revisión méd ica será \nde:",
+        "opciones": {
+            "A": "1 mes",
+            "B": "12 meses",
+            "C": "13 meses",
+            "D": "24 meses"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta136": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / En caso de superar el límite de dosis, el titular lo notificará sin demora a:",
+        "opciones": {
+            "A": "El Consejo de Seguridad Nuclear",
+            "B": "Servicio de Prevención que realice las labores de vigilancia de la salud",
+            "C": "El propio trabajador y a la autoridad sanitaria competente",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta137": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / En caso de cambio de empleo, el trabajador deberá aportar copia certificada de su \nhistorial dosimétrico a:",
+        "opciones": {
+            "A": "El Consejo de Seguridad Nuclear",
+            "B": "Al Servicio de Prevención que realice las labores de vigilancia de la salud",
+            "C": "El titular de la instalación",
+            "D": "El jefe de Protección Radiológica"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta138": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Si el trabajador realiza sus funciones en otra instalación, deberá dar cuenta \nexpresa de tal circun stancia a:",
+        "opciones": {
+            "A": "El Consejo de Seguridad Nuclear",
+            "B": "Al Servicio de Prevención que realice las labores de vigilancia de la salud",
+            "C": "El titular de la instalación",
+            "D": "El jefe de Protección Radiológica"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta139": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / El trabajador deberá aportar su acreditación para d irigir instalaciones de \nRadiodiagnóstico de uso médico, cuya duración es de:",
+        "opciones": {
+            "A": "1 año",
+            "B": "5 años",
+            "C": "10 años",
+            "D": "Indefinida"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta140": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / No se le podrá declarar trabajador expuesto de categoría A si el resultado de su \nrevisión médica no es:",
+        "opciones": {
+            "A": "Exclusivamente a pto",
+            "B": "Apto o apto en determinadas condiciones",
+            "C": "No apto",
+            "D": "Apto en determinadas condiciones"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta153": {
+        "pregunta": "En los casos en los que no sea posible la estimación de las dosis de los \ntrabajadores expuestos (por pérdida, deterioro, no recambio del dosímetro, u otros \nmotivos), la asignación de dosis se basará en:",
+        "opciones": {
+            "A": "una estimación realizada a partir de mediciones individuales hechas a otros \ntrabajadores expuestos que hayan desarrollado trabajos similares,",
+            "B": "a partir de los resultados de la vigilancia médica",
+            "C": "a partir de las dosis previas recibidas en actividades similares, haciéndose constar \nexpr esamente este hecho en el historial dosimétrico del trabajador",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta26": {
+        "pregunta": ". El us o del MOSFET como dosímetro se basa en la medida de:",
+        "opciones": {
+            "A": "la corriente generada en la unión metal óxido",
+            "B": "la variación de la tensión umbral",
+            "C": "la carga colectada en el dispositivo",
+            "D": "la señal de radiofrecuencia emitida por el transistor"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta67": {
+        "pregunta": ".  La dosis efectiva está definida como:",
+        "opciones": {
+            "A": "La suma ponderada de las dosis equivalentes de los tejidos",
+            "B": "La suma de las dosis equivalentes de los tejidos",
+            "C": "La suma ponderada  de las dosis absorbidas por los tejidos",
+            "D": "La suma de las dosis absorbidas por los tejidos"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta74": {
+        "pregunta": ". La lectura de los dosímetros de gel de poliacrilamidas se realiza mediante:",
+        "opciones": {
+            "A": "Resonancia magnética.",
+            "B": "Tomografía computarizada.",
+            "C": "Tomografía de emisión de positrones.",
+            "D": "Equipos ecográficos."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta121": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / El factor de ocupación, T, tiene en cuenta el grado de ocupación relativo del lugar \nque se quiere proteger. Representa el tiempo que los individuos que tienen que ser \nprotegidos permanecen en el punto para el qu e se calcula la barrera. Para zonas de \ntrabajo, despachos, consultas, puestos de control y salas de hospitalización su \nvalor es:",
+        "opciones": {
+            "A": "T = 1",
+            "B": "T = 1/4",
+            "C": "T = 1/8 o 1/16",
+            "D": "T=2"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta125": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / Una barrera primaria es aquella en la que:",
+        "opciones": {
+            "A": "Siempre hay detrás personas del público",
+            "B": "Las que encontramos en primer lugar al acceder al acelerador a tr avés del \nlaberinto.",
+            "C": "Es la barrera sobre la que se apoya  el control del acelerador.",
+            "D": "Cualquier pared sobre la que puede incidir la radiación directa."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta31": {
+        "pregunta": "Los dosímetros luminiscentes:",
+        "opciones": {
+            "A": "Presentan la lectura instantánea, no es necesario ningún procesado",
+            "B": "Son útiles en dosimetría postal, utilizándose en programas de auditorias dosimétricas",
+            "C": "Presentan una escasa resolución espacial",
+            "D": "Pueden ser utilizado para la dosimetría de referencia"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta96": {
+        "pregunta": "Las habitaciones para hospitalización de pacientes tratados con I-131 deberán tener \nunos blindajes estructurales necesarios para que no se superen los límites de dosis \nlegalmente establecidos para los trabajadores expuestos de la instalación o \npersonas del público que puedan situarse en las diferentes zonas anexas. Los \nblindajes utilizados son:",
+        "opciones": {
+            "A": "Entre 20 o 30 cm de hormigón como blindaje estructural y mamparas móviles con \nblindaje equivalente a 2 cm de plomo",
+            "B": "Entre 50 o 60 cm de hormigón como blindaje estructural y mamparas móviles de 2 mm \nde plomo",
+            "C": "Entre 20 o 30 mm de hormigón como blindaje estructural y mamparas móviles de 2 \nmm de plomo",
+            "D": "Entre 20 o 30 cm de hormigón como blindaje estructural y mamparas móviles de 2 mm de plomo"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta101": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nLa carga de trabajo semanal, W:",
+        "opciones": {
+            "A": "Nos la proporcionará la casa comercial que nos vende el equipo",
+            "B": "La podremos obtener de tablas que existen en la bibliografía",
+            "C": "La podremos calcular sabiendo el número de pacientes aproximado y las \ncaracterísticas de las exploraciones",
+            "D": "Son ciertas b y c"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta102": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nEl factor de uso, U:",
+        "opciones": {
+            "A": "Nos lo proporcionará la casa comercial que nos vende el equipo",
+            "B": "Hace referencia a lo usado que está el equipo al instalarlo, por lo que vale 0 si el \nequipo es nuevo",
+            "C": "Suele ser 1 para el suelo y ¼ para las paredes",
+            "D": "Suele ser ½ para paredes secundarias"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta103": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nEl factor de ocupación, T:",
+        "opciones": {
+            "A": "Nos lo proporcionará la casa comercial que vende el equipo",
+            "B": "Se toma 1 para zonas ocupadas por personal expuesto",
+            "C": "Se toma 1 para zonas ocupadas por público",
+            "D": "Se mide en horas"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta104": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nSi el producto de U por T es muy pequeño, se recomienda:",
+        "opciones": {
+            "A": "Tomar para el producto el valor 0.1",
+            "B": "Tomar para el producto el valor más pequeño de los dos",
+            "C": "Tomar para el producto el valor mayor de los dos",
+            "D": "Tomar para el producto el valor 1"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta105": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nCalculamos el término fuente como:",
+        "opciones": {
+            "A": "El producto del rendimiento por la carga y por el factor de uso, ·W·U",
+            "B": "El producto del rendimiento por la carga y por el factor de ocupación, ·W·T",
+            "C": "El producto del rendimiento por la carga, ·W·",
+            "D": "El punto donde se encuentra el foco emisor"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta106": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nSi la barrera a calcular es secundaria:",
+        "opciones": {
+            "A": "El factor de uso es siempre ½",
+            "B": "Radiación dispersa y fuga suelen tener un valor similar, por lo que solamente se \ncalcula una de las dos",
+            "C": "Se calcula como si fuera primaria, lo que es un factor optimizante",
+            "D": "El espesor de la radiación dispersa y fuga se calculan por separado y luego se \ncomparan"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta108": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nPara obtener el espesor de plomo necesario utilizamos el:",
+        "opciones": {
+            "A": "El factor de atenuación sólo si la barrera es primaria",
+            "B": "El factor de atenuación",
+            "C": "El cociente del límite de dosis del personal a proteger y el término fuente",
+            "D": "El cociente del factor de uso y el de ocupación"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta109": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nUsualmente, como factor optimizante de cálculo:",
+        "opciones": {
+            "A": "Al espesor obtenido lo multiplicaremos por dos",
+            "B": "Al espesor obtenido le sumaremos una capa hemirreductora",
+            "C": "Usaremos restricciones de dosis",
+            "D": "Usaremos valores adecuados para que el blindaje no sea excesivamente caro"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta110": {
+        "pregunta": "CASO I: \nTenemos que calcular los blindajes de una sala de rayos X. Disponemos de plano y \nde los datos de las dependencias contiguas a la sala. / \nSi la pared de cálculo es el techo:",
+        "opciones": {
+            "A": "Se calculará su equivalente para descontarlo del cálculo, pudiendo incluso ser superior \nal espesor calculado",
+            "B": "El espesor de hormigón habitual en los techos hace innecesario su blindaje con plomo",
+            "C": "Si es de bovedilla hueca, no se considera y se desprecia su espesor equivalente",
+            "D": "No necesita blindarse pues nunca se dispara contra el techo"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta129": {
+        "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / ¿Será suficiente para el personal expuesto o habrá que reforzar el blindaje? (el \nlímite operacional que vamos a utilizar es 3/10 del límite anual de dosis y el tiempo \nestimado de permanencia en esta zona: 1/4 del tiempo total de trabajo, unas 625 \nhoras/año):",
+        "opciones": {
+            "A": "La dosis anual en ese puesto de trabajo es de 0.173 mSv/año, es suficiente la \nmampara utilizada",
+            "B": "La dosis anual en ese puesto de trabajo es de 1.73·10-3 mSv/año, es suficiente la \nprotección de la mampara",
+            "C": "La dosis anual en ese puesto de trabajo es de 17.3 mSv/año, habría que aumentar el \nespesor de la mampara utilizada",
+            "D": "La dosis anual en ese puesto de trabajo es de 0.086 mSv/año, es suficiente la \nmampara utilizada"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta151": {
+        "pregunta": "La optimización basada en la dosis equivalente uniforme (EUD) ha demostrado \nproporcionar igual o superior cubrimiento del blanco que la basada en limitaciones \ndosis-volumen, sin embargo:",
+        "opciones": {
+            "A": "No hay diferencia en la distribución en los órganos de riesgo",
+            "B": "Proporciona una mejor distribución de dosis en los órganos de riesgo",
+            "C": "Proporciona una peor distribución de dosis en los órganos de riesgo",
+            "D": "Nunca obtiene el mismo DVH"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta20": {
+        "pregunta": ". Según la publicación Nº 103 de la Comisión Internacional para la \nProtección Radiológica (ICRP), la dosis efectiva es una magnitud:",
+        "opciones": {
+            "A": "Medible y sirve para estimar el riesgo individual de un \npaciente sometido a una exploración radiológica.",
+            "B": "No medible y sirve para estimar el riesgo individual de un \npaciente sometido a una exploración radiológica.",
+            "C": "No medible y no se debe emplear para estimar el riesgo \nindividual de un paciente sometido a una exploración \nradiológica.",
+            "D": "Medible y su unidad es el Sievert."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta26": {
+        "pregunta": ". ¿Cuáles son las categorías de exposición que establece la publicación \nNº 103 de la Comisión Internacional para la Protección Radiológica \n(ICRP)?",
+        "opciones": {
+            "A": "Exposición ocupacional, al público y potenciales.",
+            "B": "Exposición planificada, médicas a pacientes y existentes.",
+            "C": "Exposición potenciales, planificadas y existentes.",
+            "D": "Exposición ocupacional, al público y médicas a pacientes."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta32": {
+        "pregunta": ". Una operadora que trabaja en un servicio de oncología radioterápica \ndeclara su embarazo. La recomendación desde el punto de vista de \nprotección radiológica a partir de ese momento será:",
+        "opciones": {
+            "A": "Que se le conceda una baja por riesgo para el feto .",
+            "B": "Que se la reubique en un puesto de trabajo que no implique \ncontacto con las radiaciones ionizant es.",
+            "C": "Que se la reubique en actividades de simulación donde los \nniveles de dosis ocupacionales son más bajos .",
+            "D": "Que se la aparte de actividades de braquiterapia manual."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta34": {
+        "pregunta": ". ¿Cuál es el valor objetivo establecido en el informe NCRP 151, para \nel diseño de blindajes en una zona controlada?",
+        "opciones": {
+            "A": "1 mSv/año.",
+            "B": "0,02 mSv/año.",
+            "C": "0,4 mSv/semana.",
+            "D": "0,1 mSv/semana."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta52": {
+        "pregunta": ". Siguiendo la metodología del informe NCRP -151, en el diseño del \nblindaje de una barrera primaria para fotones de energía nominal \nde 6MV, se calcula que la transmisión que debe tener una barrera \nprimaria es de 10-5. Si empleamos hormigón convencional, ¿Cuál \nresulta ser su espesor mínimo suficiente? (NCRP151 -TABLE B.2 —\nPrimary -barrie r TVLs for ordinary concrete (2, 35 g cm–3): Energy \n6MV; TVL 1=37c m, TVL e=33cm):",
+        "opciones": {
+            "A": "165 cm.",
+            "B": "169 cm.",
+            "C": "185 cm.",
+            "D": "175 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta54": {
+        "pregunta": ". El Foro sobre Protección Radiológica en el medio sanitario, en su \ndocumento sobre criterios de alta de pacientes y medidas de \nprotección del público después de tratamientos metabólicos con I -\n131, adopta los niveles propuestos en la publicación nº63 de Safety \nReports Series de la OIEA, con un valor de restricción de dosis para \nuna tercera persona (no cuidador) de:",
+        "opciones": {
+            "A": "0,3 mSv/ tratamiento.",
+            "B": "1 mSv/año.",
+            "C": "0,5 mSv/año.",
+            "D": "5 mSv/año."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta1": {
+        "pregunta": ". Disponemos de un dosímetro de área colocado en un pasillo con habitaciones de \ntratamientos metabólicos que registra una tasa de exposición de 7 mR/min. ¿Cuál es su \nequivalente en unidades del sistema internacional? (R: Roentgen):",
+        "opciones": {
+            "A": "0,06132 mGy/min.",
+            "B": "0,006132 mGy/min.",
+            "C": "0,6132 mGy/min.",
+            "D": "6,132 mGy/min."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta10": {
+        "pregunta": ". ¿Cuáles son las categorías de exposición que establece la ICRP N º 103?:",
+        "opciones": {
+            "A": "Exposición ocupacional, al público y potenciales.",
+            "B": "Exposición planificada, médicas a pacientes y existentes.",
+            "C": "Exposición potenciales, planificadas y existentes.",
+            "D": "Exposición ocupacional, al público y médicas a pacientes."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta40": {
+        "pregunta": ". El Foro sobre Protección Radiológica en el medio sanitario (CSN/SEPR/SEFM octubre \n2011), en su documento sobre criterios de alta de pacientes y medidas de protección del \npúblico después de tratamientos metabólicos con I-131, se adoptan los niveles \npropuestos en la publicación n º63 de Safety Reports Series de la IAEA, con un valor de \nrestricción de dosis para una tercera persona (no cuidador) de:",
+        "opciones": {
+            "A": "Una fracción del límite de dosis para público 0,3 mSv/ tratamiento.",
+            "B": "1 mSv/año.",
+            "C": "0,5 mSv/año.",
+            "D": "5 mSv/año."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta61": {
+        "pregunta": ". En el sistema de registro de indicadores dosimétricos del SMS se dispone de los \nvalores de CTDIvol, SSDE y DLP de un TC de abdomen con contraste. Si para estimar la \ndosis efectiva utilizamos los factores k de conversión habituales (por ejemplo, los del \nAAPM Report 96), ¿por cuál de las siguientes magnitudes deberíamos multiplicar el factor \nk?:",
+        "opciones": {
+            "A": "CTDIvol.",
+            "B": "SSDE.",
+            "C": "DLP.",
+            "D": "DLP.SSDE.CTDIvol-1."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta63": {
+        "pregunta": ". El diseño y blindajes de un puesto de control de un TAC debe ser tal que esa zona sea \nclasificada como:",
+        "opciones": {
+            "A": "Zona de libre acceso.",
+            "B": "Zona vigilada.",
+            "C": "Zona controlada.",
+            "D": "Zona de permanencia limitada."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta68": {
+        "pregunta": ". Según la ICRP-103, la dosis efectiva es una magnitud:",
+        "opciones": {
+            "A": "Medible y sirve para estimar el riesgo de un paciente sometido a una exploración \nradiológica.",
+            "B": "No medible y sirve para estimar el riesgo individual de un paciente sometido a una \nexploración radiológica.",
+            "C": "No medible y no se debe emplear para estimar el riesgo individual de un paciente \nsometido a una exploración radiológica.",
+            "D": "Medible y su unidad es el Sievert."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta76": {
+        "pregunta": ". La ICRP en su publicación 103 establece un sistema para las restricciones de dosis \nrelacionadas con la fuente y los niveles de referencia, con ejemplos de restricciones para \ntrabajadores y el público debidas a una única fuente dominante para todas las \nsituaciones de exposición que puedan ser controladas. Define las bandas de \nrestricciones y niveles de referencia (mSv) siguientes:",
+        "opciones": {
+            "A": "Mayor de 20 a 100; mayor de 1 a 20; 1 o menos.",
+            "B": "Mayor de 100; entre 100 y 10; entre 10 y 1; menor de 1.",
+            "C": "Mayor de 100; entre 100 y 20; entre 20 y 10; menor de 10.",
+            "D": "Mayor de 150; entre 150 y 50; entre 50 y 10; menor de 10."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta95": {
+        "pregunta": ". Según la ICRP-103, para la vigilancia dosimétrica de área en un área vigilada de un \nservicio de radiología, la magnitud empleada es:",
+        "opciones": {
+            "A": "La dosis absorbida en Grays.",
+            "B": "La dosis efectiva en Sieverts.",
+            "C": "La dosis equivalente ambiental, H*(10).",
+            "D": "La dosis equivalente ambiental, H*(20)."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta101": {
+        "pregunta": ". Los factores de ponderación de los tejidos y órganos para el cálculo de la dosis \nefectiva E(mSv) recomendados por ICRP 103, son para cada uno:",
+        "opciones": {
+            "A": "Para medula ósea, colon, pulmón, cerebro, mama, wT= 0,12.",
+            "B": "Para vejiga, esófago, hígado, tiroides, wT= 0,04.",
+            "C": "Para superficie del hueso, cerebro, glándulas salivales, piel, wT= 0,01.",
+            "D": "Todas son ciertas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta108": {
+        "pregunta": ". ¿Cuál es el mínimo espesor de plomo necesario para bloquear más del 95% de la \ndosis en un haz \nde electrones de 8 MeV?:",
+        "opciones": {
+            "A": "5 mm.",
+            "B": "3 mm.",
+            "C": "2 mm.",
+            "D": "4 mm."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta112": {
+        "pregunta": ". Queremos conformar un campo de electrones con un inserto de cerrobén anclado a \nun aplicador cuadrado 6 x 6. Se ha calculado que el espesor de plomo necesario para una \natenuación superior al 98% es de 4.5 mm. ¿Cuál es el espesor equivalente de cerrobén \npara mantener estas especificaciones?:",
+        "opciones": {
+            "A": "5.4 mm.",
+            "B": "4.95 mm.",
+            "C": "4.5 mm.",
+            "D": "4.725 mm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta113": {
+        "pregunta": ". Se define la magnitud E(τ), dosis efectiva comprometida, (committed effective dose, \nE(τ)), por la expresión: E(τ) = ΣTwT. HT(τ) en la que HT(τ) es la dosis equivalente \ncomprometida al tejido u órgano T a lo largo del período de integración τ transcurrido \ndesde la incorporación de las sustancias radiactivas y wT el factor de ponderación de un \ntejido correspondiente al tejido u órgano T. Cuando no se especifique τ, se considerará \nque su valor es:",
+        "opciones": {
+            "A": "50 años en adultos y 70 años en niños.",
+            "B": "60 años.",
+            "C": "70 años.",
+            "D": "Toda la vida."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta131": {
+        "pregunta": ". La ICRP recomienda en su publicación n º 84 dedicada al embarazo e irradiación \nmédica, señala que en los tratamientos de RT en pacientes embarazadas una mayoría de \nOncólogos Radioterápicos recomiendan retrasar el embarazo entre 1 y 2 años tras la \nfinalización del tratamiento por:",
+        "opciones": {
+            "A": "Los riesgos potenciales de la radiación.",
+            "B": "La gran cantidad de mutaciones acumuladas en las gónadas.",
+            "C": "El riesgo de recidiva tumoral que podría necesitar más terapia.",
+            "D": "El efecto bystander provocado por la radiación sobre las gónadas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta138": {
+        "pregunta": ". Según la ICRP-84, Embarazo e irradiación médica, ¿a partir de qué dosis fetales se \npuede producir una disminución medible del coeficiente de inteligencia?:",
+        "opciones": {
+            "A": "100 mGy.",
+            "B": "500 mGy.",
+            "C": "1 Gy.",
+            "D": "5 Gy."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta150": {
+        "pregunta": ". Para el cálculo de la dosis efectiva E(mSv), la ICRP recomienda en su publicación \n103, asignar unfactor de ponderación de wT=0,12 para la media aritmética de las dosis \ndel resto de tejidos y órganos, siguientes:",
+        "opciones": {
+            "A": "Adrenales, región extra torácica (ET), vesícula, corazón, riñones, nódulos linfáticos, \nmúsculo, mucosa oral, páncreas, próstata, intestino delgado, bazo, timo, útero/cérvix.",
+            "B": "Adrenales, región extra torácica (ET), vesícula, corazón, riñones, nódulos linfáticos, \nmúsculo, mucosa oral, glándulas salivales, piel.",
+            "C": "Vejiga, esófago, hígado, tiroides cerebro, glándulas salivales, piel.",
+            "D": "Vejiga, esófago, hígado, tiroides, adrenales, región extra torácica (ET), vesícula, corazón, riñones, \nnódulos linfáticos, músculo, mucosa oral, páncreas, próstata, intestino delgado, bazo, timo, útero/ \ncérvix."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta3": {
+        "pregunta": "Según el real decreto 1029/2022, por el que se aprueba el Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes, el límite de dosis efectiva para trabajadores expuestos es:",
+        "opciones": {
+            "A": "20 mSv por año oficial",
+            "B": "100 mSv durante un periodo de cinco años consecutivos",
+            "C": "50 mSv anuales",
+            "D": "100 mSv anuales"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta15": {
+        "pregunta": "Los filtros de retrodispersión ('blindajes') de los detectores de semiconductor se emplean para metrología de:",
+        "opciones": {
+            "A": "Haces de fotones",
+            "B": "Haces de electrones",
+            "C": "Haces de fotones y de electrones",
+            "D": "Disminuir la corriente de fuga"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta42": {
+        "pregunta": "La protección radiológica tiene por objeto:",
+        "opciones": {
+            "A": "Proteger a todas las personas y los demás seres vivos de los efectos nocivos de las radiaciones ionizantes de origen artificial.",
+            "B": "Proteger a la humanidad en su conjunto, a todos los individuos y los demás seres vivos de los efectos nocivos de las radiaciones ionizantes.",
+            "C": "Proteger a todos los trabajadores profesionalmente expuestos y miembros del público de los efectos nocivos de las radiaciones ionizantes.",
+            "D": "Proteger a la humanidad en su conjunto y a todos los individuos de los efectos nocivos de las radiaciones ionizantes de origen artificial."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta20": {
+        "pregunta": "La Comisión Internacional de Protección Radiológica (ICRP) se denomina así desde 1950 pero se creó con el nombre de:",
+        "opciones": {
+            "A": "comité Británico de Protección de Rayos X y el Radio.",
+            "B": "comisión Internacional de Protección de Rayos X.",
+            "C": "comisión Internacional de Protección frente al Radio.",
+            "D": "comité Internacional de Protección de Rayos X y el Radio."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta124": {
+        "pregunta": "El Sistema de Protección Radiológica se basa en los siguientes principios:",
+        "opciones": {
+            "A": "justificación, optimización y limitación.",
+            "B": "distancia, tiempo y blindaje.",
+            "C": "formación de los trabajadores y legislación aplicable.",
+            "D": "limitación de dosis en pacientes, en la medida de lo posible."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta127": {
+        "pregunta": "Se detecta que, en un estudio radiológico de un paciente, la estimación de dosis supera el nivel de referencia reflejado en el Real Decreto 1976/1999, por el que se establecen los criterios de calidad en radiodiagnóstico. ¿Cómo debería actuar el Servicio de Radiofísica y Protección Radiológica en esta situación?",
+        "opciones": {
+            "A": "al haberse superado el nivel de referencia, constituye un suceso notificable al Consejo de Seguridad Nuclear.",
+            "B": "revisar si la técnica empleada en la exploración está suficientemente optimizada.",
+            "C": "el Servicio únicamente es competente en la protección radiológica de los trabajadores, por lo que no debe actuar.",
+            "D": "se analizará como un incidente de seguridad del paciente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta138": {
+        "pregunta": "¿Cuál de los siguientes es el material de blindaje necesario para un vial con Y-90?",
+        "opciones": {
+            "A": "plomo.",
+            "B": "acero.",
+            "C": "metacrilato.",
+            "D": "tungsteno."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta148": {
+        "pregunta": "El titular de un centro sanitario propondrá como jefe del Servicio de Protección Radiológica:",
+        "opciones": {
+            "A": "en un centro privado, a quien libremente designe, siempre que supere el examen específico.",
+            "B": "a un especialista en radiofísica hospitalaria, en todo caso.",
+            "C": "en ausencia de especialistas en radiofísica hospitalaria, a un especialista en Medicina Nuclear, siempre que esté debidamente justificado.",
+            "D": "cualquier graduado o licenciado que supere el examen específico."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta149": {
+        "pregunta": "El reconocimiento como técnico experto en protección radiológica:",
+        "opciones": {
+            "A": "se obtiene automáticamente tras la superación del examen específico del Consejo de Seguridad Nuclear.",
+            "B": "para su obtención, el nivel formativo mínimo requerido es el de Educación Primaria o equivalente.",
+            "C": "se expide de forma automática por el Consejo de Seguridad Nuclear a los técnicos superiores especialistas en Radiodiagnóstico, o en Diagnóstico por la Imagen.",
+            "D": "será certificado por el jefe del Servicio de Protección Radiológica."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta150": {
+        "pregunta": "En un centro hospitalario, el titular estará obligado a dotarse de un Servicio de Protección Radiológica propio:",
+        "opciones": {
+            "A": "siempre que disponga, al menos, de una instalación de medicina nuclear y otra de radiodiagnóstico, en la que se realicen procedimientos intervencionistas.",
+            "B": "siempre que disponga, al menos, de una instalación de radioterapia y otra de radiodiagnóstico.",
+            "C": "siempre que disponga de, al menos, una instalación de radioterapia, otra de medicina nuclear y otra de radiodiagnóstico.",
+            "D": "son falsas todas las anteriores."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta2": {
+        "pregunta": "Para propósitos de protección radiológica y en el rango de bajas dosis absorbidas (10 mSv-0,1 mSv), las recomendaciones de la ICRP se basan en una:",
+        "opciones": {
+            "A": "Relación dosis-respuesta lineal cuadrática.",
+            "B": "Relación dosis-respuesta con efecto hormesis.",
+            "C": "Relación dosis respuesta lineal con umbral.",
+            "D": "Relación dosis-respuesta lineal sin umbral."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta8": {
+        "pregunta": "Las normas de seguridad básicas para la protección contra los peligros derivados de la exposición ocupacional a radiaciones ionizantes se establecen en:",
+        "opciones": {
+            "A": "El Real Decreto 1440/2010.",
+            "B": "Las Instrucciones del Consejo de Seguridad Nuclear, puesto que son normas técnicas vinculantes.",
+            "C": "El Real Decreto 783/2001.",
+            "D": "Las recomendaciones de la Comisión Internacional de Protección Radiológica ICRP Publication 103."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta32": {
+        "pregunta": "La guía 109, de protección radiológica de la UE, aborda la determinación / establecimiento de niveles de referencia en diagnóstico (NRD); en este sentido se plantea fijar un índice de calidad de imagen-dosis; en relación a este índice:",
+        "opciones": {
+            "A": "La superación sistemática de los NRD debería implicar la revisión de los procedimientos diagnósticos o de los equipos empleados.",
+            "B": "La determinación de los niveles de referencia se realiza estableciendo valores de la dosis de entrada en superficie para cada uno de los procedimientos exploratorios.",
+            "C": "Se pretende determinar la calidad del funcionamiento de la cadena de imagen.",
+            "D": "Tiene por objetivo establecer los niveles de dosis al paciente que en caso de superación deberían ser registrados en la historia clínica del paciente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta72": {
+        "pregunta": "Un estudiante de 17 años se encuentra realizando prácticas académicas en un Laboratorio de Radiaciones en el que es probable que reciba una dosis efectiva comprendida en el intervalo superior a 1 mSv e inferior a 6 mSv por año oficial. Señale la respuesta CORRECTA:",
+        "opciones": {
+            "A": "En el Laboratorio no podrán asignarse tareas a los estudiantes menores de 18 años que pudieran convertirlos en trabajadores expuestos.",
+            "B": "Será obligatorio el uso de dosímetro individual para todo el personal del Laboratorio, incluido el estudiante de prácticas.",
+            "C": "El personal del Laboratorio, INCLUIDO el estudiante de prácticas, será clasificado como trabajadores de categoría B, por lo que la estimación de las dosis que pudieran recibir se hará mediante dosimetría de área.",
+            "D": "El personal del Laboratorio, EXCEPTO el estudiante de prácticas, será clasificado como trabajadores de categoría B, por lo que la estimación de las dosis que pudieran recibir se hará mediante dosimetría de área."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta82": {
+        "pregunta": "Señale la opción FALSA. Son funciones de un Servicio de Protección Radiológica:",
+        "opciones": {
+            "A": "La determinación de los criterios de aceptación y uso de vestuario y equipos de protección respiratoria en zonas con riesgo de contaminación.",
+            "B": "Garantizar que el mantenimiento, verificación y calibración de los sistemas de detección y medida de las radiaciones ionizantes de la instalación se realiza de forma adecuada.",
+            "C": "La determinación del riesgo radiológico inherente a los puestos de trabajo para que se realice la vigilancia y seguimiento médico adecuados.",
+            "D": "La vigilancia dosimétrica del personal expuesto mediante el cálculo de las dosis individuales o colectivas de la instalación."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta88": {
+        "pregunta": "En las exploraciones radiológicas de los pacientes, los principios de protección radiológica que se deben tener en cuenta son:",
+        "opciones": {
+            "A": "Optimización y limitación de dosis.",
+            "B": "Justificación, optimización y limitación de dosis.",
+            "C": "Justificación y optimización.",
+            "D": "Limitación de dosis."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta92": {
+        "pregunta": "La estimación de la dosis efectiva resulta útil como evaluador de riesgo radiológico de una exploración radiológica. En tomografía computarizada, el parámetro que nos permite realizar esta estimación es:",
+        "opciones": {
+            "A": "El índice de dosis CTDI100.",
+            "B": "El índice de dosis ponderado CTDIw.",
+            "C": "El producto dosis longitud DLP.",
+            "D": "La dosis promedio en barrido múltiple (MSAD)."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta101": {
+        "pregunta": "En una instalación de rayos X para diagnóstico médico se produce un suceso radiológico operacional. Durante una exposición médica, un paciente recibe una dosis indebida a causa de un error humano. Tras la investigación preliminar por parte del Jefe del Servicio de Protección Radiológica, ¿debe este incidente ser notificado al Consejo de Seguridad Nuclear en un plazo máximo de 24 horas?",
+        "opciones": {
+            "A": "Sí, puesto que se trata de un suceso notificable incluido en el punto quinto A de la IS-18.",
+            "B": "No, puesto que se trata de un supuesto expresamente excluido de notificación en la IS-18.",
+            "C": "Depende de si el valor de la dosis de radiación recibida por el paciente supera el límite anual de 1 mSv en una única exposición.",
+            "D": "Depende del resultado de la evaluación y de lo que prevea el Plan de Emergencia Interior de la instalación para este tipo de sucesos."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta9_supuesto": {
+        "pregunta": "Una barrera primaria es:",
+        "opciones": {
+            "A": "Aquella en la que siempre hay detrás personas del público.",
+            "B": "La que encontramos en primer lugar al acceder a la sala a través del laberinto.",
+            "C": "La barrera sobre la que se apoya el control del emisor de radiación.",
+            "D": "Cualquier pared sobre la que puede incidir la radiación directa."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta1_supuesto2": {
+        "pregunta": "Definición de dosímetro:",
+        "opciones": {
+            "A": "Aparatos que proporcionan la magnitud exposición.",
+            "B": "Aparato medidor de todo tipo de radiaciones.",
+            "C": "Aparatos utilizados para estimar la dosis equivalente personal debida a una exposición a cuerpo entero.",
+            "D": "Aparatos que proporcionan una lectura, en respuesta a la dosis absorbida, en su volumen sensible."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta2_supuesto2": {
+        "pregunta": "Elija las características más adecuadas para un dosímetro personal:",
+        "opciones": {
+            "A": "Estabilidad en la respuesta – Bajo precio – Usar y tirar.",
+            "B": "Rapidez de respuesta – Sumergible – Tamaño reducido.",
+            "C": "Respuesta homogénea y estable - Equivalencia a tejido- Tamaño y peso reducidos.",
+            "D": "Bajo precio – Bajo consumo de baterías – Usar y tirar."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta5_supuesto2": {
+        "pregunta": "Según la guía de Seguridad del CSN 7.01, para acreditar un adecuado nivel de homogeneidad en cuanto a la respuesta de los dosímetros del SDP, se establecerán factores de corrección de la sensibilidad. En el cálculo de estos factores se tendrá en cuenta lo siguiente:",
+        "opciones": {
+            "A": "La variación en la homogeneidad de la respuesta de la población de dosímetros deberá ser inferior o igual a un 15% en el caso de dosímetros corporales.",
+            "B": "La variación en la homogeneidad de la respuesta de la población de dosímetros deberá ser inferior o igual a un 30% en el caso de dosímetros de extremidades.",
+            "C": "Si se calculan factores individuales de sensibilidad, no se exige límite de variación en la homogeneidad.",
+            "D": "La variación en la homogeneidad de la respuesta de la población de dosímetros deberá ser inferior o igual a un 30% en el caso de dosímetros corporales."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta8_supuesto2": {
+        "pregunta": "¿Qué significa “equivalencia a tejido humano” cuando hablamos de dosímetros?",
+        "opciones": {
+            "A": "Que la composición atómica del material del detector es tal que su número atómico efectivo es similar al del tejido blando humano.",
+            "B": "Que preferiblemente ha de trabajar a 36,5ºC o corregir la medida a temperatura diferente.",
+            "C": "Que no puede ser muy duro o compacto.",
+            "D": "Que el detector no sea dañino y pueda ser utilizado con seguridad."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta11_supuesto2": {
+        "pregunta": "Según la Guía del CSN 7.01, ¿con qué frecuencia se han de calcular los factores de sensibilidad de los dosímetros?",
+        "opciones": {
+            "A": "Al menos una vez cada cuatro años.",
+            "B": "Al menos una vez al año para factores individuales de sensibilidad de los detectores.",
+            "C": "Al menos una vez cada dos años para factores individuales de sensibilidad de los detectores.",
+            "D": "Al menos una vez cada dos años para factores de sensibilidad de los detectores calculados por lotes."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta011": {
+        "pregunta": "Los límites de dosis efectiva vigentes y que aparecen en el Reglamento de protección sanitaria contra las radiaciones ionizantes (2001), son:",
+        "opciones": {
+            "A": "No se recomienda ningún límite para la dosis efectiva",
+            "B": "20 mSv/a para trabajadores y 1 mSv/a para el público (promedio en 5 años consecutivos)",
+            "C": "50 mSv/a para trabajadores y público",
+            "D": "Son establecidos por los servicios de prevención de cada centro"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta035": {
+        "pregunta": "Durante el control de calidad realizado a un equipo de rayos X se realizó un disparo radiográfico, con una técnica de 100 kVp, 30 mA y 4 segundos, sobre un maniquí que simulaba un paciente. Se midió durante el disparo una tasa de dosis a 100 cm del maniquí de 60 microGy/min. Si la carga de trabajo en esta sala es de 400 mAmin/sem, un profesional que no es trabajador expuesto a radiaciones que trabajase toda la jornada laboral a 4 metros sin ningún tipo de blindaje estructural durante todo el año (48 semanas de trabajo al año):",
+        "opciones": {
+            "A": "No se puede trabajar con un equipo de rayos X sin blindajes estructurales",
+            "B": "Superaría los limites establecidos",
+            "C": "No superaría los límites establecidos pero no es una situación aceptable desde el punto de vista de la protección radiológica.",
+            "D": "Es imposible que un equipo de rayos X tenga ese rendimiento"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta039": {
+        "pregunta": "La dosis efectiva fue desarrollada para tener en cuenta",
+        "opciones": {
+            "A": "Diferencias en la sensitividad de los órganos y dosis en los mismos",
+            "B": "Las diferencias de sensitividad a la radiación de diferentes individuos",
+            "C": "El efecto biológicos de los diferentes tipos de radiación",
+            "D": "La dependencia de los mecanismos de reparación con la tasa de dosis"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta070": {
+        "pregunta": "Al presentarse una situación en que se incumplan las normas de protección radiológica en \nuna  instalación  radiactiva  el  responsable  de  protección  radiológica  está  obligado \nprioritariamente a:",
+        "opciones": {
+            "A": "Comunicar el incidente al Consejo de Seguridad Nuclear",
+            "B": "Informar al Director del hospital como titular responsable de la  instalación.",
+            "C": "Interrumpir inmediatamente el trabajo en la instalación.",
+            "D": "Informar al personal de los riesgos adicionales existentes."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta076": {
+        "pregunta": "De acuerdo con el RD sobre justificación del uso de radiaciones ionizantes en medicina , la inmovilización de los pacientes durante la exploración en Radiodiagnóstico",
+        "opciones": {
+            "A": "Está limitada a sujeciones mecánicas, nunca permanecerá nadie más en la sala que el paciente durante la exploración",
+            "B": "Corresponde a los familiares",
+            "C": "Corresponde siempre a personal profesionalmente expuesto",
+            "D": "Pueden  realizarla  personas  ajenas  a  la  instalación,  pero  siempre  de  forma voluntaria y debidamente informados y protegidos"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta6": {
+        "pregunta": "Las normas de seguridad básicas para la protección contra los peligros derivados de la exposición ocupacional a radiaciones ionizantes las aprueba:",
+        "opciones": {
+            "A": "El Gobierno, a propuesta del Consejo de Seguridad Nuclear.",
+            "B": "El Consejo de Seguridad Nuclear mediante sus Instrucciones, puesto que están emitidas por el único organismo público español competente en materia de seguridad nuclear y protección radiológica.",
+            "C": "Las Comunidades Autónomas, a través de las Consejerías de Industria y Energía, puesto que las instalaciones nucleares y radiactivas se asientan en su ámbito territorial.",
+            "D": "El Consejo de Seguridad Nuclear al implementar las recomendaciones de la Comisión Internacional de Protección Radiológica (ICRP), un organismo internacional independiente dedicado a fomentar el progreso de la ciencia de la protección radiológica para beneficio público."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta17": {
+        "pregunta": "Las recomendaciones técnicas, en materia de seguridad nuclear, protección radiológica y protección física, aprobadas por el Consejo de Seguridad Nuclear se denominan:",
+        "opciones": {
+            "A": "Instrucciones.",
+            "B": "Instrucciones técnicas.",
+            "C": "Guías de Seguridad.",
+            "D": "Circulares."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta25": {
+        "pregunta": "Teniendo en cuenta la naturaleza e importancia de los riesgos radiológicos, las zonas controladas y vigiladas se señalizarán basándose en lo establecido en:",
+        "opciones": {
+            "A": "El apartado 4.1.1, Diseño y clasificación de áreas de trabajo, de la Guía de Seguridad del Consejo de Seguridad Nuclear GS 05-11.",
+            "B": "La norma UNE-73-302.",
+            "C": "El artículo 3, Obligaciones del titular de la unidad asistencial de radiodiagnóstico, del Real Decreto 1976/1999, por el que se establecen los criterios de calidad en radiodiagnóstico.",
+            "D": "El artículo 36, Clasificación de lugares de trabajo, de la Directiva 2013/59/EURATOM del Consejo de la Unión Europea."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta31": {
+        "pregunta": "Según la publicación 84 de la ICRP la dosis absorbida por el embrión/feto por encima de la cual puede haber un aumento de malformaciones es de:",
+        "opciones": {
+            "A": "1 mGy.",
+            "B": "20 mGy.",
+            "C": "50 mGy.",
+            "D": "100 mGy."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta59": {
+        "pregunta": "Los lugares de trabajo serán clasificados por zonas en función del riesgo de exposición y teniendo en cuenta la probabilidad y magnitud de las exposiciones potenciales. Así, una zona en la que exista la posibilidad de recibir una dosis efectiva de hasta 2 mSv por año, se señalizará como:",
+        "opciones": {
+            "A": "Zona vigilada.",
+            "B": "Zona de permanencia limitada.",
+            "C": "Zona de permanencia reglamentada.",
+            "D": "Zona de acceso prohibido."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta64": {
+        "pregunta": "Indique la opción FALSA en relación a los niveles de dosis de referencia (DRL), de acuerdo con las recomendaciones de ICRP (Publicación 135):",
+        "opciones": {
+            "A": "Para exploraciones de abdomen se recomienda agrupar los datos de pacientes pediátricos en bandas de pesos.",
+            "B": "Para exploraciones craneales se recomienda agrupar los datos de pacientes pediátricos en bandas de edad.",
+            "C": "Los indicadores de dosis de un paciente individual no se deberían comparar con los DRL nacionales.",
+            "D": "La dosis efectiva es un indicador dosimétrico adecuado para establecer DRLs."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta68": {
+        "pregunta": "Sea un Laboratorio de Radiaciones donde es probable recibir una dosis efectiva comprendida en el intervalo superior a 1 mSv e inferior a 6 mSv por año oficial. ¿Puede un estudiante de 17 años, que debe emplear fuentes, realizar las prácticas necesarias para obtener su título en él?",
+        "opciones": {
+            "A": "No. En el Laboratorio no podrán asignarse tareas a los estudiantes menores de 18 años.",
+            "B": "No, porque el límite de dosis efectiva que es probable recibir supera el valor de 1 mSv por año oficial.",
+            "C": "Sí, siempre que se le informe con carácter previo de las normas, precauciones y procedimientos de protección radiológica que deben adoptar.",
+            "D": "Sí, siempre que se le asigne un dosímetro personal para verificar que no supera el límite de dosis efectiva por año oficial."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta74": {
+        "pregunta": "Los dosímetros de plástico de centelleo:",
+        "opciones": {
+            "A": "Son equivalentes al agua en términos de densidad electrónica.",
+            "B": "No son equivalentes al agua en términos de densidad electrónica.",
+            "C": "Tienen poderes de frenado másico y coeficientes de absorción de energía másicos que se diferencian en más de un 10% de los del agua para las calidades de haces utilizados en radioterapia y radiodiagnóstico.",
+            "D": "En radioterapia y radiodiagnóstico se puede considerar que su respuesta es dependiente de la energía."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta76": {
+        "pregunta": "Se pretende determinar el espesor de una barrera para fotones de baja energía típicos en radiodiagnóstico. La Guía de Seguridad GS 05-11, del CSN, prevé varios métodos para el cálculo del blindaje. Señale el INCORRECTO:",
+        "opciones": {
+            "A": "Calcular la dosis colectiva y el coste del blindaje en sucesivos tanteos para encontrar el valor óptimo entre el beneficio obtenido y el coste.",
+            "B": "Estimar el campo de radiación que existiría de no haber blindaje, fijar un tope para el valor de dosis individual y deducir el espesor necesario para atenuar el campo hasta el tope.",
+            "C": "Utilizar las tablas 1a, 1b y 1c del Apéndice de la GS 05-11 para la hipótesis de partida más frecuente.",
+            "D": "Utilizar espesores normalizados a uno o dos valores para todas las barreras, siempre que las condiciones de trabajo estén dentro de los márgenes habituales."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta84": {
+        "pregunta": "La constante de proporcionalidad entre la dosis absorbida y la lectura del dosímetro es, en términos de trazabilidad:",
+        "opciones": {
+            "A": "Un valor absoluto establecido por el CSN.",
+            "B": "Un valor medido que depende del tipo de dosímetro pero no necesita certificación.",
+            "C": "Un valor que debe obtenerse a partir de una calibración en un laboratorio acreditado.",
+            "D": "Un valor constante para todos los dosímetros del mismo tipo."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta90": {
+        "pregunta": "Según el informe ICRP 103, la dosis efectiva se calcula como:",
+        "opciones": {
+            "A": "La suma ponderada de las dosis absorbidas en cada tejido, teniendo en cuenta el tipo de radiación.",
+            "B": "La media aritmética de las dosis absorbidas en órganos críticos.",
+            "C": "La dosis absorbida total multiplicada por un factor de riesgo global.",
+            "D": "La suma directa de todas las dosis equivalentes a cada órgano sin ponderación por tejidos."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta95": {
+        "pregunta": "Según la normativa vigente, ¿cuál es el límite de dosis efectiva para trabajadores expuestos en un año oficial?",
+        "opciones": {
+            "A": "20 mSv.",
+            "B": "10 mSv.",
+            "C": "50 mSv.",
+            "D": "100 mSv."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta100": {
+        "pregunta": "En protección radiológica, ¿qué magnitud se utiliza como referencia para evaluar la exposición de la población general?",
+        "opciones": {
+            "A": "Dosis absorbida.",
+            "B": "Dosis efectiva.",
+            "C": "Dosis equivalente.",
+            "D": "Dosis colectiva."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta101": {
+        "pregunta": "¿Cuál de los siguientes conceptos se relaciona directamente con la “justificación” en protección radiológica médica?",
+        "opciones": {
+            "A": "Evaluación de riesgos ocupacionales.",
+            "B": "Aplicación del principio ALARA.",
+            "C": "Valoración del beneficio clínico frente al riesgo de exposición.",
+            "D": "Control de calidad en el uso de equipos radiológicos."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta108": {
+        "pregunta": "108. - ¿Qué se entiende por “fading” en los dosímetros de termoluminiscencia?",
+        "opciones": {
+            "A": "Que los picos presentes en la curva se pueden correlacionar con los niveles de energía de las trampas existentes.",
+            "B": "Que la señal termoluminiscente decrece con el tiempo debido a la emisión espontánea a temperatura ambiente.",
+            "C": "Que si se incrementa la dosis absorbida, aparece un comportamiento no lineal antes de llegar a la saturación.",
+            "D": "Que la señal termoluminiscente aumenta con el tiempo debido a la emisión espontánea a temperatura ambiente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp2_1": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con la legislación vigente, ¿cómo clasificaría esta instalación? ",
+        "opciones": {
+            "A": "Instalación radiactiva de 1ª categoría.",
+            "B": "Instalación radiactiva de 3ª categoría.",
+            "C": "Instalación de rayos X de diagnóstico médico de tipo 1.",
+            "D": "Instalación de rayos X de diagnóstico médico de tipo 3."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_2": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con el Real Decreto 1085/2009, antes de su puesta en funcionamiento, la instalación ",
+        "opciones": {
+            "A": "Instalación radiactiva de 1ª categoría.",
+            "B": "Instalación radiactiva de 3ª categoría.",
+            "C": "Instalación de rayos X de diagnóstico médico de tipo 1.",
+            "D": "Instalación de rayos X de diagnóstico médico de tipo 3."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_3": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // ¿Con qué periodicidad deberá la UTPR remitir al titular de la instalación el certificado de conformidad de la instalación cuyo contenido se describe en el Artículo 18 del Real Decreto 1085/2009?  ",
+        "opciones": {
+            "A": "Semestralmente.",
+            "B": "Anualmente.",
+            "C": "Bienalmente.",
+            "D": "Quinquenalmente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp2_4": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // Cuando efectúe el diseño de la sala considerará las recomendaciones de la Guía 5.11 del CSN y del Report No. 147 de la NCRP. De forma orientativa, las cargas de trabajo proporcionadas en estas guías para este tipo de equipos/salas son del orden de",
+        "opciones": {
+            "A": "4 – 10 mA·min/semana.",
+            "B": "20 – 50 mA·min/semana.",
+            "C": "100 – 200 mA·min/semana.",
+            "D": "1200 – 3200 mA·min/semana."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp2_5": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con las recomendaciones del “Report No. 147” de la NCRP, ¿qué barreras de la sala deberían ser consideradas como primarias? ",
+        "opciones": {
+            "A": "El suelo y el techo.",
+            "B": "El techo.",
+            "C": "Las paredes laterales.",
+            "D": "Ninguna, el detector de imagen efectúa esa función."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp2_6": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con la “Guía sobre criterios de protección radiológica operacional para trabajadores expuestos en instalaciones radiactivas en el sector sanitario” de la SEPR y en base a los niveles de dosis esperados en la sala, ¿cómo la señalizaría?  ",
+        "opciones": {
+            "A": "Zona vigilada.",
+            "B": "Zona controlada.",
+            "C": "Zona de permanencia limitada.",
+            "D": "Zona de acceso prohibido."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_7": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // Con el fin de estimar la dosis efectiva de los trabajadores expuestos que están junto al paciente durante las exploraciones radiológicas, en la Publicación 139 de la ICRP se recomienda el uso de:   ",
+        "opciones": {
+            "A": "Un dosímetro debajo del delantal plomado y un dosímetro sobre este delantal.",
+            "B": "Un único dosímetro debajo del delantal plomado.",
+            "C": "Un único dosímetro sobre el delantal plomado.",
+            "D": "La ICRP no considera necesaria la estimación de la dosis efectiva en estos trabajadores por ser despreciables las dosis acumuladas debajo del delantal."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp2_8": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // -La dosis equivalente en cristalino de los trabajadores que están junto al paciente puede reducirse empleando gafas plomadas. En condiciones clínicas, ¿de qué orden de magnitud es el factor de atenuación que proporcionan estas gafas en la dosis equivalente en cristalino?  ",
+        "opciones": {
+            "A": "2 – 10.",
+            "B": "20 – 50.",
+            "C": "50 – 100.",
+            "D": "100 – 200."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp2_9": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // Con el fin de establecer los niveles de dosis de referencia para este equipo y para un protocolo específico, decide registrar los indicadores dosimétricos de un número de pacientes suficientemente elevado. Según las recomendaciones de la ICRP en su Publicación 135, el nivel de dosis de referencia de este equipo y protocolo es: ",
+        "opciones": {
+            "A": "El valor medio.",
+            "B": "La moda.",
+            "C": "La mediana.",
+            "D": "El tercer cuartil."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_10": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // En equipos de fluoroscopia, ¿cuál de las siguientes magnitudes NO se utiliza como indicador sobre el que establecer niveles de referencia? ",
+        "opciones": {
+            "A": "Kerma en el punto de referencia a la entrada del paciente.",
+            "B": "Tiempo de fluoroscopia.",
+            "C": "Número de adquisiciones de cine.",
+            "D": "Dosis efectiva."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_cp2_11": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // Durante las pruebas de aceptación del equipo se deberá comprobar que la distancia mínima del foco a la piel es: ",
+        "opciones": {
+            "A": "≥ 10 cm.",
+            "B": "≥ 20 cm.",
+            "C": "≥ 30 cm.",
+            "D": "≥ 40 cm."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_12": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // -De acuerdo con el protocolo español de control de calidad en radiodiagnóstico (revisión 2011), la relación entre el área del campo de radiación y el área visualizada en la superficie de entrada del detector de imagen no debe ser superior a: ",
+        "opciones": {
+            "A": "1,10.",
+            "B": "1,15.",
+            "C": "1,20.",
+            "D": "1,25."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_cp2_13": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con el protocolo español de control de calidad en radiodiagnóstico (revisión 2011), cuando el equipo trabaja en fluoroscopia en modo normal, los valores máximos de tasa de dosis medidos en la superficie de un maniquí de 20 cm de espesor de PMMA deben ser: ",
+        "opciones": {
+            "A": "≤ 50 mGy/min.",
+            "B": "≤ 100 mGy/min.",
+            "C": "≤ 150 mGy/min.",
+            "D": "≤ 200 mGy/min."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp2_14": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // Los especialistas que realicen procedimientos intervencionistas requieren un segundo nivel de formación en protección radiológica orientado a esta práctica. De acuerdo con la ORDEN SCO/3276/2007, este curso debe estar certificado por: ",
+        "opciones": {
+            "A": "La Dirección General de Recursos Humanos y Servicios Económico-Presupuestarios del Ministerio de Sanidad y Consumo.",
+            "B": "El Consejo de Seguridad Nuclear.",
+            "C": "Un Servicio o Unidad Técnica de Protección Radiológica.",
+            "D": "La Comisión Nacional de Especialistas en Prácticas Intervencionistas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_cp2_15": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // -El número de horas de formación del curso de segundo nivel en protección radiológica orientado a la práctica intervencionista no debe ser inferior a:",
+        "opciones": {
+            "A": "10 h.",
+            "B": "15 h.",
+            "C": "20 h.",
+            "D": "25 h."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_cp2_16": {
+        "pregunta": "CASO PRACTICO 2: En un hospital se está instalando un equipo de radiología intervencionista. El volumen anual de pacientes que se espera es suficientemente alto como para que la dosis equivalente en cristalino de los trabajadores más expuestos pueda superar, a lo largo del año y sin adecuadas medidas de protección, el correspondiente límite de dosis indicado en la Directiva 2013/59/Euratom. Asuma que en la instalación no hay otros equipos emisores de radiación ionizante. Considere que es personal de la Unidad Técnica de Protección Radiológica (UTPR) contratada por el titular de la instalación. Como tal, participará en las fases de asesoramiento, diseño de la sala, clasificación de los trabajadores y zonas, pruebas de aceptación y control de calidad, optimización de las exploraciones radiológicas y formación de los trabajadores expuestos.  // De acuerdo con diferentes guías como la de la “Cardiovascular and Interventional Radiological Society of Europe (CIRSE), se recomienda efectuar un seguimiento del paciente por posibles efectos radioinducidos en piel cuando se supera un determinado nivel de alarma. ¿Cuál es este nivel de alarma en términos del kerma en aire en el punto de referencia? ",
+        "opciones": {
+            "A": "2 Gy.",
+            "B": "5 Gy.",
+            "C": "10 Gy.",
+            "D": "15 Gy."
+        },
+        "respuesta_correcta": "B"
+    }
+}

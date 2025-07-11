@@ -1,0 +1,642 @@
+{
+    "SAS 2023.pdf_pregunta33": {
+        "pregunta": "Para la dosimetría relativa en haces de iones pesados, el documento TRS -398 \nrecomienda el uso de:",
+        "opciones": {
+            "A": "cámaras de ionización cilíndricas en haces pesados con SOBP (Spread out Bragg \nPeak) de anchuras menor o igual que 2 g/cm2 y plano -paralelas para anchuras mayores",
+            "B": "cámaras de ionización cilíndricas o plano -paralelas",
+            "C": "cámaras cilíndricas solamente",
+            "D": "cámaras de ionización plano -paralelas solamente"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta34": {
+        "pregunta": "En un haz de radiación que produce ionización indirecta, s i consideramos un \nvolumen V muy cerca de la fuente, ¿existirá equilibrio de partículas cargadas en V?:",
+        "opciones": {
+            "A": "no, porque la fluencia de energía será no uniforme dentro del volumen V",
+            "B": "no porque se provoca una variación de densidad en el volumen V",
+            "C": "sí habr á equilibrio de partículas cargadas, salvo si la composición atómica del volumen \nV no es homogénea",
+            "D": "sí habrá equilibrio de partículas cargadas,  salvo que exista un campo eléctrico o"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta36": {
+        "pregunta": "En condiciones de equilibrio de partículas cargadas (CPE), la dosis absorbida en \naire es igual al kerma de colisión (Kc), y la relación entre la dosis absorbida y la \nexposición viene d ada por el factor W/e, que representa la energía media requerida \npor unidad de carga de ionización producida. Este factor tiene un valor de:",
+        "opciones": {
+            "A": "33.97 J/C",
+            "B": "2.58 eV/ion",
+            "C": "0.876 J/rad",
+            "D": "1.6*10E -19 J/ion"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta68": {
+        "pregunta": "Los sistemas de dosimetría en el haz de radiación:",
+        "opciones": {
+            "A": "Son aquellos en que el dosímetro se encuentra, cuando realiza su func ión como tal, en \nel interior de un haz de radiación bien definido y de gran tasa de fluencia relativa. En el \námbito hospitalario esto sucede exclusivamente radioterapia.",
+            "B": "Se utilizan para estimar, medir, verificar o asegurar la dosis absorbida impartida a los \npacientes, tanto en radiodiagnóstico como en radioterapia.",
+            "C": "Se utilizan en  vigilancia radiológica de las áreas de trabajo, en las que exista riesgo de \noperar en campos de radiación ionizante, por ejemplo para evaluar blindajes \nestructurales.",
+            "D": "Se  utilizan para la clasificación o desclasificación de elementos posiblemente"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta92": {
+        "pregunta": "La sistemática en el uso de dosímetros e instrumentos utilizados para la dosimetría \nde área:",
+        "opciones": {
+            "A": "Deberá estar sujeta a evaluación del Ministerio de Industria",
+            "B": "Deberá estar a disposición del servicio de  Medicina  Preventiva",
+            "C": "Deberá incluirse en un procedimiento escrito",
+            "D": "No es necesario que conste explícitamente"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta30": {
+        "pregunta": "Las cámaras de ionización presentan algunas características inherentes que dan \nlugar a efecto s que es necesario conocer y evaluar y , si es necesario , corregir con \nellos las medidas efectuadas. Uno de estos es el efecto de la polaridad. Señale la \nFALSA:",
+        "opciones": {
+            "A": "Este efecto depende esencialmente de la geometría y construcción de la cámara y del \ntipo de radiación utilizada.",
+            "B": "Es más importante en el caso de las cámaras plano paralelas y en general en haces de \nelectrones de baja energía.",
+            "C": "En cámaras plano– paralelas y fotones sólo es importante en la región de acumulación \n(“build -up”).",
+            "D": "En cámaras tipo dedal, y en haces de fotones, este efecto no suele ser despreciable, y \nes fundamental evaluarlo utilizando un electrómetro que permita el cambio de polaridad."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta61": {
+        "pregunta": "Según el TRS -398, el uso de las cámaras cilíndricas  en la dosimetría de haces de \nprotones, debe cumplir que:",
+        "opciones": {
+            "A": "Su uso en dosimetría de referencia se limite a haces de protones cuyo alcance re sidual \n(Rres) en la profundidad de referencia sea menor o igual 0.5 g/cm2.",
+            "B": "Sus paredes sean, preferiblemente, de plástico por tener mejor estabilidad a lo largo \ndel tiempo y menor variabilidad entre cámaras del mismo modelo que las de grafito.",
+            "C": "Su diá metro externo no debería ser mayor que la mitad de la anchura del SOBP .",
+            "D": "Su longitud sea aproximadamente igual al tamaño del campo de referencia ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta93": {
+        "pregunta": "El factor S, utilizado para cálculos de dosimetría interna en Medicina Nuclear, \nrepresenta:",
+        "opciones": {
+            "A": "Tasa d e dosis específica por unidad de actividad,  y se expresa habitualmente en \nunidades de Sv/(Bq•s).",
+            "B": "Dosis absorbida por unidad de actividad,  y se expresa habitualm ente en unidades de \nmGy/MBq.",
+            "C": "Tasa de dosis absorbida por unidad de actividad,  y se expresa habitualm ente en \nunidades de Gy/Bq•s.",
+            "D": "Dosis específica por unidad de actividad,  y se expresa habitualmente en unidades de \nmSv/MBq."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta113": {
+        "pregunta": "CASO PRÁCTICO 2: \nSe recibe a un trabajador destinado a una instalación de Medicina Nuclear en el servicio \nde Protección Radiológica (PR). / El trabajador se clasifica como catego ría radiológica A. La dosimetría individual \nexterna,  en condiciones normales, será determinada con una periodicidad:",
+        "opciones": {
+            "A": "De dos meses .",
+            "B": "No superior a un mes .",
+            "C": "Que tenga establecida la empresa encargada de la lectura de los dosímetros .",
+            "D": "Que en cada c aso se establezca."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta114": {
+        "pregunta": "CASO PRÁCTICO 2: \nSe recibe a un trabajador destinado a una instalación de Medicina Nuclear en el servicio \nde Protección Radiológica (PR). / En caso de que sea necesaria la dosimetría interna por riesgo de incorporación de \nradionúclidos, ésta será determinada con una periodicidad:",
+        "opciones": {
+            "A": "De dos meses .",
+            "B": "No superior a un mes .",
+            "C": "Que tenga establecida la empresa encargada de la lectura de los dosímetros .",
+            "D": "Que en cada caso se establezca."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta115": {
+        "pregunta": "CASO PRÁCTICO 2: \nSe recibe a un trabajador destinado a una instalación de Medicina Nuclear en el servicio \nde Protección Radiológica (PR). / Si el trabajador se clasifica como categoría radiológica B , la dosimetría individual \nexterna,  en condiciones normales, podrá ser determinada :",
+        "opciones": {
+            "A": "Con dosímetros de muñeca.",
+            "B": "A partir de la dosimetría realizada en el ambiente de trabajo.",
+            "C": "Por procedimiento dosimétrico de urgencia.",
+            "D": "No es necesaria para trabajadores de esa categoría radiológica."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta153": {
+        "pregunta": "Según el Report 63 de la AAPM sobre dosimetría con películas radiocrómicas, se \nrecomienda que la lectura de estas se realice:",
+        "opciones": {
+            "A": "Inmediatamente después de la irradiación , para evitar la variación de la respuesta de la \npelícula con el cambio, especialmente en las primeras 24 horas",
+            "B": "Transcurridas 12 horas desde la irradiación,  ya que a partir de ese momento la \nrespuesta de las películas es estable y reproducible.",
+            "C": "Como mínimo 24 h después de la irradiación, preferiblemente 48, ya que la respuesta \nde las películas varía con el tiempo, especial mente en las primeras 24 h.",
+            "D": "En cualquier momento después de la irradiación,  ya que la varia ción de la respuesta de \nlas películas con el tiempo es despreciable comparada con el resto de incertidumbres de \nmedida."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta18": {
+        "pregunta": "En dosimetría en terapia con radiofármacos las magnitudes a determinar, para \npoder evaluar la eficacia terapeútica, son la dosis absorbida en el tumor y la dosis \nabsorbida en órganos críticos. De manera común a todos estos tratamientos, el \nórgano que limita la administración de los radiofármacos:",
+        "opciones": {
+            "A": "Los pulmones por la aparición de neumonía",
+            "B": "Los riñones por la aparición de nefritis",
+            "C": "Las góna das por la posible aparición esterilidad permanente o temporal",
+            "D": "La médula roja por la aparición de leucopenia y trombocitopenia"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta117": {
+        "pregunta": "CASO PRACTICO 2: \nSe plantea el tratamiento de un paciente con un tumor neuroendocrino con péptidos \nmarcados con radionúclidos (PRRT), en particular con Lu-177. / Siguiendo  las recomendaciones de 2022 de la EANM para la dosimetría renal en \nestos tratamientos, en el primer ciclo habría que hacer adquisiciones de imagen \nmediante:",
+        "opciones": {
+            "A": "SPECT/CT centrado en el riñón con 4 adquisiciones a las 24, 48, 96 y 168 horas de la \nadministración del tratamiento",
+            "B": "SPECT/CT centrado en el riñón el primer día e imagen planar los días 2, 4 y 7 tras la \nadministración del tratamiento",
+            "C": "Imagen planar con 3 adquisiciones a las 24, 48  y 168 horas tras la administración del \ntratamiento",
+            "D": "SPECT/CT centrado en el riñón con 3 adquisiciones entre el día 1 y 7, tras la \nadministración del tratamiento, con al menos 2 días entre las dos últimas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta125": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / Para haces de electrones de alta energía, si obtenemos un valor R50, ion = 12 \ng/cm2 (pr ofundidad en agua (g/cm2) en la que la corriente de ionización es el 50% \nde su valor máximo). El valor de la profundidad de hemiabsorción en agua para la \ndistribución de dosis en profundidad, R50 será:",
+        "opciones": {
+            "A": "12,34 g/cm2",
+            "B": "11,98 g/cm2",
+            "C": "15,96 g/cm2",
+            "D": "12, 29 g/cm2"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta131": {
+        "pregunta": "CASO PRACTICO 5: \nEn el servicio de Radiofísica y Protección Radiológica se presenta, por primera vez, un \ntrabajador (radiólogo) que inicia su trabajo en la sección de Radiología Intervencionista \ndel servicio de Radiodiagnóstico / Normalmente, teniendo en cuenta los riesgos radiológicos de la instalación a la \nque va a trabajar, se le proveerá de dosimetría personal de:",
+        "opciones": {
+            "A": "Anillo y cristalino",
+            "B": "Solapa, muñeca y cristalino",
+            "C": "Solapa y cristalino",
+            "D": "Muñeca y anillo"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta148": {
+        "pregunta": "CASO PRACTICO 6: \nTenemos que declarar ante la Subdirección General de la Energía una instalación de \nMedicina Nuclear con técnicas de PET. Respecto a la memoria descriptiva de la \ninstalación. / El programa de verificación y calibración de detectores tendrá una periodici dad:",
+        "opciones": {
+            "A": "Anual para las calibraciones y sin superar los 6 años para las verificaciones",
+            "B": "Anual para las calibraciones y sin superar los 5 años para las verificaciones",
+            "C": "Anual para las verificaciones y sin superar los 6 años para las calibraciones",
+            "D": "Qui nquenal para verificaciones y calibraciones"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta19": {
+        "pregunta": ". ¿Cómo sería, aproxi madamente, la respuesta de un detector de silicio con \nrespecto a la de una cámara de ionización en un haz de rayos X, si ambos tuvieran \nel mismo volumen?  Datos: ρ (Si) = 2.33 g/cm3, ρ (aire) = 1.205 kg/ m3, W (Si) = 3 .5 \neV/ion, W (aire) = 35 eV/ion",
+        "opciones": {
+            "A": "del mismo orden si la cámara de ionización se polariza al máximo admisible",
+            "B": "unas 20000 veces mayor",
+            "C": "unas 2000 veces mayor",
+            "D": "unas 200 veces mayor"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta51": {
+        "pregunta": ". Se definen los campos pequeños en el TRS -483, sobre dosimetría de haces de \nfotones en campos pequeños, como:",
+        "opciones": {
+            "A": "Un campo es pequeño si existe pérdida de equilibrio lateral de partículas cargadas en el \neje del haz.",
+            "B": "Un campo es peque ño si el tamaño del detector es muy inferior al tamaño del campo \nque estamos midiendo.",
+            "C": "El tamaño de campo determinado por el perfil sobre el plano isocéntrico infraestima el \ntamaño del campo definido en colimadores.",
+            "D": "Un haz es pequeño cuando se consigue el  equilibrio lateral electrónico en el centro del \ncampo."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta127": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / En las curvas de porcentaje de dosis absorbida en profundidad de haces de \nfotones (PDD) de una misma energía, si representamos distintos tamaños de \ncampos cuadrados de dimensiones entre 4 cm x 4 cm y 40 cm x 40 cm a DFS de 100 \ncm. Se puede ver que:",
+        "opciones": {
+            "A": "la profundidad del máximo se mantiene constante al cambiar la distancia del \nfoco a la superficie del medio y al modificar el tamaño de campo en la \nsuperficie.",
+            "B": "la profundidad del máximo depende, exclusivamente, de la energía del haz de \nfotones.",
+            "C": "la profundidad del máximo, disminuye al aumentar el tamaño del campo, \ndebido a la mayor influencia de la radiación secundaria producida en el sistema \nde colimación, cámaras monitoras, etc.",
+            "D": "en el caso de campos muy pequeños, infer iores a 4 cm x 4 cm, debido a la falta \nde dispersión en el maniquí, la profundidad del máximo se mantiene en la \nmisma posición."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta32": {
+        "pregunta": "Bajo un punto de vista metrológico, un certificado de calibración es de plena \ngarantía cuando señala, entre otras características, las siguientes:",
+        "opciones": {
+            "A": "Aparece también la calibración de los equipos considerados accesorios, como \ntermómetro, barómetro",
+            "B": "Valor del coeficiente de calibración o valor de la magnitud de interés para unas \ncondiciones específicas determinadas y el valor de la incertidumbre asignada, \nseñalando el factor de cobertura utilizado",
+            "C": "La fecha de calibración no tiene que aparecer, no aporta ninguna información",
+            "D": "El patrón nacional o internacional al que son trazables las medidas realizadas con el \npatrón del laboratorio de calibración no es un dato relevante"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta56": {
+        "pregunta": "La dosimetría de área:",
+        "opciones": {
+            "A": "Sirve para clasificar el lugar de trabajo antes de su funcionamiento",
+            "B": "Se usa para todos los trabajadores expuestos",
+            "C": "Tendrá un protocolo escrito sujeto a la evaluación del Ministerio",
+            "D": "Se usa para trabajadores clasificados como categoría A"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta60": {
+        "pregunta": "La corrección del punto efectivo de medida usada en la dosimetría de haces de \nterapia con cámaras cilíndricas se debe a:",
+        "opciones": {
+            "A": "la incertidumbre asociada al posicionamiento de la cámara",
+            "B": "la consideración del espesor de las paredes de la cámara",
+            "C": "la no isotropía del haz de radiación",
+            "D": "la perturbación producida al insertar la cámara en el medio"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta72": {
+        "pregunta": "En un diodo tipo p los responsables de la conductividad eléctrica son:",
+        "opciones": {
+            "A": "Los portadores minoritarios de carga, en este caso electrones",
+            "B": "Los portadores mayoritarios de carga, en este caso electrones",
+            "C": "Los portadores minoritarios de carga, en este caso huecos",
+            "D": "Los portadores mayoritarios de carga, en este caso huecos"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta73": {
+        "pregunta": "La respuesta de un diodo con la temperatura:",
+        "opciones": {
+            "A": "Se corrige del mismo modo que en una cámara de ionización",
+            "B": "En un diodo pre-irradiado suele estar entre 0.35 y 0.40% por ºC",
+            "C": "La respuesta de un diodo no depende de la temperatura",
+            "D": "Es muy acusada, por lo que hay que efectuar calibraciones a cada temperatura"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta77": {
+        "pregunta": "En la dosimetría química",
+        "opciones": {
+            "A": "Se analiza el pH del agua después de la radiación, que resulta proporcional a la dosis",
+            "B": "Se mide la concentración de iones OH",
+            "C": "Se mide el cambio que se produce en la concentración de iones Fe2+ que pasan a \nFe3+",
+            "D": "Se mide el cambio que se produce en la concentración de iones Fe3+ que pasan a \nFe2+"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta21": {
+        "pregunta": ". Según se incluye en el Código de Práctica TRS -398, para fotones de \nalta energía producidos por aceleradores de uso clínico,  ¿Mediante \nqué relación puede obtenerse la TPR 20,10 a partir de datos de \nporcentaje de dosis en profundidad, PDD? (PDD obtenido para un \ntamaño de campo de 10 cm × 10 cm, DFS de 100 cm) :",
+        "opciones": {
+            "A": "TPR 20,10 = –0,7898 + 0,0329 PDD 20,10 – 0,000166 (PDD 20,10)2",
+            "B": "TPR 20,10 = 1,2661 PDD 10 – 0,0595",
+            "C": "TPR 20,10 = 1,2661 PDD 20,10 – 0,0595",
+            "D": "TPR 20,10 = –0,7898 + 0,0329 PDD 10 – 0,000166 PDD 10"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta25": {
+        "pregunta": "Según el protocolo TRS-398, la profundidad de referencia en agua para la calibración de un haz de \nelectrones de calidad 4 g/cm2 es:",
+        "opciones": {
+            "A": "1.0 g/cm2.",
+            "B": "2.3 g/cm2.",
+            "C": "3.2 g/cm2.",
+            "D": "4.5 g/cm2."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta42": {
+        "pregunta": ". En las medidas realizadas con una cámara de ionización abierta para la calibración de \nhaces de radiación, para una determinada exposición, la lectura de la cámara:",
+        "opciones": {
+            "A": "Aumenta conforme aumenta la temperatura o disminuye la presión.",
+            "B": "Aumenta conforme disminuye la temperatura o aumenta la presión.",
+            "C": "No varía porque la masa de aire en la cavidad es constante.",
+            "D": "Ninguna de las anteriores."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta77": {
+        "pregunta": "Según el protocolo TRS-398, la medida de la dosis absorbida en agua en haces de fotones de alta \nenergía con índice de calidad superior a 0.7 se debe realizar:",
+        "opciones": {
+            "A": "En la superficie del agua.",
+            "B": "En el máximo de la curva del porcentaje de dosis en profundidad.",
+            "C": "A 5 cm.",
+            "D": "A 10 cm."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta88": {
+        "pregunta": "La incorrecta recolección de carga en cámaras de ionización por efectos de recombinación \nrequiere el uso de factores de corrección, ks. Según la aproximación propuesta en el código \ndosimétrico IAEA TRS-398, ¿cuál es el valor de ks si con una polarización V1=420 V se recolecta \nuna carga de 210 pC y con una polarización de V2= 140 V se recolecta una carga de 200 pC?:",
+        "opciones": {
+            "A": "1.005",
+            "B": "1.025",
+            "C": "1.015",
+            "D": "1.01"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta34": {
+        "pregunta": "Las cámaras de ionización utilizadas en el sistema monitor de los aceleradores lineales actuales:",
+        "opciones": {
+            "A": "son siempre selladas para no requerir correcciones por presión y temperatura.",
+            "B": "son siempre abiertas y su señal necesita corrección por presión y temperatura.",
+            "C": "en general hay una cámara sellada para haces de electrones y otra abierta para haces de fotones.",
+            "D": "pueden ser abiertas o selladas dependiendo del equipo."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta42": {
+        "pregunta": "Con respecto a las zonas de comportamiento de un detector de ionización gaseosa, ¿cuál sería el orden correcto conforme aumentamos la tensión aplicada entre los electrodos?",
+        "opciones": {
+            "A": "de contador proporcional, de cámara de ionización, de proporcionalidad limitada.",
+            "B": "de cámara de ionización, de contador proporcional, de proporcionalidad limitada.",
+            "C": "de cámara de ionización, de proporcionalidad limitada, de contador proporcional.",
+            "D": "de contador proporcional, de proporcionalidad limitada, de recombinación."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta45": {
+        "pregunta": "Un electrómetro funcionando en modo de integración de corriente, para obtener el valor de la carga generada por radiación ionizante en la cámara de ionización, mide:",
+        "opciones": {
+            "A": "la corriente recolectada que pasa a través de una resistencia a potencial constante e integrándola en el tiempo.",
+            "B": "el voltaje entre los extremos de una resistencia a través de la cual pasa la corriente recolectada e integrándolo en el tiempo.",
+            "C": "el valor de una resistencia a potencial constante por la que pasa la corriente recolectada, e integrándola en el tiempo.",
+            "D": "el voltaje entre los extremos de un condensador en el cual se acumula la carga generada."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta52": {
+        "pregunta": "Para obtener la curva de dosis en profundidad PDD, en haces de electrones, con cámara de ionización plano-paralela y con un anillo de guarda adecuado, es necesario corregir/multiplicar la curva de ionización medida, por:",
+        "opciones": {
+            "A": "la razón de poderes de frenado agua-aire en el máximo.",
+            "B": "la razón de poderes de frenado agua-aire en función de la profundidad.",
+            "C": "la razón de poderes de frenado agua-aire a la profundidad R50.",
+            "D": "para este tipo de cámaras no es necesario corregir la curva de ionización."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta55": {
+        "pregunta": "En el TRS-483 de dosimetría de campos pequeños, el concepto de campo cuadrado equivalente se basa en la equivalencia de:",
+        "opciones": {
+            "A": "las áreas del campo de irradiación.",
+            "B": "la contribución de fotones dispersos.",
+            "C": "la contribución de kerma en aire.",
+            "D": "el radio del círculo equivalente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta67": {
+        "pregunta": "La velocidad de calibración de los ecógrafos es de:",
+        "opciones": {
+            "A": "331 m/s.",
+            "B": "993 m/s.",
+            "C": "1320 m/s.",
+            "D": "1540 m/s."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta11": {
+        "pregunta": "Las recomendaciones de AAPM/ESTRO para la dosimetría clínica con fuentes de alta energía indican como buena práctica en el uso de Monte Carlo [...]",
+        "opciones": {
+            "A": "Uso de un maniquí de agua líquida en condiciones próximas a dispersión completa.",
+            "B": "Se admiten incertidumbres estadísticas del 5% para distancias entre 5 y 10 cm.",
+            "C": "Los tamaños de las casillas deben crecer conforme se aproximan a la fuente.",
+            "D": "Siempre debe considerarse el transporte de electrones."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta24": {
+        "pregunta": "Los Servicios de Dosimetría Personal deberán acreditar un adecuado nivel de homogeneidad en cuanto a la respuesta de los dosímetros con objeto de garantizar la fiabilidad de las lecturas. La variación en la homogeneidad de la respuesta de la población de dosímetros corporales deberá ser inferior o igual a:",
+        "opciones": {
+            "A": "15%.",
+            "B": "20%.",
+            "C": "25%.",
+            "D": "30%."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta38": {
+        "pregunta": "Cuando se pierde la información dosimétrica de un usuario, el Servicio de Dosimetría Personal (SDP) procederá a asignar una dosis correspondiente al período de uso del dosímetro que será:",
+        "opciones": {
+            "A": "En el caso de no recambio del dosímetro por parte del usuario, el SDP asignará una dosis superficial de 40 mSv y una dosis profunda de 2 mSv a partir del tercer mes.",
+            "B": "En caso de irradiación accidental, el Jefe de Protección Radiológica investigará el suceso, documentará las circunstancias en el historial médico y determinará el valor de dosis recibida por el usuario.",
+            "C": "En el caso de dosis superficial, 40 mSv por mes y en el caso de dosis profunda, 2 mSv por mes, salvo que el Jefe de Protección Radiológica justifique documentalmente otros valores.",
+            "D": "En caso de irradiación accidental durante el transporte, se restarán a las dosis registradas en los dosímetros afectados, las dosis que el Consejo de Seguridad Nuclear estime como recibidas durante el mismo."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta65": {
+        "pregunta": "Las recomendaciones de AAPM/ESTRO para la dosimetría clínica con fuentes de alta energía indican que la anisotropía de la fuente debe caracterizarse mediante:",
+        "opciones": {
+            "A": "Función de Anisotropía 1D.",
+            "B": "Constante de Anisotropía.",
+            "C": "Función de Anisotropía 2D.",
+            "D": "La Anisotropía se considera 1 por convenio."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta67": {
+        "pregunta": "En las medidas realizadas con una cámara de ionización abierta para la calibración de haces de radiación, para una determinada exposición, la lectura de la cámara:",
+        "opciones": {
+            "A": "Aumenta conforme aumenta la temperatura o disminuye la presión.",
+            "B": "Aumenta conforme disminuye la temperatura o aumenta la presión.",
+            "C": "No varía porque la masa de aire en la cavidad es constante.",
+            "D": "No varía ni con la temperatura, ni con la presión."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta104": {
+        "pregunta": "Antes de la utilización de una cámara de ionización, para la medida de dosis absorbida de referencia, se deben verificar su repetibilidad, estabilidad y fugas. En cuanto a las fugas, la tolerancia es:",
+        "opciones": {
+            "A": "1% de la carga recogida.",
+            "B": "0.5% de la carga recogida.",
+            "C": "2% de la carga recogida.",
+            "D": "1.5% de la carga recogida."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta15_supuesto": {
+        "pregunta": "Para una instalación acreditada frente a la norma UNE-EN ISO/IEC 17025:2017, dentro de los requisitos relativos a la estructura en un laboratorio de calibración, indicar cuál de las siguientes afirmaciones es FALSA:",
+        "opciones": {
+            "A": "Debe ser una entidad legal o una parte definida de una entidad legal, que es responsable legalmente de sus actividades de laboratorio.",
+            "B": "Debe identificar el personal de la dirección que tiene la responsabilidad general del laboratorio.",
+            "C": "Debe identificar obligatoriamente un responsable técnico y un responsable de calidad.",
+            "D": "Debe definir y documentar el alcance de las actividades del laboratorio que cumplan con esta norma."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta3_supuesto2": {
+        "pregunta": "¿Cuándo puede empezar el Servicio de Dosimetría Externa a proporcionar esos dosímetros a los usuarios?",
+        "opciones": {
+            "A": "Cuando esté autorizado por el Consejo de Seguridad Nuclear, cumpliendo los requisitos técnicos y administrativos correspondientes.",
+            "B": "Una vez adquirido el equipo de dosimetría personal, lectores y dosímetros y se hayan calibrado los lectores y calculado los factores de sensibilidad de los dosímetros.",
+            "C": "Una vez se haya comprobado que se cumple la norma UNE-EN 62387:2016.",
+            "D": "Una vez adquirido el equipo y se controle el manejo del mismo."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta6_supuesto2": {
+        "pregunta": "Cuando se redacte el procedimiento de estimación y verificación periódica de los factores de calibración y conversión de dosis aplicados en la estimación de dosis con el nuevo sistema de dosimetría, se tendrá en cuenta:",
+        "opciones": {
+            "A": "La estimación de los factores de calibración y de conversión de dosis se efectuará al menos una vez al año y siempre tras la sustitución de componentes significativos que afecten al funcionamiento del sistema de lectura.",
+            "B": "Siempre tras la sustitución de componentes significativos que afecten al funcionamiento del sistema de lectura.",
+            "C": "Una vez se haya calibrado el sistema de lectura para la autorización inicial, se verificarán anualmente los factores de calibración y de conversión de dosis.",
+            "D": "La estimación de los factores de calibración y de conversión de dosis se efectuará al menos bianualmente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta7_supuesto2": {
+        "pregunta": "¿Cuál de los siguientes dispositivos para dosimetría de radiaciones es un dosímetro pasivo?",
+        "opciones": {
+            "A": "Contador Geiger.",
+            "B": "Cámara de ionización.",
+            "C": "Dosímetro OSL (Luminiscencia ópticamente estimulada).",
+            "D": "Dosímetro electrónico."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta9_supuesto2": {
+        "pregunta": "¿Qué norma se aplica a toda clase de sistemas dosimétricos pasivos, para dosimetría de cuerpo entero, dosimetría de cristalino y dosimetría de extremidades:",
+        "opciones": {
+            "A": "ISO 14146:2018.",
+            "B": "IEC 62387:2012.",
+            "C": "IEC 61066:1991.",
+            "D": "ISO 12794:2000."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta12_supuesto2": {
+        "pregunta": "Según el Protocolo para la caracterización y calibración de dosímetros de extremidades del CSN de junio de 2010, ¿qué maniquí se ha de utilizar para propósito de calibración de dosímetros de muñeca?",
+        "opciones": {
+            "A": "Maniquí ISO de agua.",
+            "B": "Maniquí ISO en forma de barra.",
+            "C": "Maniquí de PMMA con una longitud de 20 mm.",
+            "D": "Maniquí ISO en forma de columna."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta13_supuesto2": {
+        "pregunta": "Según el Protocolo para la caracterización y calibración de dosímetros de extremidades del CSN de junio de 2010, el número de dosímetros por ensayo para la caracterización del sistema dosimétrico:",
+        "opciones": {
+            "A": "Será un número siempre superior a 10, para obtener una estadística suficiente.",
+            "B": "Será un número arbitrario, siempre que se cumplan los requisitos propuestos en el protocolo con un nivel de confianza del 95%.",
+            "C": "Estará comprendido entre 5 y 20 dependiendo del nivel de confianza pretendido.",
+            "D": "Será un número arbitrario, siempre que se cumplan los requisitos propuestos en el protocolo con un nivel de confianza del 99,5%."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta15_supuesto2": {
+        "pregunta": "En la relación de ensayos que se han de realizar para la caracterización de un sistema de Dosimetría de extremidades, se distinguen los tipo “T” aquellos que solo se hacen en la puesta a punto del sistema y los tipo “Q” que se efectúan siempre que se reciben nuevos grupos de dosímetros. ¿Cuál de los siguientes ensayos es tipo “Q”?",
+        "opciones": {
+            "A": "Linealidad.",
+            "B": "Fondo intrínseco.",
+            "C": "Reproducibilidad.",
+            "D": "Señal residual."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta16_supuesto2": {
+        "pregunta": "Para que un detector sea adecuado para su uso en dosimetría personal de extremidades, para trabajos que impliquen la manipulación de fuentes beta o emisores de positrones, su espesor ha de ser:",
+        "opciones": {
+            "A": "< 0.9 mm.",
+            "B": "> 0.9 mm.",
+            "C": "= 0.9 mm.",
+            "D": "El espesor del detector es indiferente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta026": {
+        "pregunta": "En la dosimetría de pacientes, mediante termoluminiscencia, se emplea los dosímetros LiF:Mg:Ti (TLD-100), porque:",
+        "opciones": {
+            "A": "No es tóxico.",
+            "B": "Tiene una respuesta estable para energías de Rx, MN y RT.",
+            "C": "Tiene un decaimiento próximo a cero.",
+            "D": "La a), la b) y la c) son correctas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta031": {
+        "pregunta": "En la verificación de la calibración de una fuente de alta tasa:",
+        "opciones": {
+            "A": "Siempre se emplea una cámara cilíndrica",
+            "B": "Siempre se emplea una cámara pozo",
+            "C": "Se pueden emplear cámaras cilíndricas o cámaras pozo",
+            "D": "Ya vienen calibradas con un certificado oficial y no hace falta verificarlas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta043": {
+        "pregunta": "En la dosimetría de pacientes, mediante película radiocrómica, su utilidad es:",
+        "opciones": {
+            "A": "Su revelado es independiente de los líquidos.",
+            "B": "Permite la exposición a altos valores de dosis.",
+            "C": "Se pueden emplear equipos de lectura.",
+            "D": "La a), la b) y la c) son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta057": {
+        "pregunta": "Siguiendo las recomendaciones del TRS-398, la profundidad de medida para determinar la dosis absorbida para haces de electrones, será:",
+        "opciones": {
+            "A": "R50",
+            "B": "0.6*R50-0.1 g/cm²",
+            "C": "La del máximo de la curva de ionización con la profundidad",
+            "D": "La del máximo de la curva de dosis con la profundidad"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta089": {
+        "pregunta": "El nivel de registro de dosis para la dosimetría personal externa en España:",
+        "opciones": {
+            "A": "Está establecido por el CSN en un valor de Hp(10) = 0.1 mSv / mes",
+            "B": "Está establecido por el CSN en un valor de Hp(10) = 0.1 mSv / año",
+            "C": "Está establecido por el CSN en un valor de Hp(10) = 0.5 mSv / mes",
+            "D": "Depende del Servicio de Dosimetría Personal que evalúe la dosis"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta105": {
+        "pregunta": "El pequeño espacio entre los electrodos minimiza las perturbaciones de la cavidad en el campo de radiación, esta cualidad es especialmente importante en la dosimetría de haces de electrones. ¿De qué tipo de detectores estamos hablando?:",
+        "opciones": {
+            "A": "Cámaras de ionización plano-paralelas",
+            "B": "Cámaras de ionización cilíndricas",
+            "C": "Diodos semiconductores",
+            "D": "Detectores Geiger"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta108": {
+        "pregunta": "Una cámara de ionización abierta al aire muestra una lectura L1 en condiciones de referencia bajo un haz de radiación ionizante. Si aumentamos la presión y la temperatura y hacemos una lectura L2 bajo el mismo haz tendremos:",
+        "opciones": {
+            "A": "L2 aumentará por efecto de la presión y de la temperatura",
+            "B": "L2 aumentará por efecto de la presión, pero disminuirá por la temperatura",
+            "C": "L2 disminuirá por efecto de la presión, pero aumentará por efecto de la temperatura.",
+            "D": "L2 disminuirá por efecto de la presión y de la temperatura."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta120": {
+        "pregunta": "En los detectores de ionización gaseosa",
+        "opciones": {
+            "A": "Se debe corregir por el factor de presión y temperatura siempre",
+            "B": "Sólo se debe corregir por el factor de presión y temperatura en cámaras abiertas",
+            "C": "La teoría de Bragg-Gray exige que la medida se realice con un material del detector equivalente a agua",
+            "D": "Conviene utilizar el voltaje más alto posible para generar más ionizaciones y disminuir la incertidumbre"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta37": {
+        "pregunta": "Las recomendaciones de AAPM/ESTRO para la dosimetría clínica con fuentes de alta energía indican como buena práctica en el uso de Monte Carlo para la obtención de matrices de dosis de referencia:",
+        "opciones": {
+            "A": "El uso de un maniquí de agua líquida suficientemente grande para que el defecto de dispersa no afecte a los puntos de interés.",
+            "B": "Admitir incertidumbres estadísticas del 5% para distancias entre 5 y 10 mm.",
+            "C": "No tener en cuenta los tamaños de las casillas ya que no son relevantes dado que se realiza un promediado asignándose la dosis a su punto central.",
+            "D": "Considerar solamente el transporte de electrones a partir de 5 cm de la fuente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta54": {
+        "pregunta": "En el documento de GEC-ESTRO sobre calibración y trazabilidad de fuentes de baja energía y baja tasa (LE-LDR) se incluyen una serie de recomendaciones. Indicar la opción VERDADERA al respecto de las mismas:",
+        "opciones": {
+            "A": "El equipo de medida recomendado en el hospital es una cámara dedal con volumen nunca superior a 0.6cc.",
+            "B": "En los implantes permanentes de próstata con I-125, deben medirse todas las semillas por el hospital antes de su uso, no siendo válida la medida de una muestra.",
+            "C": "Las cámaras a utilizar en el hospital deben ser herméticas para evitar la corrección por presión y temperatura no debiéndose utilizar nunca las abiertas al aire.",
+            "D": "El acuerdo entre el valor de la Tasa de Kerma de Referencia en Aire determinada en el hospital y la especificada por el fabricante en el certificado debe ser ±5%."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta104": {
+        "pregunta": "104. - Una de las aplicaciones clínicas más importantes de los diodos es la dosimetría in vivo. En relación con este uso, la respuesta del diodo es:",
+        "opciones": {
+            "A": "Independiente de la tasa de dosis absorbida.",
+            "B": "Dependiente de la temperatura.",
+            "C": "Lineal con la energía.",
+            "D": "Su respuesta no presenta dependencia direccional."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta106": {
+        "pregunta": "106. - En la dosimetría de pacientes sometidos a exploraciones de medicina nuclear, ¿cuál de las siguientes afirmaciones sobre el “factor S” es FALSA?",
+        "opciones": {
+            "A": "Su dependencia temporal puede despreciarse, tanto en diagnóstico como en terapia de tumores.",
+            "B": "Es específico para cada radionucleido.",
+            "C": "Representa la tasa de dosis absorbida media en un blanco determinado en el instante t tras la administración, por unidad de actividad contenida en el órgano fuente.",
+            "D": "Depende de la edad y el sexo del modelo anatómico específico que representa al paciente o al tejido de interés."
+        },
+        "respuesta_correcta": "A"
+    }
+}

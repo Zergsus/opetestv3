@@ -1,0 +1,2192 @@
+{
+    "SAS 2023.pdf_pregunta20": {
+        "pregunta": "≤ 30 -35 % y Dosis media (MLD)  ≤ 20 -23 Gy, con fraccionamiento convencional.  \n \nCASO PRACTICO 4:  \nSupongamos un paciente con cáncer di ferenciado de tiroides (CDT) al que queremos \ntratar con 131I en una instalación de Medicina Nuclear. La administración se realiza en \nforma de NaI por vía oral, en forma de cápsulas o forma líquida, o bien vía endovenosa.  \n \n 131  \n  En radioterapia con radionu cleidos, la proporción ρ entre beneficio B y riesgo R, B \n= R·ρ es:",
+        "opciones": {
+            "A": "Muy pequeña, “dramáticamente” muy pequeña, y la tolerancia en la exactitud de las \ndeterminaciones dosimétricas es crítica.",
+            "B": "Muy pequeña, “dramáticamente” muy pequeña, y la toleranc ia en la exactitud de las \ndeterminaciones dosimétricas no es crítica.",
+            "C": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas es \ncrítica.",
+            "D": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas no es"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023.pdf_pregunta22": {
+        "pregunta": "La guía de cons enso de la American Brachytherapy Society (ABS) para los \ntratamientos de braquiterapia oftálmica en melanomas y retinoblastomas, recoge \ncomo recomendación que el punto de prescripción sea:",
+        "opciones": {
+            "A": "un punto a 5 mm de profundidad desde la base de la esclera, si  el tumor tiene menos \nde 5 mm de altura y en el ápex tumoral si es mayor de 5 mm (nivel de consenso 2)",
+            "B": "el empleado habitualmente en la práctica en cada centro ya que no existe consenso o \nrecomendación específica (nivel de consenso 3)",
+            "C": "un punto a 5 mm de profundidad con independencia de la altura del tumor (nivel de \nconsenso 1)",
+            "D": "el ápex tumoral o punto de mayor espesor (nivel de consenso 1)"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta29": {
+        "pregunta": "El efecto terapéutico de la Radioterapia s e basa en:",
+        "opciones": {
+            "A": "las mutaciones a nivel celular que provoca la radiación",
+            "B": "su capacidad de matar células tumorales",
+            "C": "las ionizaciones producidas por la radiación",
+            "D": "en los mecanismos de reparación completa de los tejidos sanos"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta46": {
+        "pregunta": "Según el Real Decreto 1566/1998 por el que se establecen los criterios de calidad \nen Radioterapia, en la pruebas para fijar el estado de referencia inicial en las \nfuentes y equipos de braquiterapia y sus tolerancias, las tolerancias establecida \npara el valor de referencia de un lote de fuentes y para la coincidencia entre el valor \nmedido y el facilitado por el suministrador es:",
+        "opciones": {
+            "A": "+/ -3% y +/ -5% respectivamente",
+            "B": "+/ -7% y +/ -2% respectivamente",
+            "C": "+/ -2% y +/ -7% respectivamente",
+            "D": "+/ -5% y +/ -3% respectivamente"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta49": {
+        "pregunta": "En general, en Radioterapia, se denominan analizadores del haz a:",
+        "opciones": {
+            "A": "El sistema de dosimetría cámara de ionización – electrómetro, que es el recomendado \npara la calibración de los haces.",
+            "B": "Los sistemas diodos –electrómetros, que  pueden ser adecuado s para la evaluación de \nlas distribuciones de dosis absorbida o para la medida de las propiedades de los haces.",
+            "C": "Los sistemas diodos –electrómetros, que  son los recomendados para la calibración de \nlos haces.",
+            "D": "El sistema de dosimetría cámara de ionizaci ón – electrómetro, que es el único"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta51": {
+        "pregunta": "Señala la FALSA. El diodo es uno de los sistemas de dosimetría más extendido en \nradioterapia. Algunas de sus ventajas son:",
+        "opciones": {
+            "A": "Gran sensibilidad.",
+            "B": "Pequeño tamaño (buena resolución)",
+            "C": "Independencia con la temperatura.",
+            "D": "Utilización sencilla."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023.pdf_pregunta52": {
+        "pregunta": "Las cámaras de pozo se utilizan en braquiterapia para:",
+        "opciones": {
+            "A": "Verificar, en principio, el certificado de calibración de las fuentes. Existe la imposición \nlegal de realizar este control.",
+            "B": "Verificar, en principio, el certificado de calibración de las fuentes, aunque no  existe la \nimposición legal de realizar este control.",
+            "C": "No se usan para la calibración y verificación de fuentes. Se suelen utilizar otro ti po de \ncámaras como las de dedal.",
+            "D": "Medir diariamente la actividad de la fuente usada en braquiterapia."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta66": {
+        "pregunta": "Según el ICRU62, en cuanto a la definición de volúmenes en Radioterapia, señale la \nFALSA:",
+        "opciones": {
+            "A": "El PRV es el análogo para el órgano de riesgo al PTV del volumen blanco clínico.",
+            "B": "El Índice de Conformidad (CI) está definido como el cociente entre el volume n tratado y \nel volumen del PTV.",
+            "C": "Se define el Margen Interno (IM) con el fin de tener en cuenta las variaciones en el \ntamaño, forma y posición del CTV con relación a puntos de referencia anatómicos.",
+            "D": "El PTV y el PRV no pueden nunca superponerse, ya que  eso implicaría la búsqueda"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta67": {
+        "pregunta": "En braquiterapia, la tasa de kerma de referencia en aire (TKR",
+        "opciones": {
+            "A": "A) Es la magnitud recomendada por ICRU para caracterizar fuentes emisoras de \nradiación gamma.",
+            "B": "Es la magnitud reco mendada para caracterizar fuentes beta.",
+            "C": "Está definida como la actividad de una fuente puntual y desnuda del mismo \nradionucleido que produjera la misma tasa de kerma en aire a 1 m desde la fuente.",
+            "D": "Es el kerma en aire en el seno de aire, en un punto de l espacio correspondiente a la"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta106": {
+        "pregunta": "Si entre sus funciones se encuentra la de operar en la sala de braquiterapia en \ncaso de emergenc ia:",
+        "opciones": {
+            "A": "Será clasificado de categoría radiológica B, como mínimo",
+            "B": "Será clasificado de categoría radiológica A",
+            "C": "No se le adjudicará ningún sistema de dosimetría personal",
+            "D": "Usará mandil emplomado durante el trabajo en la instalación"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta113": {
+        "pregunta": "Si se usa braquiterapia oftálmica se suelen incluir los radionúclidos",
+        "opciones": {
+            "A": "Ru -106 y Co -60",
+            "B": "Ru -106 y Sr -90",
+            "C": "Ir-192 y Sr -90",
+            "D": "Ru -106 e Ir -192"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta121": {
+        "pregunta": "En relación con la radioterapia antiálgica en metástasis óseas, si comparamos el \nesquema de fracción única frente al múltiple (8 Gy frente a 5 x 4 Gy o 10 x 3 Gy).",
+        "opciones": {
+            "A": "No se observan diferencias en respuesta al dolor, fracturas patológicas o toxicidad \naguda.",
+            "B": "Los esquemas de fraccionamiento son equivalentes en cuanto a control de dol or, con \nmás retratamientos en fracciones únicas. Si existe dolor al mes del primer tratamiento, \ndebe considerarse el retratamiento.",
+            "C": "La fracción única de 8 Gy es conveniente para el tratamiento de metastásica ósea, \nsobre todo en pacientes con peor pronós tico.",
+            "D": "Todas son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta123": {
+        "pregunta": "En el acelerador lineal de electrones donde vamos a tratar al paciente, en la \ngeneración de RX para asegurar una producción adecuada de radiación de frenado: \n¿Cuál de las afirmaciones es correcta?",
+        "opciones": {
+            "A": "Se necesita una tasa de fluencia de electrones del or den de 1000 veces superior que \nen la modalidad de tratamiento con electrones.",
+            "B": "Se necesita una tasa de fluencia de electrones del orden de 10 veces superior que en \nla modalidad de tratamiento con electrones.",
+            "C": "Se necesita una tasa de fluencia de elect rones del orden de 100 veces superior que en \nla modalidad de tratamiento con electrones.",
+            "D": "Se necesita una tasa de fluencia de electrones del mismo orden que la requerida en la"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023.pdf_pregunta126": {
+        "pregunta": "En el tomógrafo computarizado TC de radioterapia, hacemos controles periódicos  \nde la curva de calibración de conversión de números CT a densidad electrónica. Se \nrecomienda cambiar la curva de calibración si la densidad electrónica relativa al \nagua varía más de:",
+        "opciones": {
+            "A": "0,1 en cualquier punto de la curva.",
+            "B": "0,1 en la parte central de l a curva y 0.5 en los extremos.",
+            "C": "0,5 en cualquier punto de la curva.",
+            "D": "0,5 en la parte central de la curva y 0,1 en los extremos."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023.pdf_pregunta127": {
+        "pregunta": "En cuanto a la definición de volúmenes en Radioterapia, señale la FALSA:",
+        "opciones": {
+            "A": "El “Gross Tumour Volume” (GTV) o “Volu men Tumoral Visible” contiene la extensión \nde tumor visible o palpable.",
+            "B": "El “Clinical Target Volume” (CTV) o “Volumen Tumoral Clínico”, que contiene un \nmargen añadido al GTV para incluir diseminación directa local subclínica.",
+            "C": "El “Planning Target Volum e” (PTV) o “Volumen Tumoral Planificado”, es un concepto \ngeométrico usado para planificación.",
+            "D": "La penumbra de los haces de radiación se considera al delinear el PTV, por lo que no"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta129": {
+        "pregunta": "Nuestro paciente tuvo algunas interrupciones en el curso de su tratamiento con \nradioterapia radical en CPNM. Señale la FALSA:",
+        "opciones": {
+            "A": "Se puede producir pérdida tanto del control loco -regional como de superviviencia.",
+            "B": "Nunca sería una opción darle do s fracciones diarias, aunque tuviesen una separación \nmínima de 6 horas entre ellas.",
+            "C": "Se han reportado valores del factor k (dosis necesaria para compensar cada día de \nretraso) de hasta 0.75 Gy/d en estadios localizados.",
+            "D": "El efecto de las interrupciones  puede ser más acusado si es un cáncer de pulmón"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023.pdf_pregunta130": {
+        "pregunta": "Según la revisión QUANTEC (Quantitative Analysis of Normal Tissue Effects in the \nClinic), si consideramos el OAR PULMONES como la suma de los pulmones menos \nel GTV, podríamos decir que en tratamientos 3D -CRT si se cumple lo siguiente en el \nOAR PULMONES, la tasa de neumonitis por radiación será menor del 20%.",
+        "opciones": {
+            "A": "V20 ≤ 4 -10 % y Dosis media (MLD)  ≤ 8Gy, con fraccionamiento convencional.",
+            "B": "V20 ≤ 50 -55 % y Dosis media (MLD)  ≤ 30 -35 Gy, c on fraccionamiento convencional.",
+            "C": "V20 ≤ 20 -25 % y Dosis media (ML",
+            "D": "≤ 15 -20 Gy, con fraccionamiento convencional."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta153": {
+        "pregunta": "De acuerdo con el AAPM Report TG 219 sobre verificación de IMRT mediante \ncálculo independiente de unidades de monitor, los niveles de acción para el cálculo \nsecundario de unidades de monitor comparado con el cálculo del sistema de \nplanificación para un único punto, para haz individual en situación homogénea son:",
+        "opciones": {
+            "A": "el 3% en zonas de alta dosis/bajo gradiente y el 5% en zonas de baja dosis/alto \ngradiente",
+            "B": "el 7% en zonas de alta dosis/bajo gradiente y el 10% en zonas de baja dosis/alto \ngradiente",
+            "C": "el 2% en zonas de alta dosis/bajo gradiente y el 4% en zonas de baja d osis/alto \ngradiente",
+            "D": "el 5% en zonas de alta dosis/bajo gradiente y el 7% en zonas de baja dosis/alto"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta17": {
+        "pregunta": "El sistema de Paris en braquiterapia:",
+        "opciones": {
+            "A": "Es un sistema de pre- planificación para uso clínico, para  tratamiento con implantes \nintersticiales.",
+            "B": "Es igual que el sistema de Manchester.",
+            "C": "Se utiliza para el cálculo de implantes permanentes de próstata.",
+            "D": "Se utiliza con aplicadores tipo Fletcher."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta18": {
+        "pregunta": "El dispositivo más apropiado para medir el coeficiente de calibración (Gy/UM) para \nlos haces de fotones de un acelerador lineal de uso clínico es:",
+        "opciones": {
+            "A": "Una cámara plana.",
+            "B": "Una cámara de transmisión.",
+            "C": "Una cámara Farmer .",
+            "D": "Un dosímetro de termoluminiscencia ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta28": {
+        "pregunta": "En un acelerador lineal de electrones que proporciona un haz de fotones de 18 MV, \nlos campos electromagnéticos de radiofre cuencia de alta potencia que alimentan la \nguía de ondas aceleradora:",
+        "opciones": {
+            "A": "Se producen en el inyector.",
+            "B": "Se originan decelerando electrones en el klystron.",
+            "C": "Se conforman en el modulador de pulsos.",
+            "D": "Los proporciona la compañía eléctrica a través de la red de distribución."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta31": {
+        "pregunta": "Según el documento TG 218 de la AAPM, al  verificar la distribución de dosis de un \nplan de tratamiento de IMRT/VMAT utilizando el análisis gamma con normalización \nglobal en dosis absoluta, la tolerancia universal que se establece es que la tasa de \npaso gamma debería ser:",
+        "opciones": {
+            "A": "Inferior al 95%, con 3% dosis / 3 mm y dosis umbral del 10%.",
+            "B": "Superior 95%, con 3% dosis / 2 mm y dosis umbral del 10%.",
+            "C": "Inferior al 90%, con 3% dosis / 2 mm y dosis umbral del 10%.",
+            "D": "Superior al 90% e inferior al 95%, con 3% dosis / 2 mm y dosis umbral del 10%."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta32": {
+        "pregunta": "En los tratamientos de braquiterapia ginecoló gica, según el ICRU 38, se considera \nalta tasa de dosis (HDR) a aquellos donde la tasa de dosis absorbida en el punto de prescripción sea:",
+        "opciones": {
+            "A": "Entre 0.4  y 2 Gy por hora.",
+            "B": "Mayor de 0.2 Gy por hora.",
+            "C": "Mayor de 2 Gy por hora.",
+            "D": "Mayor de 12 Gy por hora."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta65": {
+        "pregunta": "La hoja de tratamiento de un paciente en Radioterapia, deberá ser firmada \ndiariamente por:",
+        "opciones": {
+            "A": "El especialista en Oncología Radioterápica, el Radiofísico y el técnico responsable de \nla adm inistración del tratamiento.",
+            "B": "El técnico responsable de la administración del tratamiento.",
+            "C": "El especialista en Oncología Radioterápica y el técnico responsable de la \nadministración del tratamiento.",
+            "D": "El Radiofísico y el técnico responsable de la administración del tr atamiento."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta77": {
+        "pregunta": "En la publicación “Procedimientos recomendados para el control de calidad de \nIMRT  en tomoterapia” de la SEFM, respecto a la prueba de “Calibración de dosis” , \n¿qué tolerancia se establece con respecto al valor nominal de la tasa de dosis (haz \nestático y dinámico)?",
+        "opciones": {
+            "A": "0.5 % .",
+            "B": "1 % .",
+            "C": "2 % .",
+            "D": "5 % ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta78": {
+        "pregunta": "En un haz de electrones, al incrementarse el ángulo de incidencia:",
+        "opciones": {
+            "A": "El máximo de dosis se aproximará a la superficie a la vez que permanece constante el valor de dosis absorbida respecto de la que habría si el haz fuera perpendicular a la superficie.",
+            "B": "El máximo de dosis se aproximará a la superficie a la vez que aumenta el valor de dosis absorbida respect o de la que habría si el haz fuera perpendicular a la superficie.",
+            "C": "El máximo de dosis se aproximará a la superficie a la vez que disminuye el valor de dosis absorbida respecto de la que habría si el haz fuera perpendicular a la superficie.",
+            "D": "La pendient e de la zona por detrás del máximo disminuye y la dosis absorbida residual \ndisminuye"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta82": {
+        "pregunta": "Las películas radiocrómicas utilizadas en radioterapia:",
+        "opciones": {
+            "A": "Tienen una respuesta con la energía peor que las radiográficas.",
+            "B": "Son adecuadas para zonas de alta gradiente de dosis absorbida.",
+            "C": "Tienen una alta rel ación señal -ruido.",
+            "D": "Tienen una buena uniformidad espacial."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta84": {
+        "pregunta": "El hipofraccionamiento extremo (FAST -Forward) en el tratamiento radioterápico del \ncáncer de mama,  consiste en:",
+        "opciones": {
+            "A": "50 Gy en 25 sesiones de 2 Gy.",
+            "B": "40,5 Gy en 15 sesiones de 2,7 Gy.",
+            "C": "26 Gy en 5 sesiones de 5,2Gy.",
+            "D": "16 Gy en 2 sesiones de 8 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta87": {
+        "pregunta": "Para especificación de fuentes de braquiterapia se utiliza generalmente la magnitud \nconocida por sus siglas del inglés como TKRA. Dicha magnitud es:",
+        "opciones": {
+            "A": "La tasa de exposición nominal .",
+            "B": "La actividad aparente.",
+            "C": "El air -kerma st rength .",
+            "D": "La tasa de Kerma de Referencia en Aire."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta95": {
+        "pregunta": "Para un haz de electrones de energía nominal E, expresada en MeV, ¿cuál es \naproximadamente el rango terapéutico (d osis del 90% del máximo) en cm?",
+        "opciones": {
+            "A": "E/4.",
+            "B": "Siempre menor que 4.",
+            "C": "E.",
+            "D": "E/6."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta121": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / En la exploración con un TC helicoidal, se aumentaría el kilovoltaje (kV) para:",
+        "opciones": {
+            "A": "Mejorar la calidad del haz de radiación (calidad espectral).",
+            "B": "Aumentar la resolución espacial.",
+            "C": "Aumentar el contraste, siempre que deje fijo la carga del tubo (mAs).",
+            "D": "Aumentar la limitación máxima de los mA."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta122": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / En la exploración con TC, para la formación de la imagen diagnóstica, la magnitud \nfísica básica que se detecta es:",
+        "opciones": {
+            "A": "La densidad de los tejidos.",
+            "B": "La densidad electrónica.",
+            "C": "El coeficiente de atenuación lineal.",
+            "D": "La concentración de protones."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta123": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / Si el TC que estamos usando es actual, los receptores de imagen empleados serán \ndel tipo:",
+        "opciones": {
+            "A": "Cámaras de ionización presurizadas.",
+            "B": "Cristal termoluminiscente.",
+            "C": "Cámaras de ionización no presurizadas.",
+            "D": "Estado sólido."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta124": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / Según el Protocolo Español de Control de Calidad en Radiodiagnóstico, en su \nRevision 2011, el CTDIvol de una exploración de cabeza adulto (cerebro) es, con los \nparámetros técnicos habituales y en un TC sin reconstrucción iterativa, del orden \nde:",
+        "opciones": {
+            "A": "< 60 mGy .",
+            "B": "< 35 mGy (ideal < 15 mGy) .",
+            "C": "< 30 mGy (ideal < 10 mGy) .",
+            "D": "< 25 mGy ."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta125": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / En un acelerador funcionando en su punto de máxima eficiencia, si la corriente de \nelectrones inyectados en la guía aceleradora disminuye,  permaneciendo constante \nlos otros parámetros de funcionamiento, el haz de electrones a la salida del \n“bending magnet” :",
+        "opciones": {
+            "A": "Aumenta su energía media,  y su intensidad no varía.",
+            "B": "Disminuye su energía media , y disminuye su intensidad.",
+            "C": "Aumenta su energía media,  y disminuye su intensidad.",
+            "D": "La energía media no varía,  y disminuye su intensidad."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta126": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / La fuente principa l de radiación dispersa, generada en el cabezal de un acelerador \ncon filtro aplanador, presente en un haz de fotones , es debida a:",
+        "opciones": {
+            "A": "El colimador primario.",
+            "B": "Las mordazas y/o multiláminas.",
+            "C": "La cámara monitora.",
+            "D": "El filtro aplanador."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta127": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / En la do simetría clínica de la paciente , se observa una heterogeneidad del 115%. \nActuando según el ICRU 50, dicha planificación:",
+        "opciones": {
+            "A": "Debe descartarse en todo caso.",
+            "B": "Debe aceptarse en todo caso.",
+            "C": "Puede aceptarse, pero sólo si el diámetro de la heterogeneidad e s inferior a 20 mm.",
+            "D": "Puede aceptarse, especialmente si la heterogeneidad se localiza en el GTV."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta128": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / De acuerdo con el TRS -398, en la dosimetría absoluta con haces de fotones de alta \nenergía no es apropiado utilizar cámaras de ionización plano- paralel as si se utilizan \nvalores tabulados de KQQ0 (Q0=60Co), debido a :",
+        "opciones": {
+            "A": "La falta de datos para pwall.",
+            "B": "La incertidumbre en pcav.",
+            "C": "El valor elevado de pcav.",
+            "D": "La imposibilidad de minimizar el efecto del desplazamiento."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta129": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / Se sobreimpresiona a la pac iente con un haz de electrones. En un acelerador lineal \nde electrones,  el valor aproximado de la energía media en superficie de un haz de \nelectrones cuyo R50 es 0.05 m , es:",
+        "opciones": {
+            "A": "3 MeV.",
+            "B": "6 MeV.",
+            "C": "12 MeV.",
+            "D": "24 MeV."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2022_radiofisica_examen.pdf_pregunta130": {
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / En la publicación  “Control de c alidad en aceleradores de electrones para uso \nmédico ” de la SEFM, ¿qué tolerancia se establece en la verificación  de la calidad \nespectral del haz de electrones?",
+        "opciones": {
+            "A": "2% .",
+            "B": "1 mm .",
+            "C": "2 mm .",
+            "D": "1% ."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta38": {
+        "pregunta": "En un haz de electrones",
+        "opciones": {
+            "A": "la apertura del colimador de fotones es mayor que el tamaño del haz de electrones",
+            "B": "la apertura del colimador de fotones es aproximadamente igual que el tamaño del haz \nde electrones",
+            "C": "la apertura del colimador de fotones es menor que el tamaño del haz de electrones",
+            "D": "la apertura del colimador de fotones es independiente del tamaño del haz de \nelectrones"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta60": {
+        "pregunta": "La cámara plana con ventana para rayos X de baja energía que usamos en \nRadioterapia de haces externos para rayos X de baja energía:",
+        "opciones": {
+            "A": "Tiene una separación  entre electrodos de 5 - 5,5 mm.",
+            "B": "Es cerrada al aire.",
+            "C": "Tiene volúmenes en el intervalo 0,3 – 3 cm3.",
+            "D": "Tiene una ventana de entrada de 2,5 mg/cm2."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta61": {
+        "pregunta": "La cámara de pozo o reentrante que usamos en braquiterapia:",
+        "opciones": {
+            "A": "Tiene una separación entre electr odos de 5 - 5,5 mm.",
+            "B": "Es cerrada al aire.",
+            "C": "Tiene volúmenes en el intervalo 300 – 3000 cm3.",
+            "D": "Está calibrada es unidades de TKRA."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta63": {
+        "pregunta": "Conceptualmente y para un haz de fotones como radiación indirectamente \nionizante, el Cema da cuenta de:",
+        "opciones": {
+            "A": "Las energías cinéticas iniciales de los electrones (nacidos al interaccionar los   fotones \ncon un material) por unidad de masa de ese material.",
+            "B": "La energía perdida por un electrón por unidad de longitud, a lo largo de su  trayectoria.",
+            "C": "La energía perdida por los electrones primarios en un material (debido a colisiones con \nelectrone s del material) por unidad de masa de ese material.",
+            "D": "Ninguna es correcta."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta119": {
+        "pregunta": "CASO PRACTICO 3: \nUn paciente va a ser tratado con un esquema de 5 x 6 Gy. Tras la primera fracción se \ndetecta que la dosis realmente impartida en la misma es de 12 Gy. / Si el tratamiento anterior afecta a la médula espinal, ¿existiría riesgo de daño a la \nmisma? ¿por qué? (Considerar que la dosis de referencia para que no haya daño en \nmédula, en un fraccionamiento estándar de 2  Gy/fracción es de 50 Gy y que el \ncociente alfa/beta =2 Gy para daño en médula espinal)",
+        "opciones": {
+            "A": "Sí, porque la dosis recibida erronéamente en la primera fracción supera la de tolerancia",
+            "B": "No, porque la dosis biológicamente efectiva es un 30% inferior que la  de tolerancia",
+            "C": "No, porque la dosis isoefectiva es menor en el tratamiento impartido que la de \ntolerancia",
+            "D": "Sí, porque la dosis biológicamente efectiva excede en un 20% la de tolerancia"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta120": {
+        "pregunta": "CASO PRACTICO 3: \nUn paciente va a ser tratado con un esquema de 5 x 6 Gy. Tras la primera fracción se \ndetecta que la dosis realmente impartida en la misma es de 12 Gy. / La dosis isoefectiva, en fraccionamiento estándar de 2 Gy, del tratamiento previsto \nsería",
+        "opciones": {
+            "A": "42 Gy",
+            "B": "54 Gy",
+            "C": "60 Gy",
+            "D": "48Gy"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta123": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / En el protocolo TRS 398 se recomienda utilizar como índice de calidad de un haz \nde fotones generado en un acelerador lineal de electrones, el siguiente parámetro:",
+        "opciones": {
+            "A": "El porcentaje de dosis absorbida a 10 cm de profundidad para un campo de 10 cm x 10 \ncm a DFS de 100 cm, representado por % dd (10).",
+            "B": "La razón tejido -maniquí́ a las profundidades 20 y 10 cm (TPR20,10).",
+            "C": "La profundidad del máximo de dosis absorbida dmáx.",
+            "D": "El d80 definido como la profundidad del 80% en la curva de distribución de dosis \nabsorbida en profundidad, para un campo de 10 cm x 10 cm, DFS de 100 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta124": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / Siguiendo de nuevo las recomendaciones del TRS -398 la profundidad de referencia \nrecomendada para la determinación de la dosis absorbida de un haz de fotones en \nun maniquí́ d e agua es:",
+        "opciones": {
+            "A": "La profundidad del máximo.",
+            "B": "La profundidad correspondiente a R50.",
+            "C": "La profundidad resultante de la operación 0.5 * R50 - 0.1.",
+            "D": "10 g/cm2."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta50": {
+        "pregunta": ". El protocolo TRS -483 sobre dosimetría de haces de fotones en campos pequeños \nutilizados en radioterapia externa de la IAEA,  publicado en noviembre del 2017:",
+        "opciones": {
+            "A": "Es aplicable a dosimetría relativa y de r eferencia para campos pequeños estáticos de \nfotones de teleterapia de energía nominal igual o inferior a 10 MV.",
+            "B": "Es aplicable a dosimetría relativa y de referencia para campos pequeños estáticos de \nfotones de teleterapia de energía nominal superior a 10 MV.",
+            "C": "Es aplicable a dosimetría relativa y de referencia para campos pequeños dinámicos  de \nfotones de teletarapia de energía superior a 10 MV.",
+            "D": "Es aplicable sólo a dosimetría de referencia para campos pequeños dinámicos y \nestáticos de fotones de teleterapia de energía superior a 10 MV."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta55": {
+        "pregunta": ".  El concepto de 'radiocirugía estereotáxica', introducido en el año 1950 por \nLeksell,  consiste en",
+        "opciones": {
+            "A": "la administración de una alta dosis en una única sesión para el tratamiento \nablativo de pequeñas lesiones cerebr ales.",
+            "B": "la administración de varias sesiones con un marco invasivo de fijación.",
+            "C": "la administración de dosis en un quirófano especialmente diseñado para \nimpartir este tipo de tratamientos.",
+            "D": "la administración de altas dosis en pocas sesiones para el tratamiento ablativo \nde lesiones extracraneales."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta57": {
+        "pregunta": ". La Radioterapia Estereotáxica Extracr aneal (SBRT):",
+        "opciones": {
+            "A": "Es una técnica estereotáxica en blancos extracraneales",
+            "B": "Es una técnica que exige poco nivel de conformación",
+            "C": "Es una técnica que exige hiperfraccionamiento extremo con  intención ablativa",
+            "D": "Es una técnica que, en general, los volúmenes de tratamie nto de las lesiones \ntratadas son mayores que en la radioterapia convencional."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta59": {
+        "pregunta": ".  La arcoterapia volumétrica modulada (VMAT), es una técnica que",
+        "opciones": {
+            "A": "Combi na la rotación del gantry a velocidad varible con un movimiento dinámico del \ncolimador multilámina",
+            "B": "Prescinde de la modulación de intensidad",
+            "C": "Es más simple que la técnica conformada 3D",
+            "D": "Alterna rotación del gantry con movimiento del colimador multilámina, no produciéndose \nnunca simultáneamente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta61": {
+        "pregunta": ". El aplicador Val encia se utiliza en braquiterapia de alta tasa:",
+        "opciones": {
+            "A": "En aplicaciones cutáneas",
+            "B": "En aplicaciones ginecológicas.",
+            "C": "En aplicaciones intraluminales",
+            "D": "En aplicaciones oftalmicas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta63": {
+        "pregunta": ".  Para la delineación de vol úmenes para la planificación de tratamientos en \nradioterapia es importante considerar:",
+        "opciones": {
+            "A": "GTV, CTV, y OAR son volúmenes puramente oncológicos o anatómicos.",
+            "B": "El concepto de PTV se definió en el ICRU 83.",
+            "C": "La delineación del CTV utiliza conocimientos de la presenc ia y el impacto de \nincertidumbres y variaciones en el tumor y en los parámetros de la máquina de \ntratamiento.",
+            "D": "Los tejidos sanos se consideran todos OAR no dependiendo de la localización del CTV \ny/o de la dosis prescrita"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta68": {
+        "pregunta": ".  En un tratamiento con radioterapia, llamamos TCP a la probabilidad de control del \ntumor y NTCP a la  probabilidad de complicaciones en tejido normal. A partir de \nellos se calcula la probabilidad de control del tumor sin complicaciones (UTCP) de \nla manera siguiente:",
+        "opciones": {
+            "A": "UTCP= NTCP* (1 -TCP)",
+            "B": "UTCP= NTCP* (TCP -1)",
+            "C": "UTCP=TCP* (1 -NTCP)",
+            "D": "UTCP= TCP* (NTCP -1)"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta75": {
+        "pregunta": ". La dosis d e referencia de un haz de electrones de 12 MeV para un aplicador de \n10x10 cm a la profundidad de referencia en agua es 0.998 cGy/UM. El factor \nenergía para 16 MeV con el mismo aplicador es 1.020 y se quieren impartir 2 Gy a 3 \ncm de profundidad, siendo el P DD de esa profundidad y 16 MeV un 80%. Se \nnecesitarán",
+        "opciones": {
+            "A": "245 UM",
+            "B": "157 UM",
+            "C": "254 UM",
+            "D": "175 UM"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta99": {
+        "pregunta": ". La fórmula del cálculo de blindajes para barreras secundarias en aceleradores de \nRadioterapia, introduce, respecto a la de barreras primarias:",
+        "opciones": {
+            "A": "El factor de IMRT",
+            "B": "La distancia a la pared primaria",
+            "C": "El factor de fuga",
+            "D": "El factor campo y la fracción de dispersión"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta101": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces / Si la calibración de haces de fotones se hace siguiendo el Protocolo TG51 de la \nAAPM, las condiciones de referencia para la calibración serán:",
+        "opciones": {
+            "A": "SSD = 100 cm, profundidad 10 cm en agua y campo 10 x 10 cm2",
+            "B": "SSD = 100 cm, a la profundidad del máximo (d max) en agua y campo 10 x 10 cm2",
+            "C": "SCD = 100 cm, profundidad 5 cm en agua y campo 10 x 10 cm2",
+            "D": "SSD = 100 cm, profundidad 5 cm en agua y campo 10 x 10 cm2"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta102": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  ¿Cómo realizaría la calibración del haz de 6 MeV, según el TRS -398?:",
+        "opciones": {
+            "A": "Con cámara cilíndrica y con su punto de  referencia en el punto de interés",
+            "B": "Con cámara plana y con su punto de referencia en el punto de interés",
+            "C": "Con cámara plana o cilíndrica y con su punto de referencia en el punto de interés",
+            "D": "Con cámara plana o cilíndrica y con su punto de referencia en  el punto de interés (cámara \nplana) o 0.5*rcil más profundo que el punto de interés (cámara cilíndrica)"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta103": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  Medimos el rendimiento en profundidad para el haz de electrones de 18 MeV, en \nagua, y la profundidad a la que la dosis es el 50%  (I50) del valor máximo , resulta ser \nde 10 cm. ¿Qué expresión utilizaría para determinar el R50, según el TG51 de la \nAAPM?",
+        "opciones": {
+            "A": "R 50 = 1.059*I 50 – 0.06",
+            "B": "R 50 = 1.029*I 50 – 0.06",
+            "C": "R 50 = 1.059*I 50 – 0.37",
+            "D": "R 50 = 1.029*I 50 – 0.37"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta104": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  El uso de maniquíes plásticos en la dosimetría de r eferencia de haces de fotones y \nelectrones:",
+        "opciones": {
+            "A": "Solo está permitido en haces de electrones de energías inferiores a 10 MeV",
+            "B": "Nunca está permitido, ni en haces de fotones ni de electrones",
+            "C": "Está permitido en haces de fotones cuando no se dispone de cámara impermeable",
+            "D": "Está permitido en cualquier energía siempre que se conozca de manera exacta su \ncomposición"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta105": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  Como se indicó anteriormente, para el haz de electrones de 18 MeV, la profundidad \na la que la dosis es el 50% del valor máximo, en agua, resu lta ser de 10 cm. ¿Cuál \nsería la profundidad de referencia a la que habría que hacer la dosimetría de \nreferencia de este haz?",
+        "opciones": {
+            "A": "6.032 cm",
+            "B": "6.218 cm",
+            "C": "6.038 cm",
+            "D": "5.852 cm"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta106": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /   Según el TRS -483, un campo se considerará pequeño si se cumple una de estas \ncond iciones (Señala la respuesta CORRECT",
+        "opciones": {
+            "A": "A) Hay pérdida de equilibrio lateral de partículas cargadas en los bordes del campo, el sistema \nde colimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el \ntamaño del detector es mayor que e l tamaño de campo",
+            "B": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación está formado por láminas no convergentes en el eje del haz o el tamaño del \ndetector es menor que el tamaño de campo",
+            "C": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz o el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en los bordes del haz",
+            "D": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el tamaño \ndel detector es similar o mayor que el tamaño de campo"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta107": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  La participación del radiofísico en este proceso, según el R.D. 1566/98 por el que \nse establecen los criterios de  calidad en Radioterapia será:",
+        "opciones": {
+            "A": "actuar como responsable de la determinación del estado de referencia inicial del acelerador \ny emitir un informe con la descripción de las pruebas realizadas que remitirá al explotador \nde la instalación radiactiva",
+            "B": "recibi r el informe de la empresa suministradora sobre las pruebas realizadas y resultados \nobtenidos que garanticen que el equipo cumple con las características ofertadas.",
+            "C": "actuar como responsable de la aceptación y determinación del estado de referencia inicia l \ndel acelerador y emitir un informe con las pruebas de aceptación, que remitirá al \nresponsable de la unidad asistencial de radioterapia",
+            "D": "exclusivamente, la realización de las medidas necesarias para la puesta en marcha de los \nsistemas de planificación y de cálculo. No será necesaria su presencia cuando la empresa \nsuministradora realice las pruebas para garantizar el funcionamiento del equipo"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta108": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  Según el TRS -483, para que la medida de un detector, de dimensión d, sea \nadecuada en campos pequeños, la relación  que se debe cumplir con el tamaño del \ncampo será:",
+        "opciones": {
+            "A": "FWHM ≥ 2*r_LCPE + 2*d",
+            "B": "FWHM ≥ r_LCPE + d",
+            "C": "FWHM ≥ r_LCPE + 2*d",
+            "D": "FWHM ≥ 2*r_LCPE + d"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta109": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  Según el TRS -483, el valor r LCPE se define como:",
+        "opciones": {
+            "A": "el radio mínimo de un campo circular para el que la dosis absorb ida en el centro del campo \nes igual al kerma de agua en agua.",
+            "B": "el lado mínimo de un campo cuadrado para el que la dosis absorbida en el centro del \ncampo es igual al kerma de agua en agua.",
+            "C": "el radio mínimo de un campo circular para el que la dosis absor bida en el centro del campo \nes proporcional al kerma de agua en agua.",
+            "D": "el lado mínimo de un campo cuadrado para el que la dosis absorbida en el centro del \ncampo es proporcional al kerma de agua en agua."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta110": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  La tolerancia establecida en el R.D.1566/98 para f ijar el estado de referencia inicial, \nen cuanto a las características mecánicas de la mesa de tratamiento, con respecto a \nlos ejes de rotación es de:",
+        "opciones": {
+            "A": "2 mm",
+            "B": "1 mm",
+            "C": "2.5 mm",
+            "D": "1.5 mm"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta123": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / El proceso de autorización de una instalación de radioterapia convencional, que \nincluya un acelerador lineal de electrones y un equipo de braquiterapia de alta tasa \nimplica:",
+        "opciones": {
+            "A": "Que es una inst alación radiactiva de segunda categoría, y se solicita directamente a la \nDirección General de la Energía .",
+            "B": "Que es una instalación radiactiva de tercera categoría, y se notifican directamente al \nConsejo de Seguridad Nuclear los equipos instalados.",
+            "C": "Que es una  instalación radiactiva de primera categoría, y se envía la documentación \npreceptiva para obtener la autorización de funcionamiento solamente al Consejo de \nSeguridad Nuclear.",
+            "D": "Que es una instalación radiactiva de segunda categoría, y se envía a las Consejerías o \nDirecciones de Industria de cada comunidad autónoma, la documentación preceptiva \npara obtener la autorización de funcionamiento."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta124": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / El puesto de control del acelerador lineal, donde se sitúa el técnico de radioterapia \nque opera el equipo, suele ser una  zona:",
+        "opciones": {
+            "A": "Controlada de permanencia reglamentada",
+            "B": "De libre acceso",
+            "C": "Vigilada",
+            "D": "Controlada de permanencia limitada."
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta141": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / La carga de trabajo semanal, W:",
+        "opciones": {
+            "A": "Nos la proporcionará la casa comercial que nos vende el equipo",
+            "B": "Es la misma siempre, independientem ente de la instalación",
+            "C": "La podremos calcular sabiendo el número de pacientes semanal aproximado y las \ncaracterísticas de las exploraciones  \n \n \n  \n142. El factor de uso, U:  \nA) Nos lo proporcionará la casa comercial que nos vende el equipo  \nB) Hace referencia  a lo usado que está el equipo al instalarlo, por lo que vale 0 si el equipo \nes nuevo  \nC) Suele ser 1 para las paredes y ¼ para el suelo",
+            "D": "Suele ser 1 para paredes secundarias"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta143": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / El factor de ocupación, T:",
+        "opciones": {
+            "A": "Nos lo proporcionará la casa comercial que vende el equipo",
+            "B": "Se toma 1 para equipos muy ocupados",
+            "C": "Se toma 1 para zonas ocupadas por público",
+            "D": "Es adimensional"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta144": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Cómo dosis semanal para el cálculo se toma:",
+        "opciones": {
+            "A": "0.1 mSv para zonas controladas",
+            "B": "0.1 mSv para zonas no controladas",
+            "C": "5 mSv para todas las zonas",
+            "D": "1 mSv para todas las zona s"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta145": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Como supuestos de cálculo:",
+        "opciones": {
+            "A": "Se desestima la atenuación del paciente",
+            "B": "Tomamos la radiación de fuga como la mínima recomendada por la IEC (2002)",
+            "C": "La mínima distancia de personas tras la pared se supone que es 0.6 m ·",
+            "D": "Usamos la mitad de la carga semanal, W"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta146": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Para calcular el espesor de una barrera primaria:",
+        "opciones": {
+            "A": "Medimos la distancia a la pared que sufre la dispersión",
+            "B": "Obtenemos el factor de fuga del cabezal",
+            "C": "Buscamos en tablas la fracción de dispersión",
+            "D": "Obtenemos el factor de transmisión, B"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta147": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Con el factor de transmisión obtenemos el espesor deseado:",
+        "opciones": {
+            "A": "Usando les espesores de semiabsorción (HVL) primarios y de equilibrio",
+            "B": "Usando les espesores de decimorreducción (TVL) primarios y de equilibrio.",
+            "C": "Con el logaritmo decimal del cociente de espesores de decimoreducción primarios y  de \nequilibrio",
+            "D": "Con el logaritmo neperiano del cociente de espesores de semiabsorción primarios y de \nequilibrio"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta148": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Para calcular el espesor de una barrera secundaria, afectada por radiación \ndispersa:",
+        "opciones": {
+            "A": "Realizamos un cálculo con los mismos parámetros que la prima ria, pero variando la \ncarga de trabajo semanal",
+            "B": "Se usa el mismo espesor que el calculado para la primaria",
+            "C": "Procedemos de forma análoga al cálculo de la barrera primaria, pero añadiendo otros \nfactores, como la fracción de dispersión, a, y el factor de tamaño de campo, F \n(normalizado a 20 cmx20 cm)",
+            "D": "Procedemos de forma análoga al cálculo de la barrera primaria, pero añadiendo otros \nfactores, como la fracción de dispersión, a, y el factor de tamaño de campo, F \n(normalizado a 1000 cm2)"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta149": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Para calcular una barrera se cundaria, afectada por radiación de fuga:",
+        "opciones": {
+            "A": "Necesitamos, previamente conocer la radiación que se fuga a través de la pared",
+            "B": "Necesitamos, previamente medir la radiación que se fuga a través del cabezal del \nequipo",
+            "C": "Obtenemos el factor de transmisión, B, de form a análoga a la radiación secundaria",
+            "D": "Obtenemos el factor de transmisión, B, de forma análoga a la radiación primaria, pero \naplicando un factor reductor de valor 1000"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta150": {
+        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Si el espesor necesario para la pared secundaria calculado para radiación dispersa \nes simi lar al calculado para la radiación de fuga:",
+        "opciones": {
+            "A": "Usaremos el mayor de los dos espesores",
+            "B": "Añadiremos un espesor de semiabsorción al mayor de los dos",
+            "C": "Añadiremos un espesor de decimorreducción al mayor de los dos",
+            "D": "El espesor necesario será la suma de los dos"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2018 - Examen.pdf_pregunta153": {
+        "pregunta": ". La técnica de IMRT en aceleradores lineales de electrones afecta, principalmente, \nal cálculo d e espesores por radiación:",
+        "opciones": {
+            "A": "Directa",
+            "B": "Dispersa",
+            "C": "Fuga",
+            "D": "Difusa"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta19": {
+        "pregunta": "La activación de materiales en una sala de un acelerador lineal de electrones con \nenergías de 18 MV, se produce mayoritariamente por:",
+        "opciones": {
+            "A": "Reacciones (n,gamma ) con el antimonio de la mesa",
+            "B": "Reacciones (n, gamma) con el aluminio del cabezal",
+            "C": "Reacciones (gamma ,n) con el aluminio de la mesa",
+            "D": "Reacciones (n, gamma) con el aluminio de la mesa"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta34": {
+        "pregunta": "Una estructura auxiliar de un acelerador lineal de uso clínico es el:",
+        "opciones": {
+            "A": "Modulador: suministra y modula los impulsos de alta tensión al cañón y al klystron de \nuna forma sincrónica",
+            "B": "Control automático de frecuencia: una bomba iónica provee a la estructura de \naceleración y al cañón de electrones un grado de vacío adecuado",
+            "C": "Sistema de vacío: por ellas circula una intensidad de corriente contínua que crean un \ncampo magnético capaz de corregir la focalización del haz de electrones",
+            "D": "Bobinas focalizadoras: tiene como finalidad obtener una información fiable sobre las \ncondiciones de resonancia en las cavidades"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta62": {
+        "pregunta": "Para obtener una curva de rendimiento de dosis de un haz de electrones ¿se \npueden aplicar directamente los valores de ionización de la cámara?",
+        "opciones": {
+            "A": "Sí, debido a que los valores de la razón de poderes de frenado agua/aire se mantiene \nprácticamente constante con la profundidad en un haz de electrones",
+            "B": "No, debido a que los valores de la razón de poderes de frenado agua/aire varían \nrápidamente con la profundidad",
+            "C": "Sí, pero únicamente a profundidades donde existe equilibrio electrónico",
+            "D": "Sí, debido a la linealidad existente entre ionización y dosis"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta141": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nDadas las características de la opción de tratamiento elegida, se requiere un único \nisocentro. ¿Dónde resultaría más conveniente situarlo?",
+        "opciones": {
+            "A": "En el centro de masas del volumen de mayor dosis",
+            "B": "En el centro de la médula",
+            "C": "En la cadena homolateral",
+            "D": "En el plano donde empiezan a aparecer los hombros y el cambio morfológico es"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta142": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\n¿Qué angulaciones elegirías?",
+        "opciones": {
+            "A": "Haces paralelos y opuestos a 90º y 270º",
+            "B": "Se partirá de las angulaciones más favorables en las que la proyección del PTV sea \nmínima. El resto se elegirá teniendo en cuenta el contorno externo y la morfología del \nvolumen blanco",
+            "C": "Haces paralelos y opuestos a 90º y 270º y a 0º y 180º",
+            "D": "El número de angulaciones ha de ser par porque se va a proceder a una planificación inversa"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta143": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nSi el acelerador tiene energía dual (6 y 15 MV) y permite el uso de haces de \nelectrones, ¿qué combinación usarías?",
+        "opciones": {
+            "A": "6 MV para todo el tratamiento y, excepcionalmente, 15 MV para las incidencias \nposteriores en planos inferiores a los de los hombros",
+            "B": "15 MV para todo el tratamiento",
+            "C": "15 MV para el volumen de mayor dosis y electrones para las cadenas",
+            "D": "Exclusivamente electrones de energía conveniente"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta144": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nEl escáner del Servicio es antiguo y no permite cortes cada 2-3 mm con un FOV \nextendido. ¿Qué distancia entre cortes utilizarías?",
+        "opciones": {
+            "A": "La menor que permite el FOV extendido que resulta ser 10 mm",
+            "B": "Se realizaría un estudio con el FOV extendido con cortes cada 5 mm y otro de la zona \ndel volumen de mayor dosis con espaciado de 2-3 mm y se fusionarían",
+            "C": "Cada 2-3 mm, aunque queden cortados los hombros",
+            "D": "Es irrelevante"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta145": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nSe ha optado por un esquema de fraccionamiento concomitante en lugar de \nsecuencial. Si se mantiene el resto de los parámetros del tratamiento (número de \nhaces, ángulos, etc.) ¿Cómo se espera que sea el número total de U.M. de un \ntratamiento respecto al otro?",
+        "opciones": {
+            "A": "Menor para el concomitante",
+            "B": "Menor para el secuencial",
+            "C": "Iguales porque se pretende alcanzar la misma dosis",
+            "D": "Depende de la anatomía del paciente"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta146": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\n¿Cómo construirías la función objetivo para la médula espinal?",
+        "opciones": {
+            "A": "Exigiendo que la dosis media sea menor que la dosis máxima tolerable por este órgano",
+            "B": "Imponiendo la condición de que la dosis máxima no supere en ningún caso la dosis \nmáxima tolerable por este órgano",
+            "C": "Limitando que la dosis máxima permitida no supere el 10% del volumen del órgano",
+            "D": "Estableciendo varios condicionantes dosis volumen para distintas dosis representativas 147 En el proceso de verificación individualizada previo al tratamiento del paciente"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta147": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nEn el proceso de verificación individualizada previo al tratamiento del paciente \n¿dónde situarías la cámara de ionización?",
+        "opciones": {
+            "A": "En el plano donde se produce un mayor cambio en la morfología del paciente",
+            "B": "En el centro del órgano de riesgo más limitante",
+            "C": "En la zona de máximo gradiente de dosis",
+            "D": "En un punto del volumen de tratamiento de mayor dosis, eligiéndolo de forma que \nexista uniformidad de dosis"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2015 - Examen.pdf_pregunta148": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nPara la verificación de la distribución de dosis se han usado películas \nradiocrómicas, obteniéndose que el porcentaje de puntos que cumplen el criterio \ngamma está entre el 90% y el 95%. ¿Sería aceptable la verificación?",
+        "opciones": {
+            "A": "No. No pueden aceptarse distribuciones con menos de un 95% de puntos que superen \nel criterio gamma",
+            "B": "Sí, siempre. Se trata de un porcentaje de concordancia aceptable",
+            "C": "Sólo si se puede estimar que las discrepancias se encuentran en zonas de poca \nrelevancia clínica",
+            "D": "Hay que repetir de nuevo el proceso de irradiación de la película"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2015 - Examen.pdf_pregunta149": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nAl finalizar la sesión número 20 se produce una avería que impide el tratamiento \ndurante 2 días. ¿Cuál será la nueva dosis por sesión (referida al PTV1) si se quiere \nmantener el overall time? Suponer que el coeficiente para el tumor es alfa/beta = \n10 Gy. Asimismo, suponer despreciable el parámetro de proliferación tisular \ntumoral:",
+        "opciones": {
+            "A": "2.77 Gy",
+            "B": "2.50 Gy",
+            "C": "2.43 Gy",
+            "D": "2.65 Gy"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta150": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nSuponiendo que el cambio en la dosis por sesión afecta también a la médula \nincrementando su dosis a partir de la interrupción en un 10% ¿cuál sería la nueva \ndosis biológica efectiva (DBE) total con el nuevo fraccionamiento? Suponer que la \ndosis física prevista para este órgano de riesgo en ausencia de la interrupción era 45 Gy y que su coeficiente alfa/beta = 2 Gy. Suponer también despreciable el \nparámetro de proliferación tisular tumoral:",
+        "opciones": {
+            "A": "50.41 Gy",
+            "B": "76.59 Gy",
+            "C": "62.53 Gy",
+            "D": "84.30 Gy"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta4": {
+        "pregunta": "Según se incluye en el informe ICRU-89, sobre braquiterapia de cáncer de cérvix, los puntos PIBS se utilizan para:",
+        "opciones": {
+            "A": "Evaluar la dosis en el cuello de la vejiga.",
+            "B": "Evaluar la dosis en vagina.",
+            "C": "Evaluar la dosis en parametrios.",
+            "D": "Evaluar la dosis en la sínfisis de pubis."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta10": {
+        "pregunta": "keV a una distancia de 1 cm.  \n \n38. Según el informe del grupo de trabajo TG 218 de la AAPM, en la \nverificación de la distribución de dosis de un plan de tratamiento de \nIMRT/VMAT utilizando el análisis gamma con normalización global \nen dosis absoluta, la tolerancia universal que establece es que la tasa \nde paso gamma debería de ser:",
+        "opciones": {
+            "A": "Inferior al 90%, con 3% dosis / 3 mm y dosis umbral del 10%.",
+            "B": "Inferior al 90%, con 3% dosis / 2 mm y dosis umbral del 10%.",
+            "C": "Superior al 90% e inferior al 95%, con 3% dosis / 2 mm y dosis \numbral del 10%.",
+            "D": "Superior 95%, con 3% dosis / 2 mm y dosis umbral del 10%."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta11": {
+        "pregunta": ". En la publicación “Control de calidad en aceleradores de electrones \npara uso médico” de la SEFM, ¿Qué tolerancia se establece en la \nverificación de la calidad espectral  del haz de electrones?",
+        "opciones": {
+            "A": "2%",
+            "B": "1mm",
+            "C": "2mm",
+            "D": "1%"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta15": {
+        "pregunta": ". En la publicación de la SEFM “Control de calidad en aceleradores de \nelectrones para uso médico”, ¿Qué tolerancia y periodicidad se \nestablece para la verificación del isocentro de radiación respecto al \ngiro del brazo para un acelerador que realice tratamientos de \nradiocirugía?",
+        "opciones": {
+            "A": "1 mm de radio con periodicidad diaria si hay tratamiento de \nradioc irugía.",
+            "B": "1 mm de diámetro con periodicidad mensual.",
+            "C": "0,5 mm de radio con periodicidad mensual.",
+            "D": "1 mm de diámetro con periodicidad diaria si hay tratamiento \nde radiocirugía."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta23": {
+        "pregunta": ". Para evaluar la dosimetría de un tratamiento de SBRT o radiocirugía, \nexisten diferentes definiciones del índice de conformidad.  ¿Cuál de \nlos siguientes es el inverso del índice de Paddick, tal y como aparece \nen el informe ICRU 91? (TV es el Volumen del PTV, PIV es el volumen \nde la isodosis de prescripción y TV PIV es el volumen del PTV cubierto \npor la isodosis de prescripción)",
+        "opciones": {
+            "A": "PIV/TV",
+            "B": "(TV PIV/TV) x (TV/ TV PIV)",
+            "C": "(TV x PIV)/ (TV PIV)2",
+            "D": "TVPIV/PIV"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta24": {
+        "pregunta": ". En el informe ICRU 91, “Prescribing, recording, and reporting of \nstereotactic treatments with small photon beams”,  señale el \nparámetro que se recomienda para informar de la dosis próxima a \nla mínima (near -minimum dose) en un PTV de 1,9 cm3, es:",
+        "opciones": {
+            "A": "D98%",
+            "B": "D2%",
+            "C": "Dmin",
+            "D": "DV-35mm3"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta27": {
+        "pregunta": ". Según el Código de Práctica TRS -398, en la determinación de la dosis \nabsorbida en condiciones de referencia de un haz de electrones de \níndice de c alidad de 5 g/cm2, si utilizamos una cámara cilíndrica de \nradio interno de su cavidad r cyl ¿Dónde colocaremos su punto de \nreferencia?",
+        "opciones": {
+            "A": "0,6 r cyl más profundo que z ref.",
+            "B": "A la profundidad del máximo, z max.",
+            "C": "No está permitido el uso de cámaras cilíndricas para  \nelectrones de esta calidad.",
+            "D": "0,5 r cyl más profundo que z ref."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta28": {
+        "pregunta": ". En el informe del Grupo de Trabajo sobre SBRT de la SEFM \n“Recomendaciones de la Sociedad Española de Física Médica (SEFM) \nsobre implementación y uso clínico de radioterapia estereotáxica \nextracraneal (SBRT)”, respecto a la dosimetría clínica se considera \nimprescindible:",
+        "opciones": {
+            "A": "Que el índice de conformidad RTOG sea menor a 1,4.",
+            "B": "Que todas las dosis altas superiores al 100% de la dosis de \nprescripción queden dentro del volumen blanco.",
+            "C": "Que la dosis absorbida máxima sea inferior al 135% de la \ndosis de prescripción en los aceleradores en C.",
+            "D": "Usar una rejilla de cálculo con una resolución no mayor de 2 \nmm"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta35": {
+        "pregunta": ". En el estudio EMBRACE II, “Image guided intensity modulated \nExternal beam radiochemotherapy and MRI based BRAchytherapy \nin locally advanced CErvical cancer”, se establecen unos objetivos de \ndosis y límites de prescripción teniendo en cuenta las dosis \nabsor bidas de radioterapia externa y braquiterapia, ¿Cuál es uno de \nlos objetivos de dosis para el CTV -HR?",
+        "opciones": {
+            "A": "D98% > 85 Gy (EQD2, α/β=10Gy)",
+            "B": "D90% > 95 Gy (EQD2, α/β=10Gy)",
+            "C": "D98% > 75 Gy (EQD2, α/β=10Gy)",
+            "D": "D90% > 85 Gy (EQD2, α/β=10Gy)"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta37": {
+        "pregunta": ". En el formalismo TG 43 para el cálculo de dosis en braquiterapia, \n¿Cómo se define la constante de tasa de dosis absorbida?",
+        "opciones": {
+            "A": "Se define como la tasa de do sis absorbida en agua a la \ndistancia de 1 cm en el eje transversal de la fuente por unidad \nde S K.",
+            "B": "Se define como la tasa de dosis absorbida en agua a la \ndistancia de 1 mm en el eje transversal de la fuente por \nunidad de S K.",
+            "C": "Es la misma para fuentes del mis mo isotopo e igual tamaño.",
+            "D": "Se define como la tasa de kerma en aire en vacío y debido a \nfotones de energía mayor a 10keV a una distancia de 1 cm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta38": {
+        "pregunta": "Según el informe del grupo de trabajo TG 218 de la AAPM, en la verificación de la distribución de dosis de un plan de tratamiento de IMRT/VMAT utilizando el análisis gamma con normalización global en dosis absoluta, la tolerancia universal que establece es que la tasa de paso gamma debería de ser:",
+        "opciones": {
+            "A": "Se define como la tasa de do sis absorbida en agua a la \ndistancia de 1 cm en el eje transversal de la fuente por unidad \nde S K.",
+            "B": "Se define como la tasa de dosis absorbida en agua a la \ndistancia de 1 mm en el eje transversal de la fuente por \nunidad de S K.",
+            "C": "Es la misma para fuentes del mis mo isotopo e igual tamaño.",
+            "D": "Se define como la tasa de kerma en aire en vacío y debido a \nfotones de energía mayor a 10keV a una distancia de 1 cm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta46": {
+        "pregunta": ". Según el código de práctica TRS 483, para los haces de fotones \nutilizados en radioterapia externa, se dan condiciones de haz \nestrecho cuando:",
+        "opciones": {
+            "A": "El tamaño de campo en cualquiera de sus ejes, definido como \nla anchura a mitad de altura (FWHM) a la profundidad de \nmedida, sea menor de 3 cm.",
+            "B": "Se dan estas tres condiciones: pérdida de equilibrio \nelectrónico lateral en el eje; oclusión parcial de la fuente \nprimaria por el sistema de colimación; tamaño del detector \nsimilar o mayor que el tamaño de campo.",
+            "C": "El volumen de l detector es m ayor de 0, 125 cm3.",
+            "D": "Exista pérdida de equilibrio electrónico lateral en el eje del \ncampo."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta49": {
+        "pregunta": ". Según se recoge en el informe ICRU 83, diferentes autores proponen \nfórmulas para el cálculo del margen CTV -PTV. ¿Mediante qué \nexpresión se indica que el margen resultante permite que la dosis \nmínima en el CTV sea de l 95% para el 90% de pacientes?",
+        "opciones": {
+            "A": "Margen por Stroom: M = 2Σ + 0, 7σ.",
+            "B": "Margen por van Herk: M = 2, 5Σ + 0, 7σ.",
+            "C": "Margen por McKenzei: M = 1 ,3Σ + 0, 5σ.",
+            "D": "Todos ofrecen la misma cobertura del CTV, difieren en la \ndefinición de Σ y σ."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta53": {
+        "pregunta": ". En el estudio EMBRACE II, “Image guided intensity modulated \nExternal beam radiochemotherapy and MRI based BRAchytherapy \nin locally advanced CErvical cancer”, se establecen unos objetivos \nde dosis y límites de prescripción teniendo en cuenta las dosis \nabsorbidas de radioterapia externa y braquiterapia, ¿Cuál es el \nlímite de dosis para el recto?",
+        "opciones": {
+            "A": "D2 cm3< 75 Gy (EQD2, α/β=3Gy)",
+            "B": "D1 cm3 < 65 Gy (EQD2, α/β=3Gy)",
+            "C": "D0.1 cm3< 75 Gy (EQD2, α/β=3Gy)",
+            "D": "D2 cm3 < 65 Gy (EQD2, α/β=3Gy)"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta14": {
+        "pregunta": ". El documento de la IAEA N º 1540 propone diferentes criterios de aceptación de las \ndesviaciones entre la dosis calculada por el TPS y la medida experimentalmente. A este \nrespecto, en el caso de campos cuadrados con cuña (Test 4 p. ej.) ¿cuál es la tolerancia \n(error relativo) para medidas en el eje y fuera del eje pero dentro del campo de radiación?:",
+        "opciones": {
+            "A": "3% y 3%.",
+            "B": "2% y 3%.",
+            "C": "2% y 5%.",
+            "D": "3% y 5%."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta15": {
+        "pregunta": "En el cálculo del blindaje de una barrera primaria de un acelerador lineal para RX, se calcula que la \ntransmisión que debe tener la barrera para que la zona sea considerada como de libre acceso es \nde 10-4. Si empleamos hormigón normal, con un valor de capa decimorreductora de 45 cm, ¿qué \nespesor mínimo es necesario?:",
+        "opciones": {
+            "A": "150 cm.",
+            "B": "180 cm.",
+            "C": "210 cm.",
+            "D": "240 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta17": {
+        "pregunta": ". De acuerdo con la metodología MARR, en relación con los posibles errores humanos \nen el proceso de radioterapia 3D conformada, la existencia y seguimiento de \nprocedimientos se considera:",
+        "opciones": {
+            "A": "Suceso iniciador.",
+            "B": "Barrera.",
+            "C": "Reductor de frecuencia.",
+            "D": "Reductor de consecuencias."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta23": {
+        "pregunta": ". En un tratamiento de radioterapia de pelvis, la desviación sistemática que se \nencuentra en el posicionado del paciente entre la simulación y el tratamiento es una \nincertidumbre de tipo:",
+        "opciones": {
+            "A": "A.",
+            "B": "B.",
+            "C": "C.",
+            "D": "D."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta26": {
+        "pregunta": ". El proceso de planificación de un tratamiento de Radioterapia externa conduce a la \ndefinición de una serie de parámetros del haz de tratamiento que se encapsulan en el \nobjeto DICOM RT Plan. ¿Cuáles de los siguientes módulos forman parte de este objeto?:",
+        "opciones": {
+            "A": "RT Prescription, RT Beams, RT Dose.",
+            "B": "RT Patient Setup, RT Tolerance Tables, RT Dose, RT Beams.",
+            "C": "RT Patient Setup, RT Tolerance Tables, RT Fraction Scheme.",
+            "D": "Todos los anteriores."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta33": {
+        "pregunta": ". En un tratamiento de Cabeza y Cuello con radioterapia externa se prescribe una dosis \na PTV (α/β=10) de 70 Gy con un fraccionamiento estándar (35 fracciones de 2Gy). La \ndosis límite en la mandíbula ( α/β=2) es de 70 Gy. La conformación del plan indica que la \nisodosis máxima en mandíbula es del 80%. Cuando se llevan administradas 25 sesiones, \nse decide aumentar el fraccionamiento para acelerar el fin del tratamiento a causa de \nuna operación programada para el paciente. Según el modelo LQ, ¿cuál de los siguientes \nesquemas de fraccionamiento para las sesiones restantes presenta un mayor efecto \nbiológico en tumor sin superar la restricción de dosis en mandíbula planteada?:",
+        "opciones": {
+            "A": "8 fracción de 2.5 Gy.",
+            "B": "5 fracciones de 4 Gy.",
+            "C": "4 fracciones de 5 Gy.",
+            "D": "2 fracciones de 10 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta38": {
+        "pregunta": ". Según NCRP 151, para el cálculo de blindajes de un acelerador lineal para su uso en \nradioterapia con energía de RX inferior a 10 MV, la carga de trabajo semanal \nrecomendada es:",
+        "opciones": {
+            "A": "100 Gy sem-1.",
+            "B": "1000 Gy sem-1.",
+            "C": "5000 Gy sem-1.",
+            "D": "10000 Gy sem-1."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta39": {
+        "pregunta": "Un haz de electrones, cuya energía más probable en superficie es de 6 MeV, está definido por un \naplicador con un tamaño de campo en superficie de maniquí de 20x20 cm2. Si queremos reducir el \ntamaño de campo en superficie con un bloque de cerrobend cuadrado, ¿aproximadamente qué \ntamaño mínimo de campo en superficie podemos construir sin que haya una variación del \nporcentaje de dosis en profundidad en el eje central debido a la dispersión en un maniquí de \nagua?:",
+        "opciones": {
+            "A": "15x15 cm2.",
+            "B": "10x10 cm2.",
+            "C": "5x5 cm2.",
+            "D": "3x3 cm2."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta46": {
+        "pregunta": ". Las recomendaciones de Quantec para los tratamientos de Radiocirugía craneal \nproponen un valor de restricción de dosis a la cóclea de:",
+        "opciones": {
+            "A": "5 Gy.",
+            "B": "8 Gy.",
+            "C": "10 Gy.",
+            "D": "12 Gy."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta55": {
+        "pregunta": ". En un tratamiento de RC de un meningioma una dosis típica al PTV es de:",
+        "opciones": {
+            "A": "30 Gy.",
+            "B": "25 Gy.",
+            "C": "13 Gy.",
+            "D": "8 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta58": {
+        "pregunta": ". En el proceso de planificación de un tratamiento de Radioterapia externa, ¿qué \nsistema de coordenadas, movimiento y escalas utiliza el estándar DICOM RT en la \ndefinición de los haces?:",
+        "opciones": {
+            "A": "IEC 61217.",
+            "B": "IEC 60601.",
+            "C": "IEC 61283.",
+            "D": "IEC 61168."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta62": {
+        "pregunta": ". De las recomendaciones de la AAPM TG-218 para la verificación de las distribuciones \nde dosis en el control de calidad de IMRT, señale la INCORRECTA:",
+        "opciones": {
+            "A": "Se debe usar la normalización global, ya que es clínicamente más relevante, y se \nelegirá el punto de normalización global, siempre que sea posible, en una región de bajo \ngradiente de dosis con un valor del 90% de la dosis máxima en el plano de medida.",
+            "B": "Para rutinas de control de calidad de IMRT, la normalización local es más restrictiva \nque la global, por lo que es más adecuado su uso en el proceso de comisionado.",
+            "C": "Debe establecerse un umbral de dosis para excluir las regiones de baja dosis en el \nanálisis γ que, de incluirse, tienden a aumentar la tasa de paso cuando se utiliza la \nnormalización local.",
+            "D": "El análisis de las medidas del control de calidad de IMRT y el correspondiente plan de tratamiento \ndeben realizarse en dosis absoluta, no en dosis relativa."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta89": {
+        "pregunta": ". ¿Qué magnitud recomienda ICRU para caracterizar la fuente de 192Ir de una unidad \nde braquiterapia de alta tasa?:",
+        "opciones": {
+            "A": "Tasa de kerma de referencia en aire.",
+            "B": "Tasa de dosis absorbida de referencia en agua.",
+            "C": "Actividad equivalente.",
+            "D": "Actividad aparente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta96": {
+        "pregunta": ". En el tratamiento de cáncer de cérvix con braquiterapia de alta tasa se utiliza el \naplicador Utrecht (sonda intrauterina más ovoides). ¿Cuántos catéteres de componentes \nintersticiales están disponibles para complementar la dosimetría de la sonda \nintrauterina?:",
+        "opciones": {
+            "A": "5.",
+            "B": "6.",
+            "C": "4.",
+            "D": "10."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta97": {
+        "pregunta": ". Las recomendaciones de Quantec para los tratamientos de Radiocirugía craneal \nproponen un valor de restricción de dosis al resto de cerebro sano de:",
+        "opciones": {
+            "A": "10 Gy/10 cm3.",
+            "B": "12 cm3/12 Gy.",
+            "C": "10 Gy/12 cm3.",
+            "D": "10 cm3/12 Gy."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta103": {
+        "pregunta": ". El número de capas decimorreductoras necesarias en una pared de una sala de \nbraquiterapia de alta tasa de dosis NO depende de:",
+        "opciones": {
+            "A": "El material de la pared.",
+            "B": "El radionúclido.",
+            "C": "La carga de trabajo.",
+            "D": "La actividad máxima de la fuente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta109": {
+        "pregunta": ". La distribución de la dosis en agua se puede calcular en cualquier punto P(r, θ) \nalrededor de una fuente radiactiva con ayuda de la siguiente ecuación, propuesta en el \nprotocolo recomendado por TG-43 para dosimetría de fuentes intersticiales en \nBraquiterapia, para dos dimensiones: D ´(r,θ) = SK. A.[G(r, θ) / G(r0,θ 0) ]. F(r,θ). g(r) \ndonde: D ´(r,θ) es la tasa de dosis en el punto P(r, θ) SK es el kerma en aire, \nproporcional a la actividad de la fuente A la constante de tasa de dosis en unidades de \ncGy/h/U G(r, θ) factor de geometría F(r, θ) factor de anisotropía g(r) función radial de \ndosis Siendo P(r0, θ0) el punto de referencia tomado sobre un bisector transversal al eje \nde la fuente a 1 cm de su centro r0 = 1 cm, θ 0 = π/2:",
+        "opciones": {
+            "A": "La función radial de dosis g(r) no es válida en la región paraxial del eje de la fuente ( ± \n15°).",
+            "B": "El factor F (r, θ) de anisotropía no es válido en la región paraxial del eje de la fuente ( ± \n15°).",
+            "C": "La distancia al punto de referencia se toma r0= 1 cm, θ 0 = π/4 en la bisectriz con el \neje de la fuente.",
+            "D": "Todas las proposiciones del enunciado son ciertas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta114": {
+        "pregunta": ". En un haz de electrones, la tasa de pérdida de energía radiativa por centímetro en un \nmedido (Bremsstrahlung), ¿cómo depende respecto de la energía de los electrones (E) y \nel número atómico del medio (Z)?:",
+        "opciones": {
+            "A": "Es proporcional a E1/2 y Z.",
+            "B": "Es proporcional a E y Z3.",
+            "C": "Es proporcional a E y Z.",
+            "D": "Es proporcional a E y Z2."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta116": {
+        "pregunta": ". Los hotspots (puntos calientes) desempeñan un papel importante en la evaluación \nde planificaciones de radioterapia, sobre todo en el caso de planes modulados, incluso \nalgunos planificadores como PINNACLE los utilizan como criterios para considerar en la optimización. Según la definición de estos puntos realizada en ICRU N º 50 e ICRU N º 62, \n¿cuál de las siguientes definiciones es cierta?:",
+        "opciones": {
+            "A": "Regiones fuera del PTV con niveles de dosis superiores al 105% de la dosis \nespecificada al PTV. Excepto en el caso de órganos pequeños, solo son considerados \nsignificativos si el diámetro menor es superior a 15 mm.",
+            "B": "Regiones fuera del PTV con niveles de dosis superiores al 105% de la dosis \nespecificada al PTV. \nExcepto en el caso de órganos pequeños, solo son considerados significativos si su área \nes superior a 2 cm2.",
+            "C": "Regiones fuera del PTV con niveles de dosis superiores al 102% de la dosis \nespecificada al PTV.",
+            "D": "Regiones fuera del PTV con niveles de dosis superiores al 100% de la dosis especificada al PTV."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta118": {
+        "pregunta": ". En el tratamiento de radioterapia focal sobre nódulo dominante en cáncer de \npróstata se utilizan marcadores fiduciales de oro para hacer el registro de imagen \nmultimodalidad. ¿Cuál de las siguientes secuencias de resonancia magnética es más \nadecuada para la fusión con el TC de planificación?:",
+        "opciones": {
+            "A": "Potenciada en T1.",
+            "B": "Potenciada en difusión, DWI.",
+            "C": "Eco de gradiente potenciada en T2.",
+            "D": "STEAM."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta125": {
+        "pregunta": ". En un tratamiento de RC de una metástasis cerebelosa de menos de 3 cm3 de PTV \nuna dosis típica es de:",
+        "opciones": {
+            "A": "30 Gy.",
+            "B": "22 Gy.",
+            "C": "15 Gy.",
+            "D": "10 Gy."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta128": {
+        "pregunta": ". Un tratamiento de radioterapia se ha planificado con RX de 6 MV para administrar 60 \nGy al PTV (volumen tumoral) con un fraccionamiento de 3.0 Gy por sesión. Un tejido sano \npróximo recibe el 50% de la dosis total prescrita al PTV. En esta situación, la dosis \nefectiva biológica (BED, Biological Effective Dose) del tejido sano, cuyo cociente alfa/beta \nes de 3, es, según el modelo cuadrático lineal:",
+        "opciones": {
+            "A": "45 Gy3.",
+            "B": "60 Gy3.",
+            "C": "75 Gy3.",
+            "D": "90 Gy3."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta135": {
+        "pregunta": ". Para calcular el margen del PTV, diferentes autores proponen expresiones partiendo \nde los valores de los errores sistemáticos y aleatorios de la población. ¿Qué expresión \npermite obtener un margen para cubrir el 99% del CTV, en promedio poblacional, con al \nmenos el 95% de la dosis prescrita?:",
+        "opciones": {
+            "A": "Margen por Stroom: M = 2 Σ + 0.7σ.",
+            "B": "Margen por van Herk: M = 2.5 Σ + 0.7σ.",
+            "C": "Margen por McKenzei: M = 1.3 Σ + 0.5σ.",
+            "D": "Todos ofrecen la misma cobertura del CTV, difieren en la definición de Σ y σ."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta5": {
+        "pregunta": "Los isótopos radiactivos más usuados en braquiterapia de alta tasa (HDR) son:",
+        "opciones": {
+            "A": "I-125 y Co-57",
+            "B": "Ir-192 y Co -57",
+            "C": "I-125 e Ir-192",
+            "D": "Ir-192 y Co-60"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Madrid_2024.pdf_pregunta17": {
+        "pregunta": "Las cámaras de pozo se utilizan en braquiterapia para:",
+        "opciones": {
+            "A": "Verificar, en principio, el certificado de calibración de las fuentes. Existe la imposición legal de realizar este control",
+            "B": "Verificar, en principio, el certificado de calibración de las fuentes, aunque no existe la imposición legal de realizar este control",
+            "C": "No se usan para la calibración y verificación de fuentes. Se suelen utilizar otro tipo de cámaras como las de dedal",
+            "D": "Medir diariamente la actividad de la fuente usada en braquiterapia"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta18": {
+        "pregunta": "En los tratamientos de VMAT o IMRT:",
+        "opciones": {
+            "A": "Es posible utilizar parámetros biológicos en la optimización.",
+            "B": "Es obligatorio el uso de dosimetría in-vivo.",
+            "C": "Debe utilizarse siempre la energía de fotones más baja disponible.",
+            "D": "Se deben evitar localizaciones sometidas al movimiento respiratorio."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta20": {
+        "pregunta": "¿Cuál es la ventaja principal de un tratamiento de radioterapia con 'gating', frente a otro en el que no se monitoriza el ciclo respiratorio?",
+        "opciones": {
+            "A": "Permite aumentar la dosis administrada al volumen blanco, y por lo tanto el control tumoral",
+            "B": "Permite reducir el margen entre el CTV y el PTV, y así irradiar menos tejido sano",
+            "C": "Permite reducir el tiempo de irradiación",
+            "D": "Permite mejorar la precisión en el posicionamiento del paciente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Madrid_2024.pdf_pregunta23": {
+        "pregunta": "¿Qué técnica se utiliza en los algoritmos de convolución/superposición para modelar el endurecimiento espectral del haz de fotones en profundidad?",
+        "opciones": {
+            "A": "'Kernel hardening correction'.",
+            "B": "'Kernel swallow correction'.",
+            "C": "'Range rejection'.",
+            "D": "'Photon forcing'."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta24": {
+        "pregunta": "En braquiterapia intraluminal:",
+        "opciones": {
+            "A": "El catéter se coloca retroiluminando la cavidad y la mucosa a tratar.",
+            "B": "El material radiactivo se inserta en la luz anatómica, limitada por la mucosa del órgano.",
+            "C": "El volumen de tratamiento se determina por la mucosa visible iluminada desde el interior.",
+            "D": "Se realiza dosimetría in-vivo por la luz Cerenkov generada por la fuente radiactiva."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Madrid_2024.pdf_pregunta27": {
+        "pregunta": "Si en t=0 se realiza un implante permanente de braquiterapia con un isótopo con semivida T1/2, ¿qué expresión es la correcta para la dosis absorbida?",
+        "opciones": {
+            "A": "Dosis = Tasa dosis (t=0) · (T1/2)",
+            "B": "Dosis = Tasa dosis (t=0) · (T1/2) · ln(2)",
+            "C": "Dosis = Tasa dosis (t=0) · (T1/2) / ln(2)",
+            "D": "Dosis = Tasa dosis (t=0) · (T1/2)^2"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Madrid_2024.pdf_pregunta32": {
+        "pregunta": "¿En radioterapia, cuál de estos sistemas proporciona información DIRECTA sobre el movimiento interno del tumor debido a la respiración?",
+        "opciones": {
+            "A": "Sistemas ópticos de detección de la superficie del paciente (SGRT)",
+            "B": "Sistemas basados en la detección de marcadores de infrarrojos colocados en la superficie del paciente",
+            "C": "Sistemas basados en la detección de marcadores radioopacos implantados en el tumor, mediante imágenes radiográficas adquiridas durante el tratamiento",
+            "D": "Sistemas que miden la cantidad de aire contenida en el pulmón en cada momento"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Madrid_2024.pdf_pregunta37": {
+        "pregunta": "El sistema de París en braquiterapia:",
+        "opciones": {
+            "A": "Es un sistema de pre-planificación para uso clínico, para tratamiento con implantes intersticiales.",
+            "B": "Es igual que el sistema de Manchester.",
+            "C": "Se utiliza para el cálculo de implantes permanentes de próstata.",
+            "D": "Se utiliza con aplicadores tipo Fletcher."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta40": {
+        "pregunta": "Respecto a las unidades utilizadas en braquiterapia, señalar la opción correcta:",
+        "opciones": {
+            "A": "1 U = 1,270 mCi para I-125.",
+            "B": "1 U = 10 Gy/h mm².",
+            "C": "1 U = 10⁻⁶ Gy/h m².",
+            "D": "1 U = 10² cGy/h cm²."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Madrid_2024.pdf_pregunta41": {
+        "pregunta": "En la verificación del valor de referencia de un lote de fuentes de braquiterapia, cuyo número elevado y corto periodo de semidesintegración impiden realizar un análisis de todo el lote, según el Real Decreto 1966/1998 por el que se establecen los criterios de calidad en radioterapia, la verificación se hará para una muestra de las fuentes:",
+        "opciones": {
+            "A": "No inferior al 10% del lote",
+            "B": "De al menos el 50% del lote",
+            "C": "De al menos el 75% del lote",
+            "D": "Deben ser verificadas siempre todas las fuentes individualmente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Madrid_2024.pdf_pregunta45": {
+        "pregunta": "Las formas con la que se especifican las fuentes de braquiterapia son (señalar opción INCORRECTA):",
+        "opciones": {
+            "A": "Afinidad.",
+            "B": "Tasa de exposición nominal.",
+            "C": "Tasa de kerma de referencia en aire.",
+            "D": "Actividad."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta26": {
+        "pregunta": "Según Khan en “The Physics of Radiation Therapy”, los rayos X utilizados en radioterapia superficial están en el rango:",
+        "opciones": {
+            "A": "30-50 kV",
+            "B": "50-150 kV",
+            "C": "150-200 kV",
+            "D": "200-250 kV"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta33": {
+        "pregunta": "En un acelerador lineal de electrones clínico, el colimador primario está situado entre:",
+        "opciones": {
+            "A": "la estructura aceleradora y el blanco.",
+            "B": "el blanco y el carrusel de filtros.",
+            "C": "el carrusel de filtros y la cámara de ionización.",
+            "D": "la cámara de ionización y el colimador secundario."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta37": {
+        "pregunta": "En un acelerador lineal que pueda generar haces de fotones y electrones, para una misma tasa de dosis, la corriente de electrones en la guía aceleradora cuando opera en modo fotones:",
+        "opciones": {
+            "A": "es siempre menor que en modo electrones.",
+            "B": "es un orden de magnitud mayor que en modo electrones.",
+            "C": "es dos o tres órdenes de magnitud mayor que en modo electrones.",
+            "D": "puede ser mayor o menor que en modo electrones dependiendo de la energía."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta51": {
+        "pregunta": "Los activímetros, esenciales para el trabajo de Medicina Nuclear, tienen un aspecto similar a las cámaras pozo utilizadas en braquiterapia, pero se diferencia con estas en (Señala la FALSA):",
+        "opciones": {
+            "A": "son estancos.",
+            "B": "son independientes de la posición de la muestra en el interior de la cámara.",
+            "C": "se utiliza un gas noble a alta presión para mejorar su eficiencia de detección.",
+            "D": "necesita de varias calibraciones dependiendo del tipo de emisor de radiación."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta100": {
+        "pregunta": "Según QUANTEC, para un fraccionamiento estándar y una incidencia del 5% de disfunción renal, recomienda que un 32% del volumen bilateral de riñón no reciba más de:",
+        "opciones": {
+            "A": "10 Gy.",
+            "B": "15 Gy.",
+            "C": "20 Gy.",
+            "D": "25 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta104": {
+        "pregunta": "Sobre el Algoritmo de Clarkson para el cálculo de haces de fotones de un planificador de Radioterapia, señala la opción VERDADERA.",
+        "opciones": {
+            "A": "Su principal desventaja es que no considera formas irregulares del haz de radiación.",
+            "B": "Se basa en el cálculo de la radiación emitida por el acelerador lineal expresada mediante una función conocida como Kernel que tiene simetría angular.",
+            "C": "Su principal ventaja es que considera las variaciones de dosis dispersa por incidencias oblicuas o superficies curvadas.",
+            "D": "Se basa en el principio de que la radiación dispersa se puede calcular de forma separada de la componente primaria."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta105": {
+        "pregunta": "Según las recomendaciones para el control de equipos y técnicas de radioterapia guiada por imagen (IGRT) de la SEFM, el TC de adquisición lenta es una técnica apropiada:",
+        "opciones": {
+            "A": "para los tumores de hígado.",
+            "B": "para los tumores pulmonares periféricos.",
+            "C": "preferiblemente para los tumores pulmonares que afectan a pared costal y mediastino.",
+            "D": "para los tumores de riñón."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta106": {
+        "pregunta": "El Margen Interno (IM) es añadido al:",
+        "opciones": {
+            "A": "GTV para tener en cuenta sus movimientos fisiológicos esperados y sus variaciones en tamaño, forma y posición.",
+            "B": "CTV para tener en cuenta sus movimientos fisiológicos esperados y sus variaciones en tamaño, forma y posición.",
+            "C": "ITV para dar cuenta de forma específica de las incertidumbres (imprecisiones y pérdidas de reproducibilidad) en el posicionamiento del paciente.",
+            "D": "PTV para dar cuenta de forma específica de las incertidumbres (imprecisiones y pérdidas de reproducibilidad) en el posicionamiento del paciente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta109": {
+        "pregunta": "En la modalidad VMAT, de forma general, como máximo ¿qué variables pueden cambiar simultáneamente durante la irradiación?",
+        "opciones": {
+            "A": "velocidad del gantry, tasa de UM, posición de láminas y mordazas",
+            "B": "velocidad del gantry, posición de láminas y mordazas",
+            "C": "tasa de UM, posición de láminas y mordazas",
+            "D": "tasa de UM, posición de láminas y energía"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta110": {
+        "pregunta": "Actualmente, en los países desarrollados, los tratamientos de radiocirugía se hacen mediante:",
+        "opciones": {
+            "A": "haces de electrones, rayos X de kilovoltaje o braquiterapia.",
+            "B": "rayos X de kilovoltaje o haces de electrones únicamente.",
+            "C": "unidades de cobalto-60 o rayos X de megavoltaje.",
+            "D": "rayos X de megavoltaje únicamente."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta111": {
+        "pregunta": "Según las Recomendaciones de la Sociedad Española de Física Médica sobre implementación y uso clínico de radioterapia estereotáxica extracraneal (SBRT) con respecto a la dosimetría clínica ¿cuál NO es imprescindible?",
+        "opciones": {
+            "A": "usar una rejilla de cálculo con una resolución de 2 mm, siendo recomendable resoluciones de 1 mm cuando los volúmenes a evaluar sean muy pequeños o con gradientes de dosis grandes, como en los tratamientos de SBRT de vértebra.",
+            "B": "que la dosis absorbida máxima sea el 125% de la dosis de prescripción en los aceleradores en C y de anillo, mientras que si se realiza con aceleradores robotizados sea de 135%.",
+            "C": "normalizar el plan de tratamiento de tal forma que la dosis de prescripción abarque un porcentaje alto del volumen blanco, siendo recomendable una cuantía del 95%.",
+            "D": "definir criterios para índices de conformidad u homogeneidad."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta112": {
+        "pregunta": "Según las Recomendaciones de la Sociedad Española de Física Médica sobre implementación y uso clínico de radioterapia estereotáxica extracraneal (SBRT) con respecto al control de calidad para los tratamientos de IMRT y VMAT se debe realizar medidas experimentales en el acelerador y compararlas con valores calculados por el sistema de planificación. Si se emplea el índice gamma es IMPRESCINDIBLE que:",
+        "opciones": {
+            "A": "el 95% de los puntos evaluados cumplan el criterio de 3%/3mm.",
+            "B": "el 95% de los puntos evaluados cumplan el criterio 3%/2mm.",
+            "C": "el 98% de los puntos evaluados cumplan el criterio 3%/3mm.",
+            "D": "el 98% de los puntos evaluados cumplan el criterio 3%/2mm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta113": {
+        "pregunta": "El proyecto MARR (matrices de riesgo en radioterapia) define el riesgo de una actividad como:",
+        "opciones": {
+            "A": "FRECUENCIA DEL FALLO x PROBABILIDAD DE FALLO DE LAS MEDIDAS PREVENTIVAS.",
+            "B": "FRECUENCIA DEL FALLO x MAGNITUD DEL DAÑO.",
+            "C": "FRECUENCIA DEL FALLO X PROBABILIDAD DE FALLO DE LAS MEDIDAS PREVENTIVAS x MAGNITUD DEL DAÑO.",
+            "D": "FRECUENCIA DEL FALLO x PROBABILIDAD DE FALLO DE LAS MEDIDAS PREVENTIVAS."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta114": {
+        "pregunta": "La información actualizada sobre las características dosimétricas de casi todas las fuentes de braquiterapia comerciales basadas en radionucleidos está disponible públicamente en:",
+        "opciones": {
+            "A": "listado “Brachytherapy source reference database” del NIST.",
+            "B": "base de datos de fuentes de braquiterapia de la IAEA.",
+            "C": "listado de GEC-ESTRO y registro AAPM-IROC.",
+            "D": "ninguno de los anteriores."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta115": {
+        "pregunta": "La técnica más recomendada actualmente por GEC-ESTRO para la braquiterapia de cáncer de cérvix con infiltración de parametrios es:",
+        "opciones": {
+            "A": "intersticial combinada con endocavitaria, empleando para el cálculo imagen por ecografía transrectal.",
+            "B": "endocavitaria combinada con intersticial, empleando para el cálculo imagen de CT fusionada con PET.",
+            "C": "endocavitaria utilizando para el cálculo imagen de ultrasonidos fusionada con CT.",
+            "D": "endocavitaria combinada con intersticial, empleando para el cálculo imagen por resonancia magnética."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta116": {
+        "pregunta": "En la braquiterapia para cáncer de cérvix planificada con imágenes 3D, uno de los parámetros que ICRU-98 y GEC-ESTRO recomiendan registrar para el CTV de alto riesgo es:",
+        "opciones": {
+            "A": "dosis media.",
+            "B": "mediana de dosis.",
+            "C": "V 95 %.",
+            "D": "D 90 %."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta117": {
+        "pregunta": "Según el Real Decreto 1566/1998 por el que se establecen los criterios de calidad en radioterapia, las reparaciones o intervenciones en los equipos de irradiación:",
+        "opciones": {
+            "A": "deberán comunicarse a la unidad de radiofísica hospitalaria antes de reanudar los tratamientos.",
+            "B": "deberán comunicarse a la unidad de radiofísica hospitalaria cuando puedan verse alteradas las características mecánicas o dosimétricas de la unidad.",
+            "C": "deberán autorizarse previamente por el supervisor de la instalación radiactiva.",
+            "D": "deberán autorizarse previamente por un especialista en radiofísica hospitalaria."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta118": {
+        "pregunta": "¿Cuál de las siguientes acciones se recomienda por SEFM y ESTRO como parte del control de calidad de los sistemas de planificación de braquiterapia basados en el formalismo TG-43?",
+        "opciones": {
+            "A": "comparación de las curvas de isodosis calculadas con las medidas mediante película radiocrómica.",
+            "B": "comparación de las curvas de isodosis calculadas con las curvas de referencia obtenidas por Monte Carlo para el mismo modelo de fuente.",
+            "C": "comparación de la tasa de dosis calculada en puntos alrededor de la fuente con tablas de referencia para el mismo modelo de fuente publicadas en la literatura.",
+            "D": "cálculo alternativo de la tasa de dosis en puntos discretos basado en la integral de Sievert."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta119": {
+        "pregunta": "Según las recomendaciones de la SEFM sobre implementación y uso clínico de radioterapia estereotáxica extracraneal, para aceleradores que no se utilicen en radiocirugía, la tolerancia para el diámetro máximo del elipsoide del isocentro de radiación es de:",
+        "opciones": {
+            "A": "3 mm.",
+            "B": "2 mm.",
+            "C": "1 mm.",
+            "D": "0,5 mm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Extremadura_2021_pregunta129": {
+        "pregunta": "Respecto a la dosimetría de área en las salas colindantes de un acelerador lineal de electrones monoenergético de 6 MV, señale la respuesta CORRECTA:",
+        "opciones": {
+            "A": "no se recomienda la utilización de un detector Geiger-Müller.",
+            "B": "dada la energía utilizada, la elección del detector es indiferente.",
+            "C": "no se recomienda la utilización de un detector basado en cámara de ionización.",
+            "D": "dada la energía utilizada, es imprescindible realizar las medidas también con un detector de neutrones."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta134": {
+        "pregunta": "Conforme al Real Decreto 1566/1998, por el que se establecen los criterios de calidad en radioterapia, los procedimientos utilizados en la unidad asistencial de radioterapia:",
+        "opciones": {
+            "A": "se actualizarán siempre por el especialista en radiofísica hospitalaria.",
+            "B": "se realizará sólo por el personal sanitario independientemente de cualificación en las técnicas de aplicación y utilización del equipamiento y en las normas de protección radiológica.",
+            "C": "se revisarán siempre que se introduzcan modificaciones técnicas o nuevas técnicas.",
+            "D": "todas son correctas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta136": {
+        "pregunta": "En una sala en construcción, en la que se instalará un acelerador lineal de electrones, los blindajes necesarios para atenuar la radiación primaria de fotones:",
+        "opciones": {
+            "A": "debe hacerse obligatoriamente con hormigón baritado.",
+            "B": "puede calcularse por el arquitecto responsable de la obra, siendo también el responsable de los mismos.",
+            "C": "es suficiente para la atenuación de la radiación de fuga.",
+            "D": "en ausencia de Servicio de Protección Radiológica, son responsabilidad del Supervisor de la instalación."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta137": {
+        "pregunta": "A la hora de calcular el espesor necesario para los blindajes de un equipo de braquiterapia HDR con 60Co, debe tenerse en cuenta:",
+        "opciones": {
+            "A": "que todas las paredes, el suelo y el techo son barreras primarias.",
+            "B": "la dosis debida a la radiación de neutrones.",
+            "C": "que se consideran barreras primarias únicamente las que se encuentran en la dirección longitudinal de salida de la fuente.",
+            "D": "que únicamente se consideran barreras primarias el suelo y las paredes."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Extremadura_2021_pregunta145": {
+        "pregunta": "Un equipo de braquiterapia de tasa de dosis pulsada (PDR) de carga diferida tiene autorizada una actividad máxima de 1,2 Ci de Ir-192. Señale la afirmación CORRECTA:",
+        "opciones": {
+            "A": "la autorización hace referencia a la actividad máxima que se puede cargar en el equipo, si bien puede excederse puntualmente durante la sustitución periódica de la fuente radiactiva.",
+            "B": "la fuente radiactiva, dada su baja actividad, se considera una fuente exenta y no es necesaria su declaración en la documentación de autorización de la instalación.",
+            "C": "la instalación no está obligada a disponer de un Plan de Protección Física.",
+            "D": "los Programas de Protección Física en braquiterapia únicamente son obligatorios en caso de utilizar Co-60."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Extremadura_2021_pregunta_reserva5": {
+        "pregunta": "Un acelerador lineal se ha calibrado de forma que 1 unidad de monitor produzca una dosis de 1 cGy en agua, en un cierto punto de calibración con un determinado tamaño de campo. Este punto de calibración está SIEMPRE a:",
+        "opciones": {
+            "A": "10 cm de profundidad según el protocolo TRS-398 de la IAEA.",
+            "B": "la profundidad de dosis máxima, con distancia foco-superficie de 100 cm.",
+            "C": "la profundidad de dosis máxima, con distancia de 100 cm del foco al punto de calibración.",
+            "D": "una profundidad decidida por el radiofísico o por el fabricante, que puede variar según el centro, consistente con los datos introducidos en el sistema de planificación de tratamientos."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Extremadura_2021_pregunta_reserva6": {
+        "pregunta": "Al adquirir un CBCT en un acelerador lineal, el panel detector se puede desplazar lateral-mente para:",
+        "opciones": {
+            "A": "desplazar el centro del volumen reconstruido.",
+            "B": "aumentar el campo de visión.",
+            "C": "reducir la irradiación de la electrónica.",
+            "D": "evitar colisiones."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta1": {
+        "pregunta": "El modo de especificación de las fuentes de braquiterapia recomendado es:",
+        "opciones": {
+            "A": "Tasa de exposición nominal.",
+            "B": "Actividad aparente.",
+            "C": "Actividad contenida.",
+            "D": "Tasa de kerma de referencia en aire."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta27": {
+        "pregunta": "Las guías y recomendaciones internacionales sobre Control de calidad en radioterapia con un enfoque prescriptivo:",
+        "opciones": {
+            "A": "Se basan en estimaciones de la probabilidad de fallos identificados en el proceso y sus consecuencias.",
+            "B": "Se basan en verificaciones periódicas de todos los aspectos funcionales de los equipos.",
+            "C": "Proponen programas de control de calidad con un uso eficiente de los recursos.",
+            "D": "Proponen programas de control de calidad que evitan la ocurrencia de fallos en el proceso."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta28": {
+        "pregunta": "Respecto al uso de cámaras pozo para la calibración de fuentes en braquiterapia en la actualidad, indicar la opción FALSA:",
+        "opciones": {
+            "A": "La recomendación prioritaria, ej. IAEA, es el uso de cámaras cerradas para evitar la corrección por presión y temperatura.",
+            "B": "El coeficiente de calibración para semillas de I-125 depende del modelo específico de fuente.",
+            "C": "Puede calibrarse directamente en Laboratorios Acreditados o mediante fuentes patrón calibradas en estos.",
+            "D": "Los Activímetros existentes en los Servicios de Medicina Nuclear NO deben utilizarse para la calibración de fuentes en braquiterapia."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta29": {
+        "pregunta": "La medida de un perfil de dosis en la zona de la penumbra de un haz de fotones será más exacta si de entre los equipos de medida siguientes se emplea:",
+        "opciones": {
+            "A": "Una cámara de ionización plana con anillo de guarda.",
+            "B": "Una cámara de ionización cilíndrica sin efecto tallo.",
+            "C": "Un detector de estado sólido compensado.",
+            "D": "Un detector de estado sólido no compensado."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta41": {
+        "pregunta": "Los núcleos de deposición de energía de un haz de fotones de terapia:",
+        "opciones": {
+            "A": "Se miden en la aceptación del acelerador para hacer el modelo en el planificador.",
+            "B": "Se calculan en el comisionado del planificador a partir de los factores de campo.",
+            "C": "Se calculan a partir de códigos Monte Carlo.",
+            "D": "Se miden en la aceptación del acelerador para verificar las especificaciones de compra."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta49": {
+        "pregunta": "Respecto al uso de fuentes en braquiterapia en la actualidad, indicar la opción FALSA:",
+        "opciones": {
+            "A": "En HDR las fuentes habituales son Ir-192 y Co-60.",
+            "B": "Las fuentes más extendidas son las de Tm-160, Yb-169 y Co-57.",
+            "C": "En implantes permanentes de próstata las fuentes utilizadas son I-125, Pd-103 y Cs-131.",
+            "D": "En el pasado se utilizaron fuentes de LDR de Cs-137 e Ir-192."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta52": {
+        "pregunta": "En la reconstrucción de un implante de braquiterapia por TAC:",
+        "opciones": {
+            "A": "El FOV siempre debe ser el máximo.",
+            "B": "El espesor de corte debe ser el máximo posible siempre.",
+            "C": "Solo debe utilizarse en los implantes ginecológicos.",
+            "D": "El uso del scout view o escanograma es muy útil para la definición de la primera posición distal del catéter."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta64": {
+        "pregunta": "El protocolo TRS398 recomienda utilizar como índice de calidad de un haz de fotones generado en un acelerador lineal de electrones, el parámetro TPR20,10. En su determinación, la magnitud que no varía es:",
+        "opciones": {
+            "A": "La distancia fuente-superficie.",
+            "B": "La profundidad de medida.",
+            "C": "El tamaño de campo en la superficie.",
+            "D": "La distancia fuente-cámara."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2019_pregunta66": {
+        "pregunta": "Los números TC obtenidos en la adquisición de imagen TC para planificación de tratamientos de radioterapia se emplean para:",
+        "opciones": {
+            "A": "Obtener el número atómico efectivo de los tejidos.",
+            "B": "Obtener el número másico efectivo de los tejidos.",
+            "C": "Obtener la densidad electrónica de los tejidos.",
+            "D": "Obtener la componente fotoeléctrica de la interacción."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta69": {
+        "pregunta": "¿Qué tipo de radionucleido NO se utiliza en braquiterapia oftálmica?",
+        "opciones": {
+            "A": "Ru-106 embebido en aplicadores.",
+            "B": "Sr-90 embebido en aplicadores.",
+            "C": "Cs-137 colocado en placas tipo ROPES.",
+            "D": "I-125 colocado en placas normalmente tipo COMS."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta81": {
+        "pregunta": "De los volúmenes que se usan en el proceso de planificación del tratamiento mediante radioterapia (GTV, CTV, PTV, OAR, PRV, ITV, TV, RVR), tienen una base exclusivamente anatómica/fisiológica:",
+        "opciones": {
+            "A": "Solamente los OAR y PRV.",
+            "B": "GTV, CTV, OAR.",
+            "C": "GTV, CTV, OAR, PTV.",
+            "D": "Todos."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta85": {
+        "pregunta": "Según las recomendaciones de QUANTEC, para mantener la probabilidad de incidencia de Mielopatía por debajo del 1% en un tratamiento de radioterapia 3D con fraccionamiento convencional (1.8–2 Gy/sesión), en el que se irradia parcialmente la médula espinal:",
+        "opciones": {
+            "A": "La dosis absorbida media en la médula espinal irradiada deberá mantenerse por debajo de 45 Gy.",
+            "B": "La dosis absorbida media en 2/3 de médula espinal irradiada deberá mantenerse por debajo de 47 Gy.",
+            "C": "La dosis absorbida máxima en médula espinal será menor o igual a 50 Gy.",
+            "D": "La dosis absorbida máxima en médula espinal será menor o igual a 60 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta90": {
+        "pregunta": "En la braquiterapia ginecológica de cérvix utilizando aplicadores con componente intersticial:",
+        "opciones": {
+            "A": "La técnica de imagen recomendada es RMN T2.",
+            "B": "La combinación de dosis de radioterapia y braquiterapia se realiza mediante el modelo lineal cuadrático con un alfa/beta para los órganos de riesgo de 5.",
+            "C": "En la optimización de los planes, el gradiente entre los tiempos de parada no es trascendente.",
+            "D": "El CTV-IR debe recibir siempre una dosis mayor que el CTV-HR."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2019_pregunta98": {
+        "pregunta": "Según el RD 1566/1998 por el que se establecen los criterios de control de calidad en radioterapia, es obligatorio el archivo de todos los informes mencionados en dicho real decreto al menos:",
+        "opciones": {
+            "A": "5 años.",
+            "B": "10 años.",
+            "C": "30 años.",
+            "D": "5 años para los informes de pacientes y hasta el decomisionado para los informes de máquinas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta99": {
+        "pregunta": "Se llama 'bolus' a un material, habitualmente equivalente a tejido, colocado en contacto con la piel, que en radioterapia con fotones se usa para:",
+        "opciones": {
+            "A": "Disminuir la dosis absorbida en superficie y compensar la falta de tejido.",
+            "B": "Aumentar la comodidad del paciente durante el tratamiento.",
+            "C": "Aumentar la dosis absorbida en superficie y/o compensar la falta de tejido.",
+            "D": "Preservar los tejidos sanos vecinos al campo de tratamiento."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2019_pregunta103": {
+        "pregunta": "Las recomendaciones de AAPM/ESTRO para la dosimetría clínica con fuentes de alta energía indican que los cálculos mediante el sistema de planificación para una fuente única deben compararse con los de consenso estableciendo la tolerancia:",
+        "opciones": {
+            "A": "±5%.",
+            "B": "±2%.",
+            "C": "Permite cualquier diferencia, pero debe documentarse en el Estado de Referencia Inicial.",
+            "D": "Deben coincidir exactamente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2019_pregunta110": {
+        "pregunta": "Según las recomendaciones de la SEFM para SBRT, para delimitar el GTV es recomendable realizar las adquisiciones de TC con espesores de corte inferiores o iguales a:",
+        "opciones": {
+            "A": "2 mm.",
+            "B": "3 mm.",
+            "C": "4 mm.",
+            "D": "5 mm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta003": {
+        "pregunta": "Conforme al RD 1566/1998, Los procedimientos en radioterapia utilizados en la unidad asistencial de radioterapia:",
+        "opciones": {
+            "A": "Se actualizaran periódicamente",
+            "B": "Se realizará sólo por el personal sanitario independientemente de cualificación en las técnicas de aplicación y utilización del equipamiento y en las normas de protección radiológica.",
+            "C": "Se revisaran siempre que se introduzcan modificaciones técnicas o nuevas técnicas",
+            "D": "La a) y la c) son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta007": {
+        "pregunta": "El programa de Garantía de Calidad en Radioterapia",
+        "opciones": {
+            "A": "Figurará por escrito.",
+            "B": "Incluye exclusivamente aspectos de control de calidad del equipamiento.",
+            "C": "Incluye exclusivamente aspectos de control de calidad del equipamiento.",
+            "D": "Se realizará antes del comienzo de funcionamiento de la instalación y no se modificará salvo que así se indique en una inspección."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta012": {
+        "pregunta": "En tratamientos de braquiterapia de alta tasa de dosis con Ir-192:",
+        "opciones": {
+            "A": "La tasa de dosis a 1 cm de la fuente puede ser superior a 10 Gy/h",
+            "B": "Los intersticiales se administran en una sola sesión y los endocavitarios en varias",
+            "C": "Por debajo de 12 Ci, una fuente no puede considerarse apropiada para tratamientos de alta tasa",
+            "D": "Las actividades de las fuentes suelen estar en el intervalo entre 15 y 30 Ci"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta018": {
+        "pregunta": "En las fuentes radiactivas utilizadas en los tratamientos de Braquiterapia, ¿cuáles son los modos de especificación de las fuentes más utilizados internacionalmente?:",
+        "opciones": {
+            "A": "Actividad aparente o equivalente de una fuente Aa.",
+            "B": "Miligramos de radio equivalente Mequ, expresado en mRaeq.",
+            "C": "Se utiliza fundamentalmente Tasa de Exposición Nominal (X) o la Tasa de Kerma de Referencia en Aire (K), ya que dichas magnitudes presentan varias ventajas, al contemplar el efecto del filtrado y autoabsorción en el plano meridiano y no lleva asociado ningún error en la constante de tasa, y además son cantidades directamente medibles.",
+            "D": "Cualquiera de las magnitudes anteriores."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta036": {
+        "pregunta": "Para un haz de electrones de energía nominal E, expresada en MeV, ¿cuál es aproximadamente el rango terapéutico (dosis del 90% del máximo) en cm?",
+        "opciones": {
+            "A": "E/4",
+            "B": "Siempre menor que 4",
+            "C": "E",
+            "D": "E/6"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta044": {
+        "pregunta": "Siguiendo las recomendaciones del TRS-398 de la OIEA la profundidad de referencia recomendada para la determinación de la dosis absorbida de un haz de fotones en un maniquí de agua es",
+        "opciones": {
+            "A": "La profundidad del máximo",
+            "B": "La profundidad correspondiente a R50",
+            "C": "La profundidad resultante de la operación 0.5 * R50 - 0.1",
+            "D": "10 g/cm2"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta056": {
+        "pregunta": "En un acelerador lineal de electrones de uso médico, en la generación de RX para asegurar una producción adecuada de radiación de frenado:",
+        "opciones": {
+            "A": "Se necesita una tasa de fluencia de electrones del orden de 100 veces superior que en la modalidad de tratamiento con electrones",
+            "B": "… 10 veces …",
+            "C": "… 1000 veces …",
+            "D": "… del mismo orden …"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta059": {
+        "pregunta": "Referente a los equipos de kilovoltaje utilizados en Radioterapia externa, ¿cuál de las siguientes afirmaciones es correcta?:",
+        "opciones": {
+            "A": "El diseño de ánodo puede ser no giratorio",
+            "B": "El calor generado se extrae a través de un sistema de refrigeración propio",
+            "C": "Una característica especial es que el ánodo presenta doble capuchón con una primera capa de cobre y la segunda de wolframio.",
+            "D": "Todas son correctas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta071": {
+        "pregunta": "Según las recomendaciones de la OIEA en su informe TRS-398, sobre las condiciones de referencia para la determinación de la dosis absorbida en agua de un haz de fotones de alta energía , es falso que:",
+        "opciones": {
+            "A": "Se ha de utilizar una cámara cilíndrica.",
+            "B": "El punto de referencia de la cámara está en la superficie interna de la pared de la cámara",
+            "C": "SSD  = 100 cm",
+            "D": "Tamaño del campo en el isocentro de 10x10 cm2"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta074": {
+        "pregunta": "¿Por qué no se puede medir directamente la curva de dosis absorbida en profundidad en agua de un haz de electrones con una cámara de ionización?",
+        "opciones": {
+            "A": "Porque siempre se ha de medir con diodos",
+            "B": "Por el alto gradiente de dosis en la proximidad del máximo",
+            "C": "Por la alta variación de la energía de los electrones con la profundidad",
+            "D": "Porque las cámaras de ionización no pueden ser sumergidas en agua"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta084": {
+        "pregunta": "Conforme al RD 1566/1998, Los tratamientos de radioterapia en mujeres embarazadas se realizará de modo que:",
+        "opciones": {
+            "A": "Se evitará siempre realizarlos.",
+            "B": "La dosis absorbida en el feto sea la mínima posible.",
+            "C": "Se solicitará consentimiento informado.",
+            "D": "La a), la b) y la c) son correctas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta086": {
+        "pregunta": "¿Cuál de las siguientes afirmaciones es la correcta para los Algoritmos de cálculo de haces de fotones de un planificador de Radioterapia?:",
+        "opciones": {
+            "A": "El algoritmo de Clarkson integra modelos que partiendo de núcleos de deposición de energía, calculan la dosis absorbida a partir de una convolución del terma (energía total liberada por unidad de masa) en cada punto de interacción y el núcleo de deposición de energía.",
+            "B": "El algoritmo de Clarkson considera conjuntamente la radiación primaria y la radiación dispersa, y su principal inconveniente es la modelización de campos conformados, sin embargo no tiene en cuenta variaciones en la radiación dispersa cuando hay incidencia oblicua o una superficie curvada.",
+            "C": "El algoritmo de Clarkson considera por separado la radiación primaria y la radiación dispersa, y funciona por sumación de radiación dispersa, su principal ventaja es la modelización de campos conformados, sin embargo no tiene en cuenta variaciones en la radiación dispersa cuando hay incidencia oblicua o una superficie curvada.",
+            "D": "Ninguna de las afirmaciones anteriores son correctas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta087": {
+        "pregunta": "El interés del Sr-90 en Radioterapia se debe principalmente a",
+        "opciones": {
+            "A": "La emisión de electrones de alta energía",
+            "B": "Su vía de desintegración por captura electrónica",
+            "C": "Su vía de desintegración beta -",
+            "D": "Su estado de equilibrio radiactivo con el Y-90"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta093": {
+        "pregunta": "Queremos medir el rendimiento de dosis en profundidad de un haz de electrones. Cuál de las siguientes afirmaciones no es correcta",
+        "opciones": {
+            "A": "La medición con diodo implica no tener que corregir por la variación de poderes de frenado con la profundidad",
+            "B": "El incremento del tamaño de campo producirá un PDD con una cola más alta que en el caso de un campo pequeño",
+            "C": "El incremento de tamaño de campo lleva aparejado una cola más baja que en el caso de un campo pequeño",
+            "D": "No se recomienda medir el PDD con una cámara cilíndrica para bajas energías"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta094": {
+        "pregunta": "La aceptación de un Acelerador Lineal de electrones requiere",
+        "opciones": {
+            "A": "La  presencia  del  Servicio  Técnico  de  la  Empresa  suministradora  y  un Especialista en Radiofísica Hospitalaria.",
+            "B": "Basta con el representante de la empresa suministradora",
+            "C": "La  presencia  del  Servicio  Técnico  de  la  empresa  suministradora  y  un representante del Hospital",
+            "D": "No es preciso que participe el Servicio Técnico de la empresa suministradora"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta099": {
+        "pregunta": "La técnica de hiperfraccionamiento",
+        "opciones": {
+            "A": "Se emplea en tumores de crecimiento lento",
+            "B": "Mejora la tolerancia de los tejidos de respuesta tardía",
+            "C": "Mantiene la misma dosis por fracción que el fraccionamiento standard",
+            "D": "Empeora la respuesta de los tejidos de respuesta tardía"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta106": {
+        "pregunta": "La imagen Guiada de Radioterapia (IGRT) puede usar diferentes modalidades de imagen durante el tratamiento, incluyendo imágenes 2D usando haces de kiloVoltaje (kV) y MegaVoltaje (MV), las siguientes son ciertas excepto:",
+        "opciones": {
+            "A": "Las imágenes de kV permiten una mejor visualización de los huesos que las de MV",
+            "B": "Las imágenes de kV son parecidas a las DDRs generadas con las imágenes de CT por los planificadores",
+            "C": "Las imágenes de kV causan menos artefactos debidos a las prótesis metálicas que las de MV",
+            "D": "El haz de kV y el detector deben ser cuidadosamente alineados para que coincida con la geometría del haz de tratamiento (MV)"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta113": {
+        "pregunta": "En el protocolo TRS 398 se recomienda utilizar como índice de calidad de un haz de fotones generado en un acelerador lineal de electrones, el siguiente parámetro:",
+        "opciones": {
+            "A": "El potencial acelerador del haz de electrones.",
+            "B": "La razón tejido maniquí a las profundidades 20 y 10 cm  (TPR20,10 ).",
+            "C": "La profundidad del máximo de dosis absorbida dmáx.",
+            "D": "Cualquiera de las anteriores indistintamente."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta117": {
+        "pregunta": "Conforme al RD 1566/1998, La Comisión de Garantía y de Calidad de Calidad de Radioterapia enviará un informe al Titular del Centro Sanitario y a la Autoridad Sanitaria cuando:",
+        "opciones": {
+            "A": "Siempre que lo estime oportuno.",
+            "B": "Cuando se considere que no se cumple el programa de garantía de calidad.",
+            "C": "Se hayan producido irradiaciones de pacientes a dosis absorbidas distintas de las prescritas que comporten riesgo para la salud.",
+            "D": "La a), la b) y la c) son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta134": {
+        "pregunta": "El kerma es una magnitud dosimétrica que caracteriza en un haz de fotones o de neutrones la:",
+        "opciones": {
+            "A": "Energía que transporta un haz o energía radiante",
+            "B": "Energía absorbida en un material",
+            "C": "Energía absorbida en un material por las partículas cargadas a lo largo de sus trayectorias.",
+            "D": "Energía transferida a un material"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta150": {
+        "pregunta": "Según el RD 1566/1998, de 17 de Julio, por el que se establecen los criterios de calidad en \nRadioterapia, el Titular de la Instalación debe archivar y tener a disposición de la autoridad \nsanitaria competente todos los informes referidos a este RD por un periodo de",
+        "opciones": {
+            "A": "10 años",
+            "B": "20 años",
+            "C": "30 años",
+            "D": "40 años"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Canarias 2010 - Examen.pdf_pregunta154": {
+        "pregunta": "Según las recomendaciones de la OIEA en su informe TRS-398 , para la medida de la determinación de la dosis absorbida de un haz de electrones:",
+        "opciones": {
+            "A": "El material recomendado del maniquí es agua o plástico para R50 < 4g/cm2.",
+            "B": "La profundidad de referencia es la resultante de la operación R50 - 0.1",
+            "C": "La distancia fuente superficie SSD es indiferente (no existe SSD recomendada)",
+            "D": "Para una cámara cilíndrica la posición del punto de referencia es el centro de la cámara."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta2": {
+        "pregunta": "El Volumen Blanco Clínico (CTV) es:",
+        "opciones": {
+            "A": "El volumen que recibe la mitad de la dosis de prescripción.",
+            "B": "Un volumen de tejido que contiene un GTV demostrable y/o enfermedad maligna microscópica subclínica, que debe ser eliminada.",
+            "C": "Un concepto geométrico utilizado en la planificación de un tratamiento.",
+            "D": "Aquel volumen de tejido que recibe una dosis considerada significativa en relación con la tolerancia del tejido normal."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta3": {
+        "pregunta": "En Braquiterapia superficial de piel mediante aplicadores blindados con Ir-192 del tipo Leipzig o Valencia, ¿cuál es la profundidad de prescripción recomendada?",
+        "opciones": {
+            "A": "3-4 mm.",
+            "B": "Nunca mayor de 10 mm.",
+            "C": "5 mm para fracciones mayores de 7 Gy.",
+            "D": "5 mm para aplicadores mayores de 30 mm de diámetro."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta12": {
+        "pregunta": "En Braquiterapia ginecológica de cérvix, el CTV-HR (Clinical Target Volume High Risk) se obtiene a partir de:",
+        "opciones": {
+            "A": "GTV-BT (Gross Tumor Volume previo a Braquiterapia o GTVres) más el cérvix.",
+            "B": "GTV-preRTE (Gross Tumor Volume previo a la Radioterapia Externa) más el cérvix.",
+            "C": "GTV-preRTE más el GTV-BT.",
+            "D": "GTV-BT añadiendo unos márgenes de 0.5 cm."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Ceuta 2021.pdf_pregunta20": {
+        "pregunta": "En el Informe de la SEFM sobre la implementación de la Resonancia Magnética en Braquiterapia de Cérvix se recogen los objetivos de dosis y límites propuestos por EMBRACE II. Indicar la opción VERDADERA al respecto de los mismos.",
+        "opciones": {
+            "A": "El límite para vejiga es más bajo que para el recto.",
+            "B": "Los límites se especifican en D0.03cc.",
+            "C": "Además de vejiga y recto deben considerarse los límites de sigma, intestino y punto recto-vaginal.",
+            "D": "El límite para el recto es aplicable también a sigma e intestino."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta29": {
+        "pregunta": "En el Informe de la SEFM sobre Protección Radiológica en Braquiterapia se recoge la metodología para el cálculo de barreras en HDR-PDR. Indicar la opción VERDADERA al respecto de la misma.",
+        "opciones": {
+            "A": "La distancia de la fuente al punto de interés debe realizarse siempre en la superficie interior de la barrera.",
+            "B": "El factor de uso (U) es igual a 1 en cualquier orientación.",
+            "C": "En el cálculo de dosis a nivel de la puerta no se tendrá en cuenta el laberinto.",
+            "D": "Como situación promedio, la TKRA (Tasa de Kerma de Referencia en Aire) a contemplar debe ser la mitad de la máxima autorizada para el equipo."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta63": {
+        "pregunta": "El modo de especificación de las fuentes de braquiterapia recomendado es:",
+        "opciones": {
+            "A": "Indistintamente Actividad o Tasa de Kerma de Referencia en Aire, indicando claramente el factor de conversión en el certificado.",
+            "B": "Actividad expresada en MBq.",
+            "C": "Actividad expresada en Ci.",
+            "D": "Tasa de kerma de referencia en aire."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta70": {
+        "pregunta": "Según las recomendaciones de la SEFM para el control de calidad de equipos y técnicas de radioterapia guiada por la imagen (IGRT), la verificación de la coincidencia del isocentro del acelerador con el isocentro del sistema de imagen (2D y 3D) se debe realizar con periodicidad:",
+        "opciones": {
+            "A": "Anual.",
+            "B": "Diaria.",
+            "C": "Semanal.",
+            "D": "Mensual."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Ceuta 2021.pdf_pregunta71": {
+        "pregunta": "Respecto al uso de cámaras pozo para la calibración de fuentes en braquiterapia en la actualidad, indicar la opción VERDADERA:",
+        "opciones": {
+            "A": "La recomendación prioritaria, ej. IAEA, es el uso de cámaras cerradas para evitar la corrección por presión y temperatura.",
+            "B": "El coeficiente de calibración para semillas de I-125 NO depende del modelo específico de fuente.",
+            "C": "Deben calibrarse directamente en Laboratorios Acreditados o mediante fuentes patrón calibradas en estos.",
+            "D": "Los Activímetros existentes en los Servicios de Medicina Nuclear pueden utilizarse para la calibración de fuentes en Braquiterapia."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta80": {
+        "pregunta": "En braquiterapia permanente de próstata se utilizan mayoritariamente fuentes de I-125, siendo su periodo de semidesintegración:",
+        "opciones": {
+            "A": "200 días.",
+            "B": "17 días.",
+            "C": "74.02 días.",
+            "D": "59.6 días."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta82": {
+        "pregunta": "En planificación de tratamientos de radioterapia, cuando se realiza una fusión rígida entre imágenes, se asume que:",
+        "opciones": {
+            "A": "Las estructuras anatómicas no presentan cambios en tamaño ni forma entre las distintas adquisiciones.",
+            "B": "Los contornos anatómicos se deforman ligeramente y se ajustan automáticamente en el proceso.",
+            "C": "Siempre es necesario añadir puntos fiduciales externos para alinear las imágenes.",
+            "D": "La imagen objetivo se deforma para encajar en la imagen de referencia."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Ceuta 2021.pdf_pregunta83": {
+        "pregunta": "Según el protocolo español de control de calidad en radioterapia externa con haces de fotones y electrones, la tolerancia en la variación del factor de calibración diario respecto al de referencia es de:",
+        "opciones": {
+            "A": "±5%.",
+            "B": "±3%.",
+            "C": "±2%.",
+            "D": "±1%."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta96": {
+        "pregunta": "Durante la calibración de un haz de fotones de alta energía según TRS-398, ¿cuál es el factor de corrección que depende más significativamente del tipo de haz y energía?",
+        "opciones": {
+            "A": "kQ.",
+            "B": "kTP.",
+            "C": "kS.",
+            "D": "kPol."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Ceuta 2021.pdf_pregunta99": {
+        "pregunta": "En el tratamiento con electrones en radioterapia, ¿cuál es la ventaja principal respecto al tratamiento con fotones?",
+        "opciones": {
+            "A": "Mejor penetración en profundidad.",
+            "B": "Mayor homogeneidad en profundidad.",
+            "C": "Mayor dosis en piel con rápida caída en profundidad.",
+            "D": "Menor necesidad de compensación dosimétrica."
+        },
+        "respuesta_correcta": "C"
+    }
+}
