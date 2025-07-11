@@ -3,15 +3,26 @@
 
 # In[1]:
 
-
 import streamlit as st
 import json
 import random
 import re
 from collections import defaultdict
 
-# Cargar las preguntas desde el archivo JSON
-with open('preguntas.json', 'r', encoding='utf-8') as f:
+# Selección de tema y archivos correspondientes
+temas = {
+    "Resto": "preguntas_resto.json",
+    "Protección Radiológica": "preguntas_proteccion_radiologica.json",
+    "Dosimetría Física": "preguntas_dosimetría_física.json",
+    "Radiobiología": "preguntas_radiobiología.json",
+    "Radioterapia": "preguntas_radioterapia.json",
+    "Medicina Nuclear": "preguntas_medicina_nuclear.json"
+}
+
+tema_elegido = st.selectbox("Selecciona un tema:", list(temas.keys()))
+
+# Cargar las preguntas desde el archivo correspondiente al tema
+with open(temas[tema_elegido], 'r', encoding='utf-8') as f:
     preguntas_dict = json.load(f)
     todas_las_claves = list(preguntas_dict.keys())
 
@@ -118,3 +129,4 @@ if pregunta:
     st.write("Respuesta mostrada" if st.session_state.show_answer else "Responda la pregunta")
 else:
     st.info("Haz clic en 'Reiniciar preguntas' para empezar de nuevo.")
+
