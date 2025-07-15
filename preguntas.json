@@ -169,8 +169,18 @@
         },
         "respuesta_correcta": "B"
     },
+    "SAS 2023.pdf_pregunta18": {
+        "pregunta": "Una de las diferencias entre los cristales de yoduro de sodio (NaI(Tl)) y los de germanato de bismuto (BGO) es que:",
+        "opciones": {
+            "A": "la densidad en los de yoduro de sodio es mayor   ",
+            "B": "los cristales BGO no son higroscópicos",
+            "C": "el índice de refracción es menor en los cristales BGO",
+            "D": "la respuesta energética fotones de 511 keV es mejor en el yoduro de sodio pero \npresenta menor sensibilidad y por eso no son empleados en PET"
+        },
+        "respuesta_correcta": "B"
+    },
     "SAS 2023.pdf_pregunta30": {
-        "pregunta": "El dampening es una t écnica empleada para:",
+        "pregunta": "El dampening es una técnica empleada para:",
         "opciones": {
             "A": "controlar la respiración mediante la sincronización del movimiento diafragmático con la \nirradiación",
             "B": "reducir el movimiento del tumor mediante compresión abdominal, habitualmente en \ntumores pulmonares y abdominales",
@@ -190,12 +200,12 @@
         "respuesta_correcta": "A"
     },
     "SAS 2023.pdf_pregunta20": {
-        "pregunta": "≤ 30 -35 % y Dosis media (MLD)  ≤ 20 -23 Gy, con fraccionamiento convencional.  \n \nCASO PRACTICO 4:  \nSupongamos un paciente con cáncer di ferenciado de tiroides (CDT) al que queremos \ntratar con 131I en una instalación de Medicina Nuclear. La administración se realiza en \nforma de NaI por vía oral, en forma de cápsulas o forma líquida, o bien vía endovenosa.  \n \n 131  \n  En radioterapia con radionu cleidos, la proporción ρ entre beneficio B y riesgo R, B \n= R·ρ es:",
+        "pregunta": "El método de la imagen conjugada, que se puede utilizar para conocer la actividad \nacumulada en un órgano al obtener dos imágenes opuestas (siempre que el \nsistema esté calibrado), se basa en que:",
         "opciones": {
-            "A": "Muy pequeña, “dramáticamente” muy pequeña, y la tolerancia en la exactitud de las \ndeterminaciones dosimétricas es crítica.",
-            "B": "Muy pequeña, “dramáticamente” muy pequeña, y la toleranc ia en la exactitud de las \ndeterminaciones dosimétricas no es crítica.",
-            "C": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas es \ncrítica.",
-            "D": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas no es"
+            "A": " la media aritmética de las cuentas acumuladas en el órgano en cada una de las \nproyecciones mejora en un factor 10 la determinación de la actividad incorporada.",
+            "B": "la suma de las cuentas acumuladas en el órgano en cada una de las \nproyecciones reduce la incertidumbre estadística en la determinación de la actividad incorporada",
+            "C": "la media geométrica de las cuentas acumuladas en el órgano en cada una de las \nproyecciones depende del espesor total de tejido y no de la profundidad en cada \nproyección.",
+            "D": " la diferencia entre las cuentas acumuladas en el órgano en cada una de las \nproyecciones permite conocer la atenuación efectiva que se ha producido"
         },
         "respuesta_correcta": "C"
     },
@@ -225,7 +235,7 @@
             "A": "colocando sie mpre el tubo debajo del paciente en proyecciones anteroposteriores y \nposicionándose en el lado del detector de imagen en proyecciones laterales.",
             "B": "colocando siempre el tubo debajo del paciente en proyecciones anteroposteriores y \nposicionándose en el lado del tubo en proyecciones laterales.",
             "C": "colocando siempre el tubo en la parte superior del paciente en proyecciones \nanteroposteriores y posicionándose en el lado del tubo en proyecciones laterales.",
-            "D": "colocando siempre el tubo en la parte superior del pacie nte en proyecciones"
+            "D": "colocando siempre el tubo en la parte superior del pacie nte en proyecciones \nanteroposteriores y posicionándose en el lado del detector de imagen en proyecciones \nlaterales."
         },
         "respuesta_correcta": "A"
     },
@@ -265,7 +275,7 @@
             "A": "su valor es menor que la unidad para cualquier concentración de oxígeno y alcanza un \nvalor mínimo que no depende del tipo de radiación",
             "B": "su valor es mayor que la unidad para cualquier concentración de oxígeno y alcanza un \nvalor máximo que no depende  del tipo de radiación",
             "C": "su valor es menor que la unidad para cualquier concentración de oxígeno y alcanza un \nvalor mínimo que depende del tipo de radiación",
-            "D": "su valor es mayor que la unidad para cualquier concentración de oxígeno y alcanza un"
+            "D": "su valor es mayor que la unidad para cualquier concentración de oxígeno y alcanza un \nvalor máximo que depende del tipo de radiación"
         },
         "respuesta_correcta": "D"
     },
@@ -305,7 +315,7 @@
             "A": "la dosis en órganos debido a neutrones es mayor en pacientes adultos ya que la \nproducción int erna es mayor",
             "B": "la contribución de los fotones secundarios a la dosis equivalente ambiental puede \nllegar al 20%",
             "C": "en haces pasivos (passive scattering) la contribución dominante se debe a neutrones \ngenerados externamente, mientras que en haces escaneados  (scanning beams) se debe \na neutrones internos",
-            "D": "la dosis equivalente periférica en un órgano es menor en un tratamiento con haces de"
+            "D": "la dosis equivalente periférica en un órgano es menor en un tratamiento con haces de \nprotones que en uno con haces de fotones ya que los neutrones producidos en haces de \nprotones son menos penetrantes que los producidos en haces de fotones "
         },
         "respuesta_correcta": "C"
     },
@@ -320,27 +330,27 @@
         "respuesta_correcta": "D"
     },
     "SAS 2023.pdf_pregunta34": {
-        "pregunta": "En un haz de radiación que produce ionización indirecta, s i consideramos un \nvolumen V muy cerca de la fuente, ¿existirá equilibrio de partículas cargadas en V?:",
+        "pregunta": "En un haz de radiación que produce ionización indirecta, si consideramos un \nvolumen V muy cerca de la fuente, ¿existirá equilibrio de partículas cargadas en V?:",
         "opciones": {
             "A": "no, porque la fluencia de energía será no uniforme dentro del volumen V",
             "B": "no porque se provoca una variación de densidad en el volumen V",
             "C": "sí habr á equilibrio de partículas cargadas, salvo si la composición atómica del volumen \nV no es homogénea",
-            "D": "sí habrá equilibrio de partículas cargadas,  salvo que exista un campo eléctrico o"
+            "D": "sí habrá equilibrio de partículas cargadas,  salvo que exista un campo eléctricoo"
         },
         "respuesta_correcta": "A"
     },
     "SAS 2023.pdf_pregunta35": {
-        "pregunta": "Se dice que existe equili brio transitorio de partículas cargadas (TCPE) en todos los \npuntos de una región si se cumple que la relación entre la dosis absorbida (D) y el \nkerma de colisión (Kc) es proporcional con una constante de proporcionalidad:",
+        "pregunta": "Se dice que existe equilibrio transitorio de partículas cargadas (TCPE) en todos los \npuntos de una región si se cumple que la relación entre la dosis absorbida (D) y el \nkerma de colisión (Kc) es proporcional con una constante de proporcionalidad:",
         "opciones": {
             "A": "igual a la unidad",
-            "B": "mayor qu e la unidad",
+            "B": "mayor que la unidad",
             "C": "menor que la unidad",
             "D": "la relación es exponencial"
         },
         "respuesta_correcta": "B"
     },
     "SAS 2023.pdf_pregunta36": {
-        "pregunta": "En condiciones de equilibrio de partículas cargadas (CPE), la dosis absorbida en \naire es igual al kerma de colisión (Kc), y la relación entre la dosis absorbida y la \nexposición viene d ada por el factor W/e, que representa la energía media requerida \npor unidad de carga de ionización producida. Este factor tiene un valor de:",
+        "pregunta": "En condiciones de equilibrio de partículas cargadas (CPE), la dosis absorbida en \naire es igual al kerma de colisión (Kc), y la relación entre la dosis absorbida y la \nexposición viene dada por el factor W/e, que representa la energía media requerida \npor unidad de carga de ionización producida. Este factor tiene un valor de:",
         "opciones": {
             "A": "33.97 J/C",
             "B": "2.58 eV/ion",
@@ -385,7 +395,7 @@
             "A": "desaparición de todas las lesiones diana o adenopatías de menos de 5 mm de eje \ncorto",
             "B": "disminució n de, al menos, el 50% en la suma de los diámetros mayores de las lesiones \ndiana con respecto a la obtenida en el estudio basal",
             "C": "desaparición de todas la lesiones diana y reducción de las adenopatías de menos de \n10 mm de eje corto",
-            "D": "disminución de, al m enos, el 30% en la suma de los diámetros mayores de las lesiones"
+            "D": "disminución de, al menos, el 30% en la suma de los diámetros mayores de las lesiones"
         },
         "respuesta_correcta": "D"
     },
@@ -1278,6 +1288,16 @@
             "D": "≤ 15 -20 Gy, con fraccionamiento convencional."
         },
         "respuesta_correcta": "D"
+    },
+    "SAS 2023.pdf_pregunta131": {
+        "pregunta": "En radioterapia con radionucleidos, la proporción ρ entre beneficio B y riesgo R, B \n= R·ρ es: ",
+        "opciones": {
+            "A": "Muy pequeña, “dramáticamente” muy pequeña, y la tolerancia en la exactitud de las \ndeterminaciones dosimétricas es crítica.",
+            "B": "Muy pequeña, “dramáticamente” muy pequeña, y la toleranc ia en la exactitud de las \ndeterminaciones dosimétricas no es crítica.",
+            "C": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas es \ncrítica.",
+            "D": "Muy grande y la tolerancia en la exactitud de las determinaciones dosimétricas no es"
+        },
+        "respuesta_correcta": "A"
     },
     "SAS 2023.pdf_pregunta132": {
         "pregunta": "En los tratamientos de terapia con radiofármacos:",
