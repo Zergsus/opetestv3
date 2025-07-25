@@ -1,0 +1,662 @@
+{
+    "Protones_pregunta1": {
+        "opciones": {
+            "A": "20 Gy en 10 fracciones",
+            "B": "70 Gy en 35 fracciones",
+            "C": "50 CGE en 5 fracciones",
+            "D": "60–70 CGE en 4–5 fracciones"
+        },
+        "pregunta": "¿Cuál es la dosis biológica habitual administrada en protonterapia ocular para melanoma uveal?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta2": {
+        "opciones": {
+            "A": "230 MeV",
+            "B": "70 MeV",
+            "C": "6MeV",
+            "D": "18 MeV"
+        },
+        "pregunta": "El ciclotrón del Proteus One, acelera los protones a:",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta3": {
+        "opciones": {
+            "A": "Actualmente se están implementando flujos de trabajo online mayoritariamente en la clínica.",
+            "B": "La frecuencia con la que es necesario adaptar un plan en protonterapia es mucho menor a la que tendríamos en radioterapia con fotones.",
+            "C": "Existen estrategias para conseguir que los planes de tratamiento sean más robustos, y esto reduce la frecuencia con la que han de adaptarse los planes.",
+            "D": "En un flujo de trabajo offline, se recalcula el plan inicial sobre las imágenes pretratamiento (CBCT o CT) antes de cada sesión, y se adapta el plan en ese momento, antes de administrar la sesión."
+        },
+        "pregunta": "Si hablamos sobre radioterapia adaptativa en protonterapia, podemos afirmar que:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta4": {
+        "opciones": {
+            "A": "Aumentando los tiempos de parada de mantenimiento",
+            "B": "Incrementando el grosor de los muros del bunker",
+            "C": "a y b son ciertas",
+            "D": "Ninguna de las afirmaciones anteriores es correcta"
+        },
+        "pregunta": "¿Cómo puede influir la contaminación neutrónica en una instalación de protonterapia?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta5": {
+        "opciones": {
+            "A": "Cáncer de mama estadio temprano",
+            "B": "Tumores pediátricos del sistema nervioso central",
+            "C": "Melanoma cutáneo",
+            "D": "Carcinoma basocelular"
+        },
+        "pregunta": "¿Cuál de las siguientes patologías es una indicación frecuente para el uso de protonterapia?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta6": {
+        "opciones": {
+            "A": "Como una alternativa preferida a la radiocirugía estereotáctica (SRS) para tumores pequeños (< 3 cm).",
+            "B": "Principalmente para tumores grandes (> 3 cm) independientemente de su ubicación.",
+            "C": "En aquellos con ubicaciones tumorales desafiantes, como la base del cráneo, donde se puede observar una ventaja dosimétrica para los órganos críticos en riesgo (OAR) o las subestructuras neurocognitivas.",
+            "D": "Como tratamiento de primera línea para todos los meningiomas recién diagnosticados."
+        },
+        "pregunta": "¿En qué escenario se considera especialmente la terapia de protones (PT) para pacientes adultos con meningiomas de grado 1 de la OMS?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta7": {
+        "opciones": {
+            "A": "Conseguimos que los aceleradores incrementen la tasa de dosis",
+            "B": "La masa en movimiento de la partícula disminuye",
+            "C": "Conseguimos que los aceleradores ganen estabilidad",
+            "D": "La masa en movimiento de la partícula aumenta"
+        },
+        "pregunta": "Al aumentar la velocidad de una partícula hasta valores cercanos a los de la luz",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta8": {
+        "opciones": {
+            "A": "Debido a su menor costo en comparación con la radioterapia de fotones convencional.",
+            "B": "Como un medio para la escalada de dosis para superar la radiorresistencia, cambiar el patrón de recaída de la enfermedad y disminuir la linfopenia.",
+            "C": "Principalmente para reducir la necesidad de resección quirúrgica.",
+            "D": "Para eliminar por completo la necesidad de quimioterapia adyuvante."
+        },
+        "pregunta": "¿Cuál es la principal razón por la que se ha investigado la terapia de protones (PT) en pacientes con gliomas de alto grado como el glioblastoma multiforme (GBM)?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta9": {
+        "opciones": {
+            "A": "Depende del tipo de tejido y efecto considerados.",
+            "B": "Cabe esperar en todos los casos un mayor valor del valor de RBE para los tratamientos hipofraccionados.",
+            "C": "Depende la transferencia lineal de energía (LET).",
+            "D": "Es mayor cuanto menor es la dosis absorbida."
+        },
+        "pregunta": "De las siguientes afirmaciones sobre la RBE para los haces de protones comúnmente empleados en radioterapia, ¿cuál es incorrecta?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta10": {
+        "opciones": {
+            "A": "Dificulta el sincronismo del acelerador",
+            "B": "No necesita ensanchar el pico de Bragg",
+            "C": "Permite implementar terapias FLASH",
+            "D": "Ninguna de las anteriores porque el sincrotrón alcanza mayores tasas de dosis que el ciclotrón"
+        },
+        "pregunta": "A diferencia del sincrotrón, la mayor tasa de dosis que es capaz de alcanzar un ciclotrón",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta11": {
+        "opciones": {
+            "A": "El nivel de evidencia actual es 2C++",
+            "B": "También puede haber toxicidad tardía",
+            "C": "No es preciso una selección rigurosa de pacientes",
+            "D": "Los estudios son heterogéneos"
+        },
+        "pregunta": "¿Cuál de estas afirmaciones respecto a la reirradiación con protones en el carcinoma de cabeza y cuello es falsa?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta12": {
+        "opciones": {
+            "A": "El propio haz de tratamiento.",
+            "B": "Un haz de protones de energía inferior a la de tratamiento, para irradiar menos al paciente.",
+            "C": "Un haz de protones de energía suficiente como para poder atravesar al paciente completo.",
+            "D": "Un haz de RX de 100 KVp."
+        },
+        "pregunta": "Para realizar una radiografía de protones se utilizaría:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta13": {
+        "opciones": {
+            "A": "El proyecto de protonterapia de Andalucía se sustenta en la especialización de profesionales de las Unidades de protonterapia, siendo los hospitales de origen meros derivadores de casos sin formación en el uso de protones",
+            "B": "La posibilidad de realizar proyectos de investigación con éxito es una de las ventajas del trabajo en red",
+            "C": "Las Unidades de protonterapia se instalarán en Sevilla y Málaga",
+            "D": "Una de los fundamentos de la red andaluza de protonterapia es mantener la equidad en el acceso a toda la población independiente de donde vivan"
+        },
+        "pregunta": "¿Cuál de las siguientes afirmaciones es FALSA?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta14": {
+        "opciones": {
+            "A": "El valor de la LET de los haces clínicos de protones es muy semejante al de los haces de fotones y, por tanto, no es preciso considerarla en la práctica clínica.",
+            "B": "Debe emplearse un modelo de RBE dependiente de la LET elegido de entre los que han sido publicados.",
+            "C": "Como complemento del análisis de cada plan de tratamiento, es deseable considerar las distribuciones de LET y valorar su posible repercusión en la respuesta de los tejidos irradiados.",
+            "D": "Las distribuciones de LET no se consideran de ningún modo en la valoración de un plan de tratamiento por nuestra falta de conocimientos actual sobre su influencia."
+        },
+        "pregunta": "Respecto de las distribuciones de la LET para un plan de tratamiento, lo común en la práctica clínica es:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta15": {
+        "opciones": {
+            "A": "En la población pediátrica los tejidos están en desarrollo y son posibles largos supervivientes, por lo que adquiere especial importancia.",
+            "B": "Independientemente del tumor y su pronóstico, la protonterapia está indicada.",
+            "C": "La protonterapia no está indicada en tumores cerebrales con intención curativa ya que no se ha demostrado mayor supervivencia, independientemente de las complicaciones graves esperables a largo plazo.",
+            "D": "La protonterapia sólo es útil en caso de reirradiación."
+        },
+        "pregunta": "La protonterapia es especialmente útil en el tratamiento de los tumores infantiles. Señale la respuesta correcta:",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta16": {
+        "opciones": {
+            "A": "En la población pediátrica los tejidos están en desarrollo y son posibles largos supervivientes, por lo que adquiere especial importancia.",
+            "B": "La protonterapia no está indicada en tumores cerebrales con intención curativa ya que no se ha demostrado mayor supervivencia, independientemente de las complicaciones graves esperables a largo plazo.",
+            "C": "Independientemente del tumor y su pronóstico, la protonterapia está indicada.",
+            "D": "La protonterapia sólo es útil en caso de reirradiación."
+        },
+        "pregunta": "La protonterapia es especialmente útil en el tratamiento de los tumores infantiles. Señale la respuesta correcta:",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta17": {
+        "opciones": {
+            "A": "Es especialmente útil en tumores yuxtapaipilares o circumpapilares.",
+            "B": "Se asocia con peor control local que la braquiterapia.",
+            "C": "Tiene mayor riesgo de metástasis hepáticas que la enucleación.",
+            "D": "Está contraindicada en tumores mayores de 8 mm de altura."
+        },
+        "pregunta": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con la protonterapia en melanoma uveal?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta18": {
+        "opciones": {
+            "A": "Es necesario repetir el estudio para asegurar un posicionamiento de paciente lo más reproducible posible.",
+            "B": "No es necesario repetir el estudio.",
+            "C": "Realizando un posicionamiento de paciente basado en imagen, usando el sistema de imagen de rayos X del equipo de protonterapia, es suficiente para corregir esa desviación.",
+            "D": "Sólo sería necesario repetir el estudio si el giro es superior a 20 grados."
+        },
+        "pregunta": "Paciente con lesión en sistema nervioso central a tratar con protonterapia. Se efectúa estudio de imagen de tomografía computarizada (TC) con el paciente en decúbito supino. Se observa en el análisis de imágenes que el paciente estaba con el cuello girado 10 grados respecto al eje cráneo-caudal.",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta19": {
+        "opciones": {
+            "A": "Es una neoplasia maligna muy común del hueso.",
+            "B": "La combinación de resección quirúrgica y quimioterapia ha aumentado las tasas de supervivencia en las últimas décadas.",
+            "C": "Está etiquetado como radiosensible.",
+            "D": "Es un tumor poco agresivo, que a menudo prolifera en el tejido circundante."
+        },
+        "pregunta": "El Osteosarcoma:",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta20": {
+        "opciones": {
+            "A": "Está contraindicada en tumores mayores de 8 mm de altura.",
+            "B": "Es especialmente útil en tumores yuxtapaipilares o circumpapilares.",
+            "C": "Tiene mayor riesgo de metástasis hepáticas que la enucleación.",
+            "D": "Se asocia con peor control local que la braquiterapia."
+        },
+        "pregunta": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación con la protonterapia en melanoma uveal?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta21": {
+        "opciones": {
+            "A": "Financiar obras de infraestructuras sanitarias en las 8 provincias de Andalucía",
+            "B": "Desarrollar un registro único electrónico del SNS para un tratamiento",
+            "C": "Demostrar que los protones son una estrategia más eficaz que los fotones",
+            "D": "Nombrar un coordinador que vaya a reuniones del ministerio de sanidad"
+        },
+        "pregunta": "La protonterapia está siendo una gran oportunidad para:",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta22": {
+        "opciones": {
+            "A": "Gantry de alta energía",
+            "B": "Gantry con barrido activo",
+            "C": "Acelerador lineal de electrones",
+            "D": "Acelerador de baja energía con línea fija dedicada"
+        },
+        "pregunta": "¿Qué tipo de acelerador se considera el gold standard para la protonterapia ocular?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta23": {
+        "opciones": {
+            "A": "Habrá una formación específica para profesionales de las unidades de protonterapia y otra para el resto de profesionales del SAS",
+            "B": "Tiene por objetivo formar a un gran número de profesionales en todo el SSPA",
+            "C": "Permitirá tener profesionales referentes en centros sin protones, que en su trayectoria profesional pueden finalizar trabajando en las unidades de protonterapia",
+            "D": "Todas son correctas"
+        },
+        "pregunta": "El programa formativo de la red andaluza de protonterapia:",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta24": {
+        "opciones": {
+            "A": "Hay evidencia en tumores de glándulas salivales",
+            "B": "Hay evidencia en carcinomas espinocelulares cutáneos",
+            "C": "Hay falta de evidencia para la radioterapia cervical unilateral",
+            "D": "Hay evidencia de que reducen la toxicidad aguda y tardía"
+        },
+        "pregunta": "¿Cuál de las siguientes afirmaciones es falsa respecto al uso de la protonterapia en el carcinoma de cabeza y cuello?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta25": {
+        "opciones": {
+            "A": "Hay falta de evidencia para la radioterapia cervical unilateral",
+            "B": "Hay evidencia de que reducen la toxicidad aguda y tardía",
+            "C": "Hay evidencia en carcinomas espinocelulares cutáneos",
+            "D": "Hay evidencia en tumores de glándulas salivales"
+        },
+        "pregunta": "¿Cuál de las siguientes afirmaciones es falsa respecto al uso de la protonterapia en el carcinoma de cabeza y cuello?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta26": {
+        "opciones": {
+            "A": "Incertidumbres geométricos de la unidad de protonterapia.",
+            "B": "Movimientos inter-fracción e intra-fracción.",
+            "C": "Las incertidumbres asociadas a la segmentación de la imagen de planificación y los parámetros de planificación.",
+            "D": "Las incertidumbres asociadas al algoritmo de cálculo de dosis seleccionado."
+        },
+        "pregunta": "¿Cuáles de las siguientes incertidumbres son intrínsecas al proceso de planificación de un tratamiento con haces de protones?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta27": {
+        "opciones": {
+            "A": "Instalación radiactiva de 3º categoría",
+            "B": "Instalación radiactiva de 1º categoría",
+            "C": "Instalación radiactiva de 2º categoría",
+            "D": "Instalación nuclear de 2º categoría"
+        },
+        "pregunta": "¿Qué clase de instalación se considera que es una instalación de protonterapia según el reglamento de instalaciones nucleares y radiactivas?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta28": {
+        "opciones": {
+            "A": "Juega un papel muy importante, ya que los haces de protones son muy sensibles a cualquier cambio anatómico que se produzca en su trayectoria.",
+            "B": "No es tan importante como en radioterapia con fotones, por lo que no es necesario realizar imágenes en cada sesión de tratamiento.",
+            "C": "Consiste en realizar dos imágenes ortogonales antes de cada sesión.",
+            "D": "Juega un papel muy importante, porque en protonterapia se administran dosis por sesión mucho más altas que las que se administran en radioterapia con fotones."
+        },
+        "pregunta": "La IGRT en protonterapia:",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta29": {
+        "opciones": {
+            "A": "La cirugía sólo se puede complementar con quimioterapia.",
+            "B": "Cirugía se complementa con radioterapia, que puede implicar la aplicación de dosis muy altas en sitios críticos.",
+            "C": "La resección completa siempre es posible.",
+            "D": "La resección completa en los sarcomas no es necesaria."
+        },
+        "pregunta": "Señale la verdadera:",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta30": {
+        "opciones": {
+            "A": "La dosis en mandíbula no se relaciona con la radionecrosis",
+            "B": "No hay mejora en la toxicidad tardía",
+            "C": "Es una opción viable para la desintificación de los tratamientos",
+            "D": "El nivel de evidencia actual es 3D"
+        },
+        "pregunta": "¿Cuál es verdadera respecto al uso de la protonterapia en los tumores de orofaringe?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta31": {
+        "opciones": {
+            "A": "La secretaría general técnica de la consejería de salud",
+            "B": "Por un grupo de profesionales, cargos intermedios y personal asistencial, de todos los centros del SSPA",
+            "C": "El grupo técnico de protonterapia del ministerio de sanidad y las CCAA",
+            "D": "El ministerio de sanidad"
+        },
+        "pregunta": "La red andaluza de protonterapia está siendo diseñada por:",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta32": {
+        "opciones": {
+            "A": "La supervivencia del cáncer infantil a 5 años en la actualidad supera el 80%.",
+            "B": "Supone la 1ª causa de muerte y de años de vida perdidos en niños y niñas de entre 0-14 años",
+            "C": "Los registros de cáncer de ámbito poblacional estiman que, cada año, se diagnostican en España unos 1100 casos de cáncer en menores de 15 años.",
+            "D": "Los tumores óseos son los tumores más frecuentemente diagnosticados en la infancia y en los que en general, la protonterapia se usa más frecuentemente."
+        },
+        "pregunta": "Entre todas las opciones señale la respuesta incorrecta:",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta33": {
+        "opciones": {
+            "A": "Las imágenes de CBCT tienen una superior exactitud de las HU que las de CT.",
+            "B": "Las imágenes de CBCT tienen mejor calidad de imagen que las de CT.",
+            "C": "Las imágenes de CBCT presentan más artefactos que las de CT.",
+            "D": "Las imágenes de CBCT se pueden utilizar para calcular directamente el plan inicial sobre ellas."
+        },
+        "pregunta": "Señale cuál de las siguientes afirmaciones es verdadera:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta34": {
+        "opciones": {
+            "A": "Localización en el iris",
+            "B": "Altura tumoral <4 mm",
+            "C": "Tumor localizado en polo posterior a 5 mm de la mácula",
+            "D": "Dosis absorbida por mácula >30 CGE"
+        },
+        "pregunta": "¿Cuál de los siguientes factores predice PEOR pronóstico visual tras protonterapia?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta35": {
+        "opciones": {
+            "A": "Los electrones penetran más profundamente",
+            "B": "Los electrones no depositan energía en superficie",
+            "C": "No hay diferencias significativas",
+            "D": "Los protones permiten tratar tumores profundos con precisión"
+        },
+        "pregunta": "¿En qué se diferencian los protones de los electrones en radioterapia?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta36": {
+        "opciones": {
+            "A": "Los estudios son heterogéneos",
+            "B": "También puede haber toxicidad tardía",
+            "C": "El nivel de evidencia actual es 2C++",
+            "D": "No es preciso una selección rigurosa de pacientes"
+        },
+        "pregunta": "¿Cuál de estas afirmaciones respecto a la reirradiación con protones en el carcinoma de cabeza y cuello es falsa?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta37": {
+        "opciones": {
+            "A": "Los productos emitidos en la etapa de cascada intranuclear",
+            "B": "La colisión elástica con los átomos del medio",
+            "C": "La colisión inelástica con los átomos del medio",
+            "D": "Las reacciones nucleares con los átomos del medio"
+        },
+        "pregunta": "En los procesos de interacción con la materia de los protones en su camino hacia el paciente, ¿Cuál de ellos es el importante desde el punto de vista de la protección radiológica?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta38": {
+        "opciones": {
+            "A": "Méduloblastoma",
+            "B": "Ependimoma",
+            "C": "Radomiosarcoma paramenígeo",
+            "D": "Tumores no curables como el tumor cerebral (DIPG) con muy escasa supervivencia."
+        },
+        "pregunta": "Todas las guías clínicas recomiendan la utilización de protonterapia en tumores infantiles, excepto en:",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta39": {
+        "opciones": {
+            "A": "Méduloblastoma",
+            "B": "Radomiosarcoma paramenígeo",
+            "C": "Ependimoma",
+            "D": "Tumores no curables como el tumor cerebral (DIPG) con muy escasa supervivencia."
+        },
+        "pregunta": "Todas las guías clínicas recomiendan la utilización de protonterapia en tumores infantiles, excepto en:",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta40": {
+        "opciones": {
+            "A": "Mayor disponibilidad geográfica y menor tiempo de espera para el tratamiento.",
+            "B": "Tasas de control tumoral significativamente más altas demostradas en ensayos aleatorizados de nivel 1.",
+            "C": "Una disminución consistente en la supervivencia global a 5 años.",
+            "D": "Potencial para reducir los déficits neurocognitivos a largo plazo y mejorar la calidad de vida."
+        },
+        "pregunta": "¿Qué beneficio potencial significativo ha demostrado la terapia de protones (PT) en comparación con la radioterapia de fotones convencional en el tratamiento de gliomas de bajo grado (LGGs)?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta41": {
+        "opciones": {
+            "A": "Menor daño a tejidos sanos circundantes",
+            "B": "Menor coste del tratamiento",
+            "C": "Menor tiempo de tratamiento",
+            "D": "Mayor disponibilidad en hospitales generales"
+        },
+        "pregunta": "¿Cuál es una ventaja principal de la protonterapia frente a la radioterapia con fotones?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta42": {
+        "opciones": {
+            "A": "Menor tiempo de tratamiento",
+            "B": "Menor coste del tratamiento",
+            "C": "Menor daño a tejidos sanos circundantes",
+            "D": "Mayor disponibilidad en hospitales generales"
+        },
+        "pregunta": "¿Cuál es una ventaja principal de la protonterapia frente a la radioterapia con fotones?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta43": {
+        "opciones": {
+            "A": "No puede usarse en la radioterapia con haces de protones, puesto que ha sido desarrollada y validada solamente para la terapia con haces de fotones.",
+            "B": "Esta cantidad se denomina en inglés ‘Biologically effective dose (BED)’, y la solemos traducir al español como ‘dosis biológica equivalente (DBE)’, con las siglas DBE.",
+            "C": "Para cada tejido y efecto considerado hay un parámetro, que solemos escribir como α/β, que determina la importancia del cambio de fraccionamiento.",
+            "D": "Se toma como medida del efecto (‘end point’) el valor de la supervivencia celular y, para determinar esta supervivencia, se emplea el modelo lineal-cuadrático."
+        },
+        "pregunta": "En el establecimiento de una cantidad para determinar la equivalencia de dos esquemas fraccionados de radioterapia, ¿cuál de las siguientes afirmaciones no es correcta?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta44": {
+        "opciones": {
+            "A": "Nombrar un coordinador que vaya a reuniones del ministerio de sanidad",
+            "B": "Financiar obras de infraestructuras sanitarias en las 8 provincias de Andalucía",
+            "C": "Desarrollar un registro único electrónico del SNS para un tratamiento",
+            "D": "Demostrar que los protones son una estrategia más eficaz que los fotones"
+        },
+        "pregunta": "La protonterapia está siendo una gran oportunidad para:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta45": {
+        "opciones": {
+            "A": "Optimización de campo único (SFO).",
+            "B": "Da igual el método de optimización que usemos, lo importante es alcanzar los objetivos dosimétricos en tumor y tejido sano.",
+            "C": "Optimización de campo múltiple (MFO).",
+            "D": "Para ese tipo de tumores es preferible realizar radioterapia de intensidad modulada con fotones."
+        },
+        "pregunta": "Se decide tratar con haces de protones a un paciente que presenta una lesión cerebral próxima al tronco cerebral. Se plantean dos haces anteriores oblicuados separados cuarenta grados entre sí. Ambos haces abarcan regiones anatómicas similares. ¿Qué estrategia de optimización de haces es conveniente seguir?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta46": {
+        "opciones": {
+            "A": "Para aumentar la tasa de dosis",
+            "B": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión longitudinal del tumor",
+            "C": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión en profundidad del tumor",
+            "D": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión transversal del tumor"
+        },
+        "pregunta": "¿Por qué es necesario ensanchar el pico de Bragg?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta47": {
+        "opciones": {
+            "A": "Para evitar inhomogeneidades por humedad residual",
+            "B": "Para endurecer completamente la resina",
+            "C": "Para reducir su peso",
+            "D": "Para ajustarse a la temperatura del paciente"
+        },
+        "pregunta": "¿Por qué los moldes-cuna requieren un tiempo de fraguado antes del CT?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta48": {
+        "opciones": {
+            "A": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión en profundidad del tumor",
+            "B": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión transversal del tumor",
+            "C": "Para aumentar la tasa de dosis",
+            "D": "Para obtener una meseta de dosis que permita tratar de forma uniforme la dimensión longitudinal del tumor"
+        },
+        "pregunta": "¿Por qué es necesario ensanchar el pico de Bragg?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta49": {
+        "opciones": {
+            "A": "Pico de Bragg",
+            "B": "Menor producción de radicales libres",
+            "C": "Mayor penetración en tejidos duros",
+            "D": "Efecto Compton"
+        },
+        "pregunta": "¿Qué característica física de los protones permite una mejor distribución de dosis que los fotones?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta50": {
+        "opciones": {
+            "A": "Porque la contaminación neutrónica es mucho mayor que en un sincrotrón",
+            "B": "Porque el pico de Bragg es demasiado estrecho",
+            "C": "Porque al aumentar la masa de la partícula disminuye su velocidad",
+            "D": "Porque incumple la ley de Lorentz"
+        },
+        "pregunta": "¿Por qué se rompe el sincronismo en un ciclotrón?",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta51": {
+        "opciones": {
+            "A": "Porque reduce el riesgo de segundos cánceres",
+            "B": "Porque requiere menos sesiones",
+            "C": "Porque es más económica",
+            "D": "Porque el tratamiento es indoloro"
+        },
+        "pregunta": "¿Por qué la protonterapia es especialmente útil en pacientes pediátricos?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta52": {
+        "opciones": {
+            "A": "Predominan en niños.",
+            "B": "La supervivencia de cordomas es mejor que en condrosarcomas.",
+            "C": "Tienen un comportamiento muy diferente.",
+            "D": "Presentan agresividad local tras la cirugía o dosis moderadas de radiación. Dosis más altas de protonterapia pueden superar esta radiorresistencia y proporcionar un control local duradero para tumores en algunas de las zonas anatómicamente más difíciles de tratar; para estos tipos de tumores, la protonterapia se considera el tratamiento de referencia."
+        },
+        "pregunta": "Los cordomas y condrosarcomas:",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta53": {
+        "opciones": {
+            "A": "Radiación de fotones gamma de alta energía y neutrones",
+            "B": "Radiación de neutrones y fotones gamma, y riesgos por activación de materiales",
+            "C": "Radiación de protones",
+            "D": "Radiación externa de neutrones y contaminación radiactiva"
+        },
+        "pregunta": "¿Qué riesgos existen respecto de la radiación en una instalación de protonterapia? Elige la mejor",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta54": {
+        "opciones": {
+            "A": "Reducir el número de sesiones",
+            "B": "Garantizar una posición estable y reproducible del paciente",
+            "C": "Mejorar la comodidad del paciente durante la espera",
+            "D": "Aumentar la dosis en el tumor"
+        },
+        "pregunta": "¿Cuál es el propósito principal de la inmovilización en radioterapia?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta55": {
+        "opciones": {
+            "A": "Respuesta rápida y alto número atómico",
+            "B": "Ser pequeños y con alto tiempo muerto",
+            "C": "Centelleo rápido y resolución espacial alta",
+            "D": "Rango extendido de energía y capacidad discriminatoria con fotones"
+        },
+        "pregunta": "¿Qué características han de tener los detectores de neutrones de una instalación de protonterapia?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta56": {
+        "opciones": {
+            "A": "Retirar los párpados de la trayectoria del haz para minimizar la dosis recibida por estas estructuras",
+            "B": "Mejorar el confort del paciente durante la sesión",
+            "C": "Aumentar la precisión del posicionamiento del paciente",
+            "D": "Facilitar la visión del punto de fijación para el control voluntario de la mirada"
+        },
+        "pregunta": "¿Cuál es la función principal de los retractores palpebrales durante el tratamiento con protonterapia ocular?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta57": {
+        "opciones": {
+            "A": "Se debe exclusivamente a la diferente sensibilidad de los tejidos sanos y tumorales a la radiación.",
+            "B": "Es muy amplia en casi todos los casos clínicos de interés.",
+            "C": "Puede ampliarse mediante una buena técnica de tratamiento y mediante la elección adecuada del fraccionamiento.",
+            "D": "Se debe exclusivamente a la capacidad de la radioterapia moderna de irradiar selectivamente los tejidos tumorales sin irradiar los tejidos sanos."
+        },
+        "pregunta": "La ‘ventana terapéutica’:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta58": {
+        "opciones": {
+            "A": "Se debe interrumpir el tratamiento de inmediato, y realizar un nuevo estudio TC para evaluar la distribución de dosis del plan original. Tras dicha evaluación, decidir si es necesario hacer una nueva planificación de protonterapia en base al nuevo estudio TC. En caso de no ser necesario, continuar con la administración del tratamiento original.",
+            "B": "Se puede continuar con la administración del tratamiento.",
+            "C": "El paciente puede continuar su tratamiento, pero con una nueva planificación de intensidad modulada de fotones.",
+            "D": "Se debe hacer una nueva planificación de protonterapia."
+        },
+        "pregunta": "Paciente con cáncer de cabeza y cuello bilateral se está tratando en la unidad de protonterapia. Tras 12 fracciones de tratamiento se observa que el paciente ha adelgazado.",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta59": {
+        "opciones": {
+            "A": "Se recomienda emplear un valor de RBE=1.1 y, por tanto, debe considerarse un aumento en la dosis absorbida prescrita, de un 10% en toda la distribución de dosis, respecto de la empleada en los haces de fotones.",
+            "B": "Se recomienda emplear un valor de RBE=1.1 y, por tanto, debe considerarse una disminución en la dosis absorbida prescrita, de un 10% en toda la distribución de dosis, respecto de la empleada en los haces de fotones.",
+            "C": "El valor de RBE depende de la situación clínica y se determina en función de la patología considerada, por lo que no se establece un valor fijo para la práctica clínica.",
+            "D": "Es semejante al de los haces de fotones usados en radioterapia y no debe realizarse ninguna corrección en la dosis absorbida total prescrita."
+        },
+        "pregunta": "Con respecto al valor de RBE para los haces de protones comúnmente empleados en radioterapia, ¿cuál de las siguientes afirmaciones es correcta?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta60": {
+        "opciones": {
+            "A": "Ser invisibles al haz",
+            "B": "No visualizarse correctamente",
+            "C": "Moverse durante el tratamiento",
+            "D": "Crear artefactos en el CT que alteran la dosimetría"
+        },
+        "pregunta": "¿Cuál es el principal riesgo de los marcadores fiduciales en protonterapia?",
+        "respuesta_correcta": "D"
+    },
+    "Protones_pregunta61": {
+        "opciones": {
+            "A": "Ser pequeños y con alto tiempo muerto",
+            "B": "Rango extendido de energía y capacidad discriminatoria con fotones",
+            "C": "Respuesta rápida y alto número atómico",
+            "D": "Centelleo rápido y resolución espacial alta"
+        },
+        "pregunta": "¿Qué características han de tener los detectores de neutrones de una instalación de protonterapia?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta62": {
+        "opciones": {
+            "A": "Sincrotrones",
+            "B": "Ciclotrón para producir radiofármacos",
+            "C": "CLINAC",
+            "D": "Sincrociclotrones"
+        },
+        "pregunta": "No son aceleradores circulares:",
+        "respuesta_correcta": "C"
+    },
+    "Protones_pregunta63": {
+        "opciones": {
+            "A": "Straggling",
+            "B": "Scattering",
+            "C": "Efecto Doppler",
+            "D": "Quenching"
+        },
+        "pregunta": "¿Cómo se llama el fenómeno por el cual el pico de Bragg se ensancha debido a la naturaleza estocástica de las interacciones?",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta64": {
+        "opciones": {
+            "A": "Tener la sala a presión negativa respecto del exterior",
+            "B": "Renovar el aire de la sala al menos 6 veces a la hora",
+            "C": "Renovar el aire de la sala al menos 4 veces a la hora",
+            "D": "Abrir la puerta durante 5 minutos"
+        },
+        "pregunta": "¿Cuál es la solución para mitigar los efectos de la activación del aire de las salas?",
+        "respuesta_correcta": "B"
+    },
+    "Protones_pregunta65": {
+        "opciones": {
+            "A": "Todas son correctas",
+            "B": "Habrá una formación específica para profesionales de las unidades de protonterapia y otra para el resto de profesionales del SAS",
+            "C": "Tiene por objetivo formar a un gran número de profesionales en todo el SSPA",
+            "D": "Permitirá tener profesionales referentes en centros sin protones, que en su trayectoria profesional pueden finalizar trabajando en las unidades de protonterapia"
+        },
+        "pregunta": "El programa formativo de la red andaluza de protonterapia:",
+        "respuesta_correcta": "A"
+    },
+    "Protones_pregunta66": {
+        "opciones": {
+            "A": "Tumores oculares como el melanoma uveal",
+            "B": "Linfoma de Hodgkin",
+            "C": "Cáncer de piel no melanoma",
+            "D": "Carcinoma de próstata metastásico"
+        },
+        "pregunta": "¿Cuál de los siguientes tumores se considera una indicación clínica preferente para la protonterapia por su localización?",
+        "respuesta_correcta": "A"
+    }
+}
