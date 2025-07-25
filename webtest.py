@@ -18,6 +18,7 @@ temas = {
     "Radioterapia": "preguntas_radioterapia.json",
     "Medicina Nuclear": "preguntas_medicina_nuclear.json",
     "Protones": "preguntas_protones.json",
+    "Temario Comun": "preguntas_comunes.json",
     "Resto": "preguntas_resto.json",
 }
 
