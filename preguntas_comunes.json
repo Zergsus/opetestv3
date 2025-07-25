@@ -1,0 +1,1022 @@
+{
+    "ComunesSMA_pregunta1": {
+        "pregunta": "De acuerdo con el artículo 167 de la Constitución Española, aprobada la reforma constitucional por las Cortes Generales, será sometida a referéndum para su ratificación si:",
+        "opciones": {
+            "A": "Se solicita dentro de los diez días siguientes a su aprobación, por una de las cámaras.",
+            "B": "Se solicita por la décima parte de los miembros de cualquiera de las cámaras, dentro de los quince días siguientes a su aprobación.",
+            "C": "Se solicita por un grupo parlamentario.",
+            "D": "Se solicita por una décima parte de los miembros de cualquiera de las cámaras en el plazo de veinte días."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta2": {
+        "pregunta": "En el Título preliminar de la Constitución Española se citan los valores superiores del ordenamiento jurídico español. Entre ellos no se menciona:",
+        "opciones": {
+            "A": "La libertad.",
+            "B": "La equidad.",
+            "C": "La justicia.",
+            "D": "El pluralismo político."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta3": {
+        "pregunta": "En la Constitución Española ¿Los principios inspiradores que inspiran a la misma se recogen?",
+        "opciones": {
+            "A": "En el Preámbulo.",
+            "B": "No se recogen.",
+            "C": "En el Título Preliminar.",
+            "D": "En el artículo 9."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta4": {
+        "pregunta": "En la vigente Constitución Española, ¿cuáles son los valores superiores de su ordenamiento jurídico, recogidos en su artículo primero?",
+        "opciones": {
+            "A": "La soberanía nacional, que reside en el pueblo español.",
+            "B": "La indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y el derecho a la autonomía de las nacionalidades y regiones que la integran.",
+            "C": "La libertad, la justicia, la igualdad y el pluralismo político.",
+            "D": "Todos los anteriores."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta5": {
+        "pregunta": "La constitución Española de 1978, vigente actualmente, establece en su artículo 10.1 una serie de principios como fundamento del orden político y de la paz social en nuestra Nación. Entre estos principios se encuentra:",
+        "opciones": {
+            "A": "La dignidad de la persona y los derechos inviolables que le son inherentes.",
+            "B": "El libre desarrollo de la personalidad.",
+            "C": "El respeto a la ley y a los derechos de los demás.",
+            "D": "Todas las respuestas anteriores son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta6": {
+        "pregunta": "Los derechos y deberes fundamentales vienen recogidos en la Constitución Española en el:",
+        "opciones": {
+            "A": "Título II",
+            "B": "Título I, artículos 10 al 55",
+            "C": "Título I, artículos 10",
+            "D": "Título Preliminar"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta7": {
+        "pregunta": "Los proyectos de reforma de la Constitución Española vigente:",
+        "opciones": {
+            "A": "Deberán ser aprobados por la mayoría absoluta del Congreso de los Diputados.",
+            "B": "Deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+            "C": "Deberán ser aprobados por las Cámaras Parlamentarias de todas las Comunidades Autónomas, por mayoría simple en cada una de ellas.",
+            "D": "No son posibles, según el texto constitucional."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta8": {
+        "pregunta": "Según el artículo 123.2 de la Constitución Española:",
+        "opciones": {
+            "A": "El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "B": "El Presidente del Tribunal Supremo será nombrado por el Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "C": "El Presidente del Tribunal Supremo será nombrado por el presidente del Congreso de los Diputados, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+            "D": "El Presidente del Tribunal Supremo será nombrado por el Presidente del Gobierno, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta9": {
+        "pregunta": "Según el artículo 145 de la Constitución Española, los convenios celebrados entre comunidades autónomas deben ser comunicados a:",
+        "opciones": {
+            "A": "El Consejo de Política Fiscal y Financiera",
+            "B": "La Consejería de Presidencia u órgano equivalente de cada Comunidad Autónoma",
+            "C": "Las Cortes Generales",
+            "D": "El Ministerio responsable de economía"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta10": {
+        "pregunta": "Según el artº 43 de la Constitución Española, los poderes públicos fomentarán:",
+        "opciones": {
+            "A": "Las medidas necesarias para mantener y conservar la salud",
+            "B": "La educación sanitaria, la educación física y el deporte",
+            "C": "Planes dirigidos a la prevención de la enfermedad",
+            "D": "Medidas destinadas al bienestar de los ciudadanos"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta11": {
+        "pregunta": "Según la Constitución Española de 1978, ¿a quién compete organizar y tutelar la salud pública, a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+        "opciones": {
+            "A": "A las Mutuas Laborales",
+            "B": "A los Poderes Públicos",
+            "C": "Al Sector Sanitario Privado",
+            "D": "A la Administración Pública"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta12": {
+        "pregunta": "¿Cuál de las siguientes afirmaciones está entre lo dispuesto en el artículo 43 de la vigente Constitución Española de 1978?",
+        "opciones": {
+            "A": "Reconoce el derecho a la protección de la salud y a disfrutar de un medio ambiente adecuado.",
+            "B": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos facilitarán la adecuada utilización del ocio.",
+            "C": "Reconoce el derecho a la protección de la salud y establece que los poderes públicos promoverán la ciencia y la investigación científica.",
+            "D": "Reconoce el derecho a la protección de la salud y a una muerte digna."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta13": {
+        "pregunta": "¿En qué artículo de la Constitución Española viene regulado que “Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social”?",
+        "opciones": {
+            "A": "Artículo 12",
+            "B": "Artículo 15",
+            "C": "Artículo 33",
+            "D": "Artículo 14"
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta14": {
+        "pregunta": "De entre los derechos reconocidos en el artículo 22 del Estatuto de Autonomía para Andalucía en materia de salud, no se contempla:",
+        "opciones": {
+            "A": "Garantía de tiempo máximo de acceso a servicios y tratamientos.",
+            "B": "Disponer de una segunda opinión facultativa sobre su proceso.",
+            "C": "Libre elección de Médico y Enfermero/a.",
+            "D": "Consejo Genético y medicina predictiva."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta15": {
+        "pregunta": "El artículo 1.1 del Estatuto de Autonomía de Andalucía alude a ésta Comunidad como:",
+        "opciones": {
+            "A": "Nación.",
+            "B": "Nacionalidad histórica.",
+            "C": "Región histórica.",
+            "D": "Realidad nacional."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta16": {
+        "pregunta": "El artículo 4 del Estatuto de Autonomía de Andalucía establece la capitalidad y sedes. Así, determina que en la capital de Andalucía, que es la ciudad de Sevilla, radicarán las sedes de las siguientes instituciones, EXCEPTO:",
+        "opciones": {
+            "A": "El Tribunal Superior de Justicia.",
+            "B": "La Presidencia de la Junta.",
+            "C": "El Parlamento.",
+            "D": "El Consejo de Gobierno."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta17": {
+        "pregunta": "El Parlamento de Andalucía está compuesto por:",
+        "opciones": {
+            "A": "Un mínimo de 100 diputado/as",
+            "B": "Un máximo de 109 diputado/as",
+            "C": "Un mínimo de 109 diputado/as",
+            "D": "Un máximo de 105 diputado/as"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta18": {
+        "pregunta": "La competencia que el actual Estatuto de Autonomía de Andalucía reconoce a nuestra Comunidad Autónoma en materia de sanidad interior está calificada en dicho Estatuto como:",
+        "opciones": {
+            "A": "Compartida",
+            "B": "Delegada",
+            "C": "Autónoma",
+            "D": "Exclusiva"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta19": {
+        "pregunta": "La sede del Tribunal Superior de Justicia de Andalucía se encuentra en…",
+        "opciones": {
+            "A": "Sevilla",
+            "B": "Málaga",
+            "C": "Granada",
+            "D": "Cádiz"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta20": {
+        "pregunta": "Referido al Parlamento de Andalucía, y según establece el vigente Estatuto de Autonomía de Andalucía en su texto legal reformado en el año 2007, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": {
+            "A": "Es inviolable.",
+            "B": "Está compuesto por un mínimo de 119 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+            "C": "Es elegido por cinco años.",
+            "D": "Es el órgano representativo del pueblo andaluz, e independiente de la Junta de Andalucía."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta21": {
+        "pregunta": "Según el Estatuto de Autonomía de Andalucía, el control de los medios de comunicación social dependientes de la Comunidad Autónoma corresponde a:",
+        "opciones": {
+            "A": "El Defensor del Pueblo Andaluz.",
+            "B": "El Consejo de Gobierno de la Junta de Andalucía.",
+            "C": "El Parlamento Andaluz.",
+            "D": "El Consejo Económico y Social."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta22": {
+        "pregunta": "Con las nuevas tendencias de atención a la salud, impulsadas por la Ley General de Sanidad de 1986 (LGS), los servicios de Salud Mental deben dar respuesta a la prevención primaria, secundaria y terciaria, para lo que han de tener como objetivos: (Señale la respuesta incorrecta).",
+        "opciones": {
+            "A": "Evitar la enfermedad.",
+            "B": "Diagnosticar su procedencia.",
+            "C": "Influir en el mapa sanitario de la zona.",
+            "D": "Conseguir que el enfermo psíquico se integre en la sociedad."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta23": {
+        "pregunta": "El Artículo 47 de la Ley de Salud de Andalucía determina que el Sistema Sanitario Público de Andalucía se organiza en demarcaciones territoriales denominadas…",
+        "opciones": {
+            "A": "Zonas Básicas de Salud",
+            "B": "Áreas Hospitalarias",
+            "C": "Áreas de Salud",
+            "D": "Áreas de Gestión Sanitaria"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta24": {
+        "pregunta": "El Servicio Andaluz de Salud es hoy día:",
+        "opciones": {
+            "A": "Una empresa pública",
+            "B": "Un organismo autónomo",
+            "C": "Una Agencia administrativa",
+            "D": "Una Agencia empresarial sanitaria"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta25": {
+        "pregunta": "Según dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria:",
+        "opciones": {
+            "A": "Únicamente los ciudadanos andaluces",
+            "B": "Todos los españoles.",
+            "C": "Cualquier ciudadano.",
+            "D": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en España."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta26": {
+        "pregunta": "Según el artículo 38 de la ley 14/1986, de 25 de abril, General de Sanidad:",
+        "opciones": {
+            "A": "Es competencia exclusiva del Estado la sanidad exterior, y competencia compartida con las Comunidades Autónomas (CC.AA.) las relaciones y acuerdos sanitarios internacionales.",
+            "B": "Son competencias compartidas entre el Estado y las CC.AA. la sanidad exterior y las relaciones y acuerdos sanitarios internacionales.",
+            "C": "Son competencia exclusiva del Estado la sanidad exterior y las relaciones y acuerdos sanitarios internacionales.",
+            "D": "Es competencia compartida entre el Estado y las CC.AA. la sanidad exterior, siendo competencia exclusiva del Estado las relaciones y acuerdos sanitarios internacionales."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta27": {
+        "pregunta": "Según la Ley 2/98 de Salud de Andalucía, ¿Quién aprueba y modifica los Límites Territoriales de las Áreas de Salud?",
+        "opciones": {
+            "A": "El Consejo de Gobierno de la Junta de Andalucía.",
+            "B": "La Consejería de Salud.",
+            "C": "El Servicio Andaluz de Salud.",
+            "D": "El Parlamento de Andalucía."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta28": {
+        "pregunta": "Según la ley 2/98, de Salud de Andalucía, la aprobación del Plan Andaluz de Salud corresponde a…",
+        "opciones": {
+            "A": "Servicio Andaluz de Salud.",
+            "B": "Consejería de Salud de la Junta de Andalucía.",
+            "C": "Parlamento Andaluz.",
+            "D": "Consejo de Gobierno de la Junta de Andalucía."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta29": {
+        "pregunta": "¿Cuáles se consideran competencias exclusivas del Estado según la Ley 14/1986, de 25 de abril, General de Sanidad?",
+        "opciones": {
+            "A": "Control sanitario del medio ambiente: contaminación atmosférica, abastecimiento de aguas, saneamiento de aguas residuales, residuos urbanos e industriales",
+            "B": "La sanidad exterior y las relaciones y acuerdos sanitarios internacionales",
+            "C": "Control sanitario de la distribución y suministro de alimentos, bebidas y demás productos, directa o indirectamente relacionados con el uso o consumo humanos, así como los medios de su transporte",
+            "D": "Las decisiones y actuaciones públicas previstas en la Ley que no se hayan reservado expresamente al Estado"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta30": {
+        "pregunta": "El Servicio Andaluz de Salud fue creado en el año…",
+        "opciones": {
+            "A": "1982",
+            "B": "1986",
+            "C": "1990",
+            "D": "1994"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta31": {
+        "pregunta": "La Ley General de Sanidad establece como característica del sistema sanitario español:",
+        "opciones": {
+            "A": "Financiado con las aportaciones directas del usuario.",
+            "B": "Incompatible con la planificación económica general.",
+            "C": "Con base en el aseguramiento voluntario.",
+            "D": "Con organización adecuada para el cumplimiento de los objetivos de cada servicio."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta32": {
+        "pregunta": "La Ley General de Sanidad 14/1986 en su artículo 6, establece que las actuaciones de las Administraciones Públicas Sanitarias estarán orientadas a:",
+        "opciones": {
+            "A": "Promoción de la salud y prevención de enfermedades.",
+            "B": "Rehabilitación y reinserción social del paciente.",
+            "C": "Garantizar la asistencia sanitaria en igualdad de condiciones a toda la población.",
+            "D": "Todas las respuestas anteriores son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta33": {
+        "pregunta": "De acuerdo con la Ley General de Sanidad, los servicios sanitarios del sistema de salud se organizarán de manera que sea posible articular niveles asistenciales para garantizar:",
+        "opciones": {
+            "A": "Una mejor distribución de los profesionales.",
+            "B": "Una atención integral de la salud.",
+            "C": "Una gestión más burocratizada.",
+            "D": "La máxima rentabilidad económica del sistema."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta34": {
+        "pregunta": "En el Sistema Nacional de Salud, los servicios de salud de las Comunidades Autónomas asumirán la gestión de los centros, servicios y establecimientos sanitarios de acuerdo con el marco legal:",
+        "opciones": {
+            "A": "A través de convenios con la sanidad privada.",
+            "B": "Con la supervisión de la Unión Europea.",
+            "C": "En los términos establecidos en sus Estatutos y en la Ley General de Sanidad.",
+            "D": "De acuerdo con la ley de los Presupuestos Generales del Estado."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta35": {
+        "pregunta": "La Ley General de Sanidad considera como actuaciones básicas del sistema sanitario:",
+        "opciones": {
+            "A": "La protección de la salud, la promoción de la salud, la prevención de enfermedades y la asistencia sanitaria.",
+            "B": "La rehabilitación, el cobro de servicios sanitarios y la atención urgente.",
+            "C": "La planificación económica, la formación universitaria y la investigación.",
+            "D": "La seguridad social, el control del gasto público y la descentralización."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta36": {
+        "pregunta": "¿Cuál de las siguientes funciones corresponde al Consejo Interterritorial del Sistema Nacional de Salud según la Ley General de Sanidad?",
+        "opciones": {
+            "A": "Elaborar los Presupuestos Generales del Estado en materia de sanidad.",
+            "B": "Coordinar las actuaciones de las Comunidades Autónomas en materia de salud.",
+            "C": "Vigilar las relaciones internacionales en el ámbito sanitario.",
+            "D": "Gestionar directamente los hospitales de alta tecnología."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta31": {
+        "pregunta": "En Andalucía existen, como organizaciones específicas dentro del Servicio Andaluz de Salud, las Áreas de Gestión Sanitaria. ¿Cuál de las siguientes respuestas las definiría más precisamente?",
+        "opciones": {
+            "A": "Son responsables de la gestión sanitaria de los dispositivos asistenciales de atención primaria y de la atención hospitalaria que requieran una continuidad asistencial interniveles.",
+            "B": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, pero no de la salud pública, que será llevada a cabo a nivel provincial.",
+            "C": "Son aquellas demarcaciones territoriales formadas exclusivamente por Unidades Clínicas de Gestión que compartan prestaciones y programas sanitarios entre atención primaria y especializada.",
+            "D": "Son responsables de la gestión unitaria de los dispositivos asistenciales tanto de la atención primaria como atención hospitalaria, así como la salud pública, en una demarcación territorial específica, y de las prestaciones y programas sanitarios a desarrollar por ellos."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta32": {
+        "pregunta": "Según el Decreto 197/2007, el puesto denominado “Director de Unidad de Gestión Clínica” tiene la consideración de:",
+        "opciones": {
+            "A": "Cargo intermedio",
+            "B": "Puesto directivo.",
+            "C": "Puesto base con encargo complementario",
+            "D": "Puesto base cualificado."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta33": {
+        "pregunta": "Según el Decreto de estructura, organización y funcionamiento de los servicios de atención primaria de salud en el ámbito del Servicio Andaluz de Salud, los Distritos de atención primaria:",
+        "opciones": {
+            "A": "Constituyen las estructuras básicas para la planificación de los recursos de la atención primaria.",
+            "B": "Constituyen las estructuras organizativas para la planificación operativa, dirección, gestión y administración en el ámbito de la atención primaria.",
+            "C": "Constituyen las estructuras básicas para la planificación operativa, dirección, gestión y administración sanitaria en el ámbito de la atención primaria.",
+            "D": "Constituyen las estructuras organizativas para la planificación asistencial, dirección, gestión económica y administración en el ámbito de la atención primaria."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta34": {
+        "pregunta": "Según el Decreto sobre ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales en Andalucía, la función de asegurar el desarrollo del programa de actividad y control asistencial, así como la organización y control de la docencia e investigación, corresponde a la:",
+        "opciones": {
+            "A": "Dirección Gerencia.",
+            "B": "Dirección Médica.",
+            "C": "Dirección de Enfermería.",
+            "D": "Dirección Económica-Administrativa."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta35": {
+        "pregunta": "La Agencia Española de Protección de Datos es:",
+        "opciones": {
+            "A": "La autoridad pública independiente encargada de velar por la privacidad y la protección de datos de los ciudadanos",
+            "B": "La autoridad privada independiente encargada de velar por la privacidad y la protección de datos de los ciudadanos",
+            "C": "La autoridad encargada por el Gobierno de España para velar por la seguridad de los datos privados de los ciudadanos",
+            "D": "El ente creado por el Congreso de los Diputados con el encargo de velar por la privacidad y la protección de datos de los ciudadanos"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta36": {
+        "pregunta": "Los datos de salud son una categoría especial de datos personales, que el vigente Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, prohíbe tratarlos a menos que concurran determinadas circunstancias. ¿En qué artículo del Reglamento citado se recogen estas excepciones?",
+        "opciones": {
+            "A": "En el artículo 9.2.",
+            "B": "En el artículo 12.",
+            "C": "En el artículo 3.1.",
+            "D": "En el artículo 43."
+        },
+        "respuesta_correcta": "A"
+    },
+   "ComunesSMA_pregunta37": {
+        "pregunta": "El Artículo 22: Vigilancia de la salud de la Ley 31/95 de Prevención de Riesgos Laborales establece lo siguiente:",
+        "opciones": {
+            "A": "La Vigilancia de la Salud sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento y tenga una antigüedad en el puesto igual o superior a tres años.",
+            "B": "El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo.",
+            "C": "Se recomienda que la Vigilancia de la Salud sea anual con carácter general.",
+            "D": "La vigilancia de la salud es, en todo caso, voluntaria por parte del trabajador."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta38": {
+        "pregunta": "El estado físico en el que las respuestas de una persona ante las demandas externas están adaptadas a sus normas fisiológicas, se conoce como:",
+        "opciones": {
+            "A": "Estrés",
+            "B": "Eustrés",
+            "C": "Distrés",
+            "D": "Riesgo laboral"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta39": {
+        "pregunta": "El ruido se considera:",
+        "opciones": {
+            "A": "Un contaminante físico",
+            "B": "Un contaminante químico",
+            "C": "Un contaminante biológico",
+            "D": "No se considera un contaminante"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta40": {
+        "pregunta": "En caso de riesgo grave e inminente, las personas trabajadoras y sus representantes pueden:",
+        "opciones": {
+            "A": "Adoptar las medidas necesarias en materia de primeros auxilios y lucha contra incendios",
+            "B": "Interrumpir su actividad y cuando sea necesario, abandonar de inmediato el lugar de trabajo",
+            "C": "Informar, lo antes posible, a las demás personas trabajadoras",
+            "D": "Cuando el empresario no adopte o no permita la adopción de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores, los representantes legales de éstos no podrán acordar, por mayoría de sus miembros, la paralización de la actividad de los trabajadores afectados por dicho riesgo"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta41": {
+        "pregunta": "La finalidad esencial de la evaluación de riesgos laborales consiste en:",
+        "opciones": {
+            "A": "Detectar los riesgos que no han podido evitarse en la realización del trabajo",
+            "B": "Eliminar los riesgos laborales",
+            "C": "Informar a la persona trabajadora de los riesgos inherentes a su puesto de trabajo",
+            "D": "Todas las anteriores son correctas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta42": {
+        "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el Comité de Seguridad y Salud se reunirá:",
+        "opciones": {
+            "A": "Semestralmente y siempre que lo solicite alguna de las representaciones en el mismo.",
+            "B": "Con carácter bimensual y siempre que lo solicite alguna de las representaciones en el mismo.",
+            "C": "Mensualmente y siempre que lo solicite alguna de las representaciones en el mismo.",
+            "D": "Trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta43": {
+        "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, ¿Qué se entiende por riesgo laboral?",
+        "opciones": {
+            "A": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+            "B": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+            "C": "La naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo y sus correspondientes intensidades, concentraciones o niveles de presencia.",
+            "D": "Conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de mejorar las condiciones de trabajo."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta44": {
+        "pregunta": "Según la Organización Mundial de la Salud la desinfección de las manos con solución alcohólica:",
+        "opciones": {
+            "A": "Está prohibida.",
+            "B": "Sólo es aconsejable al comienzo de la jornada.",
+            "C": "La duración del proceso de desinfección oscila entre 20 y 30 segundos.",
+            "D": "La duración del proceso de desinfección oscila entre 40 y 50 segundos."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta45": {
+        "pregunta": "Señale la afirmación correcta sobre el objeto de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, tal y como queda recogido en el artículo 2 punto 1 del citado texto legal:",
+        "opciones": {
+            "A": "Crear los servicios de prevención de riesgos laborales.",
+            "B": "Desarrollar los reglamentos que deben tener todas las empresas y la Administración Pública sobre riesgos laborales.",
+            "C": "Establecer un marco legal que permita las compensaciones a los trabajadores y las sanciones a las empresas en caso de accidentes de trabajo.",
+            "D": "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta46": {
+        "pregunta": "Ante las situaciones de sospecha y confirmación de maltrato hacia la mujer, ¿cuál de estos elementos son comunes a todos los planes de atención?",
+        "opciones": {
+            "A": "Registrar en la historia social de Diraya la intervención",
+            "B": "Atender a la víctima en presencia del maltratador",
+            "C": "Previa autorización verbal de la mujer, comunicación al personal de trabajo social del centro",
+            "D": "Solicitar la intervención de las fuerzas de seguridad"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta47": {
+        "pregunta": "El Objeto de la Ley 13/2007, de prevención y protección integral contra la violencia de género, es de aplicación:",
+        "opciones": {
+            "A": "En toda el territorio Español.",
+            "B": "En el ámbito territorial de la Comunidad Autónoma de Andalucía.",
+            "C": "Tienen garantizados los derechos que esta Ley reconoce todas las mujeres que se encuentran en el territorio español.",
+            "D": "Ninguna es correcta."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta48": {
+        "pregunta": "La Ley 13/2007, de 26 de noviembre, de medidas de prevención y protección integral contra la violencia de género, considera violencia de género:",
+        "opciones": {
+            "A": "La violencia física, psíquica, verbal",
+            "B": "La violencia física, psicológica, económica, sexual y abusos sexuales.",
+            "C": "La violencia física, psicológica, económica, legal y sexual.",
+            "D": "La violencia física, psicológica y sexual"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta49": {
+        "pregunta": "Según la Ley 12/2007 para la Promoción de la Igualdad de Género en Andalucía, el Plan Estratégico para la Igualdad de Mujeres y Hombres se aprobará por:",
+        "opciones": {
+            "A": "Consejo de Gobierno de la Junta de Andalucía.",
+            "B": "Consejería competente en materia de Igualdad.",
+            "C": "Instituto Andaluz de la Mujer.",
+            "D": "Parlamento de Andalucía."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta50": {
+        "pregunta": "Según la Ley 12/2007 para la Promoción de la Igualdad de Género en Andalucía, el órgano colegiado para el seguimiento de las acciones y actuaciones de la Administración de la Junta de Andalucía en materia de igualdad de género, en el que estarán representadas todas las Consejerías de la Junta de Andalucía y que será presidido por la persona titular de la Consejería competente en materia de Igualdad, se denomina:",
+        "opciones": {
+            "A": "Comisión Interdepartamental para la Igualdad de Mujeres y Hombres.",
+            "B": "Observatorio de Igualdad de Género.",
+            "C": "Consejo Andaluz de Participación de las Mujeres.",
+            "D": "Consejo de Unidades de Igualdad de Género."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta51": {
+        "pregunta": "Según la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía, recoge entre sus principios generales:",
+        "opciones": {
+            "A": "La adopción de las medidas específicas necesarias destinadas a eliminar desigualdades sociales.",
+            "B": "La adopción de las medidas necesarias para la eliminación de la discriminación y especialmente, aquellas que incidan en las diferencias salariales entre mujeres y hombres.",
+            "C": "La adopción de las medidas necesarias para la eliminación de la discriminación y especialmente, aquellas que incidan en la creciente feminización de la pobreza.",
+            "D": "La igualdad de trato entre mujeres y hombres, que supone la ausencia de toda discriminación en los ámbitos económico, político y familiar."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta52": {
+        "pregunta": "Según se establece en la normativa para la promoción de la igualdad de género en Andalucía, el Plan estratégico para la igualdad de mujeres y hombres se aprobará por:",
+        "opciones": {
+            "A": "El Parlamento de Andalucía.",
+            "B": "El Consejo de Gobierno de la Junta de Andalucía.",
+            "C": "La Consejería de Igualdad y Políticas Sociales.",
+            "D": "La Consejería de la Presidencia"
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta53": {
+        "pregunta": "¿Cuáles de éstos se consideran principios generales de la Ley 12/2007, de 26 de noviembre, de Promoción de la Igualdad de Género en Andalucía?",
+        "opciones": {
+            "A": "La incorporación del principio de igualdad de género y la coeducación en el sistema educativo",
+            "B": "El impulso de la efectividad del principio de igualdad en las relaciones entre particulares",
+            "C": "La promoción del acceso a los recursos de todo tipo a las mujeres que viven en el medio rural y su participación plena, igualitaria y efectiva en la economía y en la sociedad",
+            "D": "Todas las anteriores son correctas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta54": {
+        "pregunta": "De acuerdo con la Ley 55/2003, de 16 de diciembre, el incumplimiento de las normas sobre incompatibilidades, cuando suponga el mantenimiento de una situación de incompatibilidad es:",
+        "opciones": {
+            "A": "Falta Grave",
+            "B": "Falta Muy Grave",
+            "C": "Falta Leve.",
+            "D": "Ninguna de las respuestas anteriores es correcta"
+        },
+        "respuesta_correcta": "B"
+    },
+   "ComunesSMA_pregunta55": {
+        "pregunta": "El complemento destinado a remunerar al personal estatutario para atender a los usuarios de los servicios sanitarios de manera permanente y continuada se denomina:",
+        "opciones": {
+            "A": "Complemento al rendimiento profesional.",
+            "B": "Complemento de atención continuada.",
+            "C": "Complemento de productividad.",
+            "D": "Complemento específico."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta56": {
+        "pregunta": "En caso de imposición de una sanción de suspensión de funciones, la persona interesada perderá su destino (art. 73 Estatuto Marco), en el caso siguiente:",
+        "opciones": {
+            "A": "Si la sanción supera los dos años.",
+            "B": "Si la sanción supera los seis meses.",
+            "C": "Si la sanción supera los seis años.",
+            "D": "Nunca pierde su destino de origen."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta57": {
+        "pregunta": "En el Estatuto Marco del Personal Estatutario de los Servicios de Salud se dispone que la sanción disciplinaria de suspensión de funciones cuando se aplica una falta muy grave:",
+        "opciones": {
+            "A": "Tiene una duración máxima de 2 años",
+            "B": "Tiene una duración máxima de 4 años",
+            "C": "Tiene una duración máxima de 6 años",
+            "D": "Tiene una duración máxima de 8 años"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta58": {
+        "pregunta": "La Ley 55/2003, del Estatuto Marco del personal estatutario de los servicios de salud, no contempla entre las retribuciones complementarias:",
+        "opciones": {
+            "A": "El complemento específico.",
+            "B": "El complemento de atención continuada.",
+            "C": "El complemento de carrera.",
+            "D": "El complemento al rendimiento profesional."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta59": {
+        "pregunta": "La sanción de suspensión de funciones prevista en el Estatuto Marco, por la comisión de una falta muy grave (art. 73 Estatuto Marco), tendrá la siguiente duración:",
+        "opciones": {
+            "A": "No podrá superar los cuatro años, ni ser inferior a dos años.",
+            "B": "No podrá superar los seis años, ni ser inferior a un año.",
+            "C": "No podrá ser superior a tres años, ni inferior a un año.",
+            "D": "No podrá superar los seis años, ni ser inferior a dos años."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta60": {
+        "pregunta": "Las retribuciones del personal estatutario que se orientan prioritariamente a la motivación del personal, a la incentivación de la actividad y la calidad del servicio, a la dedicación y a la consecución de los objetivos planificados, se denominan:",
+        "opciones": {
+            "A": "Retribuciones básicas.",
+            "B": "Retribuciones especiales.",
+            "C": "Retribuciones complementarias.",
+            "D": "Retribuciones específicas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta61": {
+        "pregunta": "Mientras un trabajador está en huelga permanecerá en:",
+        "opciones": {
+            "A": "Situación de alta especial en la Seguridad Social, con suspensión de la obligación de cotización por parte del empresario y del trabajador.",
+            "B": "Situación de baja en la Seguridad Social, con suspensión de la obligación de cotización por parte del empresario y del trabajador.",
+            "C": "Situación de alta especial en la Seguridad Social, con suspensión de la obligación de cotización por parte del empresario no así del trabajador.",
+            "D": "Situación de alta en la Seguridad Social, con suspensión de la obligación de cotización por parte del empresario no así del trabajador."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta62": {
+        "pregunta": "Según el Estatuto Básico del empleado Público, se entiende el derecho a participar, a través de las organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine como:",
+        "opciones": {
+            "A": "Negociación colectiva.",
+            "B": "Participación institucional.",
+            "C": "Participación sindical.",
+            "D": "Representación sindical."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta63": {
+        "pregunta": "Según el Estatuto Marco del Personal Estatutario de los Servicios de Salud (Ley 55/2003 de 16 de diciembre), la situación de excedencia voluntaria por interés particular obliga a un periodo mínimo de permanencia en ella de:",
+        "opciones": {
+            "A": "Un año.",
+            "B": "Dos años.",
+            "C": "Cinco años.",
+            "D": "No establece periodo mínimo."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta64": {
+        "pregunta": "Según el Estatuto Marco del Personal Estatutario de los Servicios de Salud (Ley 55/2003 de 16 de diciembre), la situación de excedencia voluntaria por interés particular obliga a un periodo mínimo de permanencia en ella de:",
+        "opciones": {
+            "A": "Un año.",
+            "B": "Dos años.",
+            "C": "Cinco años.",
+            "D": "No establece periodo mínimo."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta65": {
+        "pregunta": "Según el Estatuto Marco del Personal Estatutario de los Servicios de Salud (Ley 55/2003 de 16 de diciembre), son retribuciones básicas:",
+        "opciones": {
+            "A": "El sueldo, los trienios y el complemento específico",
+            "B": "El sueldo, los trienios y el complemento de destino",
+            "C": "El sueldo, los trienios y las pagas extraordinarias",
+            "D": "El sueldo y las pagas extraordinarias"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta66": {
+        "pregunta": "Según la Ley 55/2003 del Estatuto Marco del Personal Estatutario de los Servicios de Salud, el principal instrumento de configuración y cohesión del Sistema Nacional de Salud es:",
+        "opciones": {
+            "A": "El Consejo Interterritorial del Sistema Nacional de Salud.",
+            "B": "La Comisión de Recursos Humanos del Sistema Nacional de Salud.",
+            "C": "El Foro Marco para el Dialogo Social.",
+            "D": "Mesa General de Negociación de la Administración General del Estado."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta67": {
+        "pregunta": "Según la Ley 55/2003 del Estatuto Marco del Personal Estatutario de los Servicios de Salud, las Faltas Graves prescribirán:",
+        "opciones": {
+            "A": "A los 4 años.",
+            "B": "A los 2 años.",
+            "C": "Al año.",
+            "D": "A los 6 meses."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta68": {
+        "pregunta": "Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, la suspensión firme por sanción disciplinaria no podrá exceder de:",
+        "opciones": {
+            "A": "1 año.",
+            "B": "2 años.",
+            "C": "3 años.",
+            "D": "6 años."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta69": {
+        "pregunta": "Según la normativa de retribuciones vigente en el Servicio Andaluz de Salud, los siguientes conceptos tienen la consideración de retribuciones básicas:",
+        "opciones": {
+            "A": "Sueldo, Trienios y Pagas Extraordinarias.",
+            "B": "Sueldo, Trienios y Complemento de Destino.",
+            "C": "Sueldo, Complemento de Destino y Pagas Extraordinarias.",
+            "D": "Sueldo, Trienios, Complemento de Destino y Complemento Específico."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta70": {
+        "pregunta": "¿Qué concepto retributivo no es retribución básica según la Ley 55/2003, Estatuto Marco del Personal Estatutario de los Servicios de Salud?",
+        "opciones": {
+            "A": "El sueldo.",
+            "B": "Los trienios.",
+            "C": "Las pagas extraordinarias.",
+            "D": "El complemento específico."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta71": {
+        "pregunta": "La ley 41/2002 de autonomía del paciente señala sobre la forma del consentimiento informado, que el consentimiento será por regla general:",
+        "opciones": {
+            "A": "Verbal",
+            "B": "Escrito",
+            "C": "Testifical",
+            "D": "Declarativo"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta72": {
+        "pregunta": "Según la ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿qué actuaciones requieren del consentimiento previo de la persona, como paciente o usuario?",
+        "opciones": {
+            "A": "Sólo las actuaciones o exploraciones invasivas, dolorosas o molestas para el paciente o usuario.",
+            "B": "Exclusivamente las actuaciones que tengan riesgo para el paciente o usuario.",
+            "C": "Específicamente sólo las actuaciones en el contexto de una investigación en la que participe el paciente, o que se lleven a cabo para un objetivo docente.",
+            "D": "Todas las actuaciones en el ámbito de la salud del paciente o usuario."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta73": {
+        "pregunta": "Según la Ley 41/2002, de 14 de noviembre, los centros sanitarios tienen la obligación de conservar la documentación clínica durante el tiempo adecuado a cada caso, y como mínimo:",
+        "opciones": {
+            "A": "Cinco años contados desde la fecha del alta de cada proceso asistencial.",
+            "B": "Cinco años contados desde la fecha de la primera visita médica de cada proceso asistencial.",
+            "C": "Diez años contados desde la fecha del alta de cada proceso asistencial.",
+            "D": "Diez años contados desde la fecha de la primera visita médica de cada proceso asistencial."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta74": {
+        "pregunta": "Según la Ley 41/2002, de autonomía del paciente, ¿quién tiene derecho a la información asistencial?",
+        "opciones": {
+            "A": "El paciente, salvo que exprese su derecho a no ser informado.",
+            "B": "Los familiares del paciente, en cualquier caso.",
+            "C": "Las personas vinculadas al paciente por razones de hecho, en cualquier caso.",
+            "D": "Todas las respuestas anteriores son ciertas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta75": {
+        "pregunta": "Toda persona paciente o usuaria tiene derecho a que se le faciliten los certificados acreditativos de su estado de salud:",
+        "opciones": {
+            "A": "Que serán gratuitos en todo caso.",
+            "B": "Que serán gratuitos cuando así lo establezca una disposición legal o reglamentaria.",
+            "C": "Que serán gratuitos únicamente cuando así lo establezca una disposición legal.",
+            "D": "Que serán gratuitos cuando así lo decida la Dirección Gerencia de cada uno de los centros asistenciales."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta76": {
+        "pregunta": "A efectos de la necesaria cooperación para el desarrollo de la salud pública en el territorio, la Ley de Salud Pública de Andalucía tiene regulado un órgano de colaboración, coordinación y cooperación entre la Administración de la Junta de Andalucía y las Corporaciones Locales, que se llama:",
+        "opciones": {
+            "A": "Comisión Andaluza de Cooperación en Salud Pública",
+            "B": "Consejo Andaluz de Salud Pública Local",
+            "C": "Comisión Paritaria en Salud Pública del territorio",
+            "D": "Consejo Andaluz de desarrollo de Planes Locales de Salud Pública"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta77": {
+        "pregunta": "El Biobanco del Sistema Sanitario Público de Andalucía (SSPA) es una iniciativa de la Consejería de Igualdad, Salud y Políticas Sociales. Mediante un funcionamiento en red y bajo un marco ético común, una estructura organizativa única y una actividad descentralizada, el Biobanco del SSPA integra:",
+        "opciones": {
+            "A": "Solo a todos los bancos de sangre y tejidos",
+            "B": "Bancos de sangre, excepto banco de cordones, tejidos y tumores",
+            "C": "Los bancos de sangre y de tejidos, el banco de cordón umbilical, el banco de células madre, la red de bancos de tumores, el banco de ADN humano de Andalucía, y diferentes repositorios de muestras biológicas y biorrecursos",
+            "D": "Ninguna es correcta"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta78": {
+        "pregunta": "Según la normativa que ordena administrativa y funcionalmente la salud mental en el ámbito del SAS, los cargos intermedios de una Unidad de Gestión Clínica de Salud Mental son:",
+        "opciones": {
+            "A": "Jefatura Servicio, Jefaturas de Sección, Jefatura de Bloque y Supervisión de Enfermería.",
+            "B": "Dirección de Unidad, Coordinación de los Dispositivos Asistenciales y Coordinación de Cuidados de Enfermería.",
+            "C": "Jefatura de Servicio, Coordinación de los Dispositivos Asistenciales y Supervisión de Enfermería.",
+            "D": "Dirección de Unidad, Coordinación de los Dispositivos Asistenciales y Supervisión de Enfermería."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta79": {
+        "pregunta": "El concepto de calidad tiene dos componentes:",
+        "opciones": {
+            "A": "Diagnosticar correctamente y aplicar la terapéutica más conveniente según el estado de conocimientos de cada momento",
+            "B": "La sensación del enfermo y sus familiares de haber sido tratados con interés, deferencia y educación y adecuadamente",
+            "C": "Científico técnico y calidad percibida",
+            "D": "Todas son correctas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta80": {
+        "pregunta": "El plazo máximo de respuesta para la atención sanitaria de primeras consultas de asistencia especializada en el Sistema Sanitario Público de Andalucía será de:",
+        "opciones": {
+            "A": "30 días.",
+            "B": "60 días.",
+            "C": "120 días.",
+            "D": "15 ó 30 días dependiendo del proceso."
+        },
+        "respuesta_correcta": "B"
+    },
+    "ComunesSMA_pregunta81": {
+        "pregunta": "La definición de la probabilidad de un suceso A como el cociente entre el número de resultados favorables a que ocurra el suceso A en el experimento y el número de resultados posibles del experimento, siempre que todos los resultados de un experimento aleatorio sean equiprobables, se conoce como:",
+        "opciones": {
+            "A": "Regla de Laplace.",
+            "B": "Teorema de Bayes.",
+            "C": "Teorema base de la probabilidad.",
+            "D": "Regla de Student."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta82": {
+        "pregunta": "Señalar de las siguientes medidas cuál no es de centralización:",
+        "opciones": {
+            "A": "Media",
+            "B": "Moda",
+            "C": "Mediana",
+            "D": "Rango"
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta83": {
+        "pregunta": "Señale cuál de los siguientes no es un Estudio Descriptivo:",
+        "opciones": {
+            "A": "Estudios transversales.",
+            "B": "Estudios de series de casos.",
+            "C": "Estudios de cohortes.",
+            "D": "Estudios ecológicos."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta84": {
+        "pregunta": "¿Qué tipo de estudio es el más adecuado para estimar la prevalencia de una enfermedad en una población?",
+        "opciones": {
+            "A": "Prospectivo de cohortes.",
+            "B": "Retrospectivo de cohortes.",
+            "C": "Transversal.",
+            "D": "Casos y controles."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta85": {
+        "pregunta": "¿Cuál de los siguientes muestreos es de tipo no probabilístico?",
+        "opciones": {
+            "A": "Muestreo sistemático.",
+            "B": "Muestreo estratificado.",
+            "C": "Muestreo de casos consecutivos.",
+            "D": "Muestreo aleatorio simple."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta86": {
+        "pregunta": "La finalidad del proyecto DIRAYA es:",
+        "opciones": {
+            "A": "Conseguir una historia digital de salud única.",
+            "B": "Gestionar las agendas de atención de consultas y pruebas diagnósticas.",
+            "C": "Seguimiento de todos los tratamientos indicados.",
+            "D": "Todas las respuestas son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta87": {
+        "pregunta": "Los componentes básicos de DIRAYA son:",
+        "opciones": {
+            "A": "Base de datos de usuario (BDU), Modulo de acceso centralizado de operaciones (MACO), Modulo de estructura",
+            "B": "La base de datos de usuario (BDU), Modulo de acceso centralizado de operaciones (MACO) y Receta XXI",
+            "C": "Base de datos de usuario (BDU), Modulo de estructura, y Receta XXI",
+            "D": "Base de datos de usuario (BDU), Modulo de acceso centralizado de operaciones (MACO), Modulo de estructura, y gestores de peticiones"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta88": {
+        "pregunta": "Toda la información del Diraya está integrada a través de:",
+        "opciones": {
+            "A": "Número Único de Historia de Salud de Andalucía (NUHSA).",
+            "B": "Número de Seguridad Social.",
+            "C": "Documento Nacional de Identidad.",
+            "D": "Número de Seguridad Social y Documento Nacional de Identidad."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta89": {
+        "pregunta": "Dentro de los compromisos que se recogen en el IV Plan Andaluz de Salud, se encuentra el de:",
+        "opciones": {
+            "A": "Promover y proteger la salud de los ciudadanos.",
+            "B": "Reducir las desigualdades sociales de los ciudadanos.",
+            "C": "Fomentar la gestión compartida con los ciudadanos para mejorar la salud.",
+            "D": "Aumentar la esperanza de vida en buena salud."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta90": {
+        "pregunta": "En términos de gestión sanitaria, ¿Cuándo podemos decir que una intervención sanitaria es eficaz?",
+        "opciones": {
+            "A": "Cuando es capaz de producir efectos mensurables en salud cuando se aplica en condiciones y entornos ideales (pero no necesariamente experimentales)",
+            "B": "Cuando es capaz de producir efectos mensurables en salud cuando se aplica en condiciones y entornos reales o habituales de asistencia",
+            "C": "Cuando la relación efecto / coste es positiva",
+            "D": "Cuando la relación efecto / coste es neutra"
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta91": {
+        "pregunta": "¿Cuál de los siguientes no es un Plan Integral de la Consejería de Salud de la Junta de Andalucía?",
+        "opciones": {
+            "A": "Plan Integral de cuidados de Andalucía",
+            "B": "Plan Integral de Salud Mental de Andalucía",
+            "C": "Plan integral de Drogodependencia de Andalucía",
+            "D": "Plan Integral de Obesidad infantil de Andalucía."
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta92": {
+        "pregunta": "En el marco de los Procesos Asistenciales Integrados (PAIs) de la Consejería de Salud de la Junta de Andalucía, la herramienta para el paciente y los profesionales, cuyo objetivo es facilitar el conocimiento del desarrollo del PAI a todas las personas que intervienen es:",
+        "opciones": {
+            "A": "Vía crítica del paciente",
+            "B": "vía de práctica clínica",
+            "C": "Hoja de ruta del paciente",
+            "D": "Hoja del proceso asistencial"
+        },
+        "respuesta_correcta": "C"
+    },
+    "ComunesSMA_pregunta93": {
+        "pregunta": "Existen varios niveles de escucha activa, que se pueden emplear dependiendo del entendimiento que se alcanza en cada caso. Indicar la respuesta correcta.",
+        "opciones": {
+            "A": "Parafrasear.",
+            "B": "Gesticular.",
+            "C": "Reflejar el estado emocional.",
+            "D": "a y c son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "ComunesSMA_pregunta94": {
+        "pregunta": "¿Cuál es el principal factor que influye en la comunicación?",
+        "opciones": {
+            "A": "La relación interpersonal.",
+            "B": "Escucha activa.",
+            "C": "Barreras de la comunicación.",
+            "D": "Habilidades Sociales."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta95": {
+        "pregunta": "La obligación de guardar secreto profesional afecta a:",
+        "opciones": {
+            "A": "Todo el personal del ámbito sanitario.",
+            "B": "Sólo al personal facultativo y de enfermería.",
+            "C": "Sólo al personal médico.",
+            "D": "Solamente al personal de enfermería."
+        },
+        "respuesta_correcta": "A"
+    },
+    "ComunesSMA_pregunta96": {
+        "pregunta": "Los valores: Información, participación en la toma de decisiones y consentimiento informado ¿a qué principio fundamental de la bioética van ligados?",
+        "opciones": {
+            "A": "Beneficencia",
+            "B": "Justicia",
+            "C": "No maleficencia",
+            "D": "Autonomía"
+        },
+        "respuesta_correcta": "D"
+    }
+}
