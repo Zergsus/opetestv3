@@ -4779,16 +4779,6 @@
         },
         "respuesta_correcta": "B"
     },
-    "SAS 2018 - Examen.pdf_pregunta23": {
-        "pregunta": ". El 99Mo se puede obtener mediante:",
-        "opciones": {
-            "A": "activación neutrónica o irradiación con neutrones rápidos de 98Mo",
-            "B": "transición isómerica de 99Mo metaestable o separación de fragmentos de fusión \nproducidos en un blanco de Pluton io",
-            "C": "activación neutrónica de 98Mo o por separación de fragmentos de fusión producidos en \nun blanco de Uranio",
-            "D": "activación neutrónica de 98Nb o irradiación con protones de 98Zr"
-        },
-        "respuesta_correcta": "D"
-    },
     "SAS 2018 - Examen.pdf_pregunta24": {
         "pregunta": ". Un generador de radionúclidos de interés creciente en Medicina Nuclear es el de \n68Ge. Indicar cuál es la afirmación CORRECTA respecto a dicho generador:",
         "opciones": {
@@ -6009,16 +5999,6 @@
         },
         "respuesta_correcta": "D"
     },
-    "SAS 2018 - Examen.pdf_pregunta147": {
-        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Con el factor de transmisión obtenemos el espesor deseado:",
-        "opciones": {
-            "A": "Usando les espesores de semiabsorción (HVL) primarios y de equilibrio",
-            "B": "Usando les espesores de decimorreducción (TVL) primarios y de equilibrio.",
-            "C": "Con el logaritmo decimal del cociente de espesores de decimoreducción primarios y  de \nequilibrio",
-            "D": "Con el logaritmo neperiano del cociente de espesores de semiabsorción primarios y de \nequilibrio"
-        },
-        "respuesta_correcta": "D"
-    },
     "SAS 2018 - Examen.pdf_pregunta148": {
         "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Para calcular el espesor de una barrera secundaria, afectada por radiación \ndispersa:",
         "opciones": {
@@ -6028,16 +6008,6 @@
             "D": "Procedemos de forma análoga al cálculo de la barrera primaria, pero añadiendo otros \nfactores, como la fracción de dispersión, a, y el factor de tamaño de campo, F \n(normalizado a 1000 cm2)"
         },
         "respuesta_correcta": "C"
-    },
-    "SAS 2018 - Examen.pdf_pregunta149": {
-        "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Para calcular una barrera se cundaria, afectada por radiación de fuga:",
-        "opciones": {
-            "A": "Necesitamos, previamente conocer la radiación que se fuga a través de la pared",
-            "B": "Necesitamos, previamente medir la radiación que se fuga a través del cabezal del \nequipo",
-            "C": "Obtenemos el factor de transmisión, B, de form a análoga a la radiación secundaria",
-            "D": "Obtenemos el factor de transmisión, B, de forma análoga a la radiación primaria, pero \naplicando un factor reductor de valor 1000"
-        },
-        "respuesta_correcta": "D"
     },
     "SAS 2018 - Examen.pdf_pregunta150": {
         "pregunta": "CASO PRACTICO 5 \nTenemos que calcular los blindajes de un bunker para un acelerador lineal de \nelectrones. Disponemos de plano y de los datos de las dependencias contiguas a \nla sala. Para el cálculo seguiremos la publicación NCRP 147: Structural Shielding \nDesign for Medical x-Ray Imaging Facilities: / Si el espesor necesario para la pared secundaria calculado para radiación dispersa \nes simi lar al calculado para la radiación de fuga:",
