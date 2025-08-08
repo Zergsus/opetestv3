@@ -4020,9 +4020,9 @@
         "respuesta_correcta": "D"
     },
     "SAS 2023 ROCIO.pdf_pregunta100": {
-        "pregunta": "En ortopantomografía, el prod ucto dosis área (PD",
+        "pregunta": "En ortopantomografía, el prod ucto dosis área (PDA) se determina como el producto \nde:",
         "opciones": {
-            "A": "se determina como el producto \nde:  \n  \nA) La dosis absorbida en la región occipital por el área barrida en la superficie de entrada",
+            "A": "La dosis absorbida en la región occipital por el área barrida en la superficie de entrada",
             "B": "El kerma en aire y el área barrida, ambos en la región occipital",
             "C": "El CTDI por el área barrida en la superficie de entrada",
             "D": "La dosis absorbida en la superficie de entrada por el área barrida por el haz en la \nregión occipital"
@@ -17829,3 +17829,4 @@
 
 
 }
+
