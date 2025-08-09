@@ -3160,9 +3160,9 @@
         "respuesta_correcta": "A"
     },
     "SAS 2023 ROCIO.pdf_pregunta14": {
-        "pregunta": "Está evaluando un brote epidémico con 60 afectados (vómitos y diarreas), y tiene \ndatos de las 300 personas que estuvieron a riesgo, pues fue una celebración a \npuerta cerrada en un restaurante. De 70 personas que recuerdan haber tomado \nunas tartaletas con ensaladilla, 50 tienen síntomas de gastroenteritis aguda (GE",
+        "pregunta": "Está evaluando un brote epidémico con 60 afectados (vómitos y diarreas), y tiene \ndatos de las 300 personas que estuvieron a riesgo, pues fue una celebración a \npuerta cerrada en un restaurante. De 70 personas que recuerdan haber tomado \nunas tartaletas con ensaladilla, 50 tienen síntomas de gastroenteritis aguda (GEA) \nmientras que en los restantes 230 invitados, que no tomaron dichos canapés (o no \nlo recuerdan bien) hay 10 con GEA. Con estos datos se pueden calcular diferentes \nindicadores; pero, ¿cuál de los siguientes es la odds ratio de GEA asociada al \nconsumo de tartaletas de ensaladilla?",
         "opciones": {
-            "A": "; \nmientras que en los restantes 230 invitados, que no tomaron dichos canapés (o no \nlo recuerdan bien) hay 10 con GEA. Con estos datos se pueden calcular diferentes \nindicadores; pero, ¿cuál de los siguientes es la odds ratio de GEA asociada al \nconsumo de tartaletas de ensaladilla?  \n  \nA) OR = (50 x 220) / (10 x 20) = 55.",
+            "A": "OR = (50 x 220) / (10 x 20) = 55.",
             "B": "OR = 50 / 10 = 5.",
             "C": "OR = (50 / 70) / (10 / 230) =  16.4.",
             "D": "Ninguno de los anteriores."
@@ -17829,4 +17829,5 @@
 
 
 }
+
 
