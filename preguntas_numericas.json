@@ -1,0 +1,583 @@
+{
+    "SAS 2023 ROCIO.pdf_pregunta14": {
+        "pregunta": "Está evaluando un brote epidémico con 60 afectados (vómitos y diarreas), y tiene \ndatos de las 300 personas que estuvieron a riesgo, pues fue una celebración a \npuerta cerrada en un restaurante. De 70 personas que recuerdan haber tomado \nunas tartaletas con ensaladilla, 50 tienen síntomas de gastroenteritis aguda (GEA) \nmientras que en los restantes 230 invitados, que no tomaron dichos canapés (o no \nlo recuerdan bien) hay 10 con GEA. Con estos datos se pueden calcular diferentes \nindicadores; pero, ¿cuál de los siguientes es la odds ratio de GEA asociada al \nconsumo de tartaletas de ensaladilla?",
+        "opciones": {
+            "A": "OR = (50 x 220) / (10 x 20) = 55.",
+            "B": "OR = 50 / 10 = 5.",
+            "C": "OR = (50 / 70) / (10 / 230) =  16.4.",
+            "D": "Ninguno de los anteriores."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta71": {
+        "pregunta": "Cuando el CTDIw es 10 mGy, y el pitch es 0,25, el CTDIvol (mGy) es:",
+        "opciones": {
+            "A": "2,5",
+            "B": "10",
+            "C": "20",
+            "D": "40"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta73": {
+        "pregunta": "Un ancho de ve ntana de 100 y un nivel de ventana de 50 resulta en un valor de pixel \nde 10, que aparecerá como:",
+        "opciones": {
+            "A": "Negro.",
+            "B": "Casi negro.",
+            "C": "Casi blanco.",
+            "D": "Blanco"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta101": {
+        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / ¿Cuál sería la dosis efectiva semanal para una persona situada a 2 m de una \nfuente puntual con la actividad máxima? (Consider ar la semana laboral de 35 \nhoras).",
+        "opciones": {
+            "A": "7.4 mSv/semana",
+            "B": "3.7 microSv/semana.",
+            "C": "3.7 mSv/semana",
+            "D": "7.4 microSv/semana."
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta102": {
+        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / Si la capa hemirreductora para el I -131 es de 2.74 mm de Pb, ¿qué espesor habría \nque interponer para que en las condiciones ant eriores un trabajador expuesto no \nrecibiera una dosis efectiva superior a 20 mSv/año? (considerar jornada anual de 45 \nsemanas)",
+        "opciones": {
+            "A": "No es necesario ningún blindaje adicional.",
+            "B": "11.1 mm de Pb",
+            "C": "9.7 mm de Pb",
+            "D": "8.4 mm de Pb"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta103": {
+        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / La habitación de residuos tiene una habitación contigua que es un despacho en el \nque el puesto de trabajo se encuentra a 2.5 m de la pared. La dosis estimada a 1 m \nde la pared es de 3.84 mSv/h. ¿Qué blindaje se necesitaría si el trabajador de ese \ndespacho  es personal no profesionalmente expuesto? (Capa hemirreductora Pb= \n2.74 mm; Capa hemirreductora hormigón = 5.5 cm)",
+        "opciones": {
+            "A": "13 mm de Pb o 27 cm de hormigón",
+            "B": "21 mm de Pb o 43 cm de hormigón",
+            "C": "27 mm de Pb o 55 cm de hormigón",
+            "D": "34 mm de Pb o 69 cm de hormigón"
+        },
+        "respuesta_correcta": "C"
+    },
+	"SAS 2023 ROCIO.pdf_pregunta104": {
+        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / La orina generada por los pacientes se recoge en unos depósitos y se estima que \nla actividad media recogida por cada paciente es de 100 mCi. Si consideramos que \nel número de pacientes anual es de 100 (distribuidos uniformemente a lo largo del \naño) y que se realiza una operación de vertido cada 6 meses, calcular el tiempo \nmínimo de enfriamiento para garantizar que no se supera la milésima parte del LIA \nen el desagüe a la red general. (Datos: LIA (I -131) = 100 kBq; Ingestión diaria tipo = \n2.5 l/día;  Volumen efluentes del hospital = 370 m3/día; Semivida del I -131 = 8 días)",
+        "opciones": {
+            "A": "37 días",
+            "B": "109 días",
+            "C": "72 días",
+            "D": "117 días"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta118": {
+        "pregunta": "CASO PRACTICO 3: \nUn paciente va a ser tratado con un esquema de 5 x 6 Gy. Tras la primera fracción se \ndetecta que la dosis realmente impartida en la misma es de 12 Gy. / Si se desea mantener el tiempo total de tratamiento, ¿cuál será la dosis a impartir \npor cada una de las fracciones restantes? (Suponer un valor del cociente alfa/beta = 3 Gy)",
+        "opciones": {
+            "A": "3.5 Gy",
+            "B": "3 Gy",
+            "C": "4 Gy",
+            "D": "4.5 Gy"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta119": {
+        "pregunta": "CASO PRACTICO 3: \nUn paciente va a ser tratado con un esquema de 5 x 6 Gy. Tras la primera fracción se \ndetecta que la dosis realmente impartida en la misma es de 12 Gy. / Si el tratamiento anterior afecta a la médula espinal, ¿existiría riesgo de daño a la \nmisma? ¿por qué? (Considerar que la dosis de referencia para que no haya daño en \nmédula, en un fraccionamiento estándar de 2  Gy/fracción es de 50 Gy y que el \ncociente alfa/beta =2 Gy para daño en médula espinal)",
+        "opciones": {
+            "A": "Sí, porque la dosis recibida erronéamente en la primera fracción supera la de tolerancia",
+            "B": "No, porque la dosis biológicamente efectiva es un 30% inferior que la  de tolerancia",
+            "C": "No, porque la dosis isoefectiva es menor en el tratamiento impartido que la de \ntolerancia",
+            "D": "Sí, porque la dosis biológicamente efectiva excede en un 20% la de tolerancia"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta120": {
+        "pregunta": "CASO PRACTICO 3: \nUn paciente va a ser tratado con un esquema de 5 x 6 Gy. Tras la primera fracción se \ndetecta que la dosis realmente impartida en la misma es de 12 Gy. / La dosis isoefectiva, en fraccionamiento estándar de 2 Gy, del tratamiento previsto \nsería",
+        "opciones": {
+            "A": "42 Gy",
+            "B": "54 Gy",
+            "C": "60 Gy",
+            "D": "48Gy"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta125": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / Para haces de electrones de alta energía, si obtenemos un valor R50, ion = 12 \ng/cm2 (pr ofundidad en agua (g/cm2) en la que la corriente de ionización es el 50% \nde su valor máximo). El valor de la profundidad de hemiabsorción en agua para la \ndistribución de dosis en profundidad, R50 será:",
+        "opciones": {
+            "A": "12,34 g/cm2",
+            "B": "11,98 g/cm2",
+            "C": "15,96 g/cm2",
+            "D": "12, 29 g/cm2"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2023 ROCIO.pdf_pregunta129": {
+        "pregunta": "CASO PRACTICO 4: \nEn una instalación con varios aceleradores, tenemos uno de ellos parados por una \navería. Tras la intervención, el especialista en RFH comprobará que los parámetros \nafectados se encuentran en los niveles de tolerancia establecidos, y que el equipo se \nhalla en condiciones de correcta operatividad, autorizando la reanudación de la \nactividad asistencial. / Supongamos ahora que hay otro paciente, con el mismo tipo de tratamiento, pero \nque la pérdida de tratamiento (5 días perdidos) ha coincidido en la séptima semana de su \ntratamiento. La diferencia entre el BED de tejido normal (BED3) para el tratamiento \nprescrito y el dado antes de la interrupción es de:",
+        "opciones": {
+            "A": "10 Gy3",
+            "B": "15,2 Gy3",
+            "C": "23,2 Gy3",
+            "D": "16 ,7 Gy3"
+        },
+        "respuesta_correcta": "D"
+    },
+    "SAS 2018 - Examen.pdf_pregunta49": {
+        "pregunta": ". La DBE de un tratamiento de 30 Gy en 10 sesiones, siendo el cociente (α/β)=10Gy, \nes equivalente a:",
+        "opciones": {
+            "A": "administrar cinco sesiones a 5,15 Gy/sesión.",
+            "B": "administrar tres sesiones de 20 Gy/sesión.",
+            "C": "administrar quince sesiones a 1,85 Gy/sesión.",
+            "D": "administrar tres sesiones de  8,5 Gy/sesión."
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta75": {
+        "pregunta": ". La dosis d e referencia de un haz de electrones de 12 MeV para un aplicador de \n10x10 cm a la profundidad de referencia en agua es 0.998 cGy/UM. El factor \nenergía para 16 MeV con el mismo aplicador es 1.020 y se quieren impartir 2 Gy a 3 \ncm de profundidad, siendo el P DD de esa profundidad y 16 MeV un 80%. Se \nnecesitarán",
+        "opciones": {
+            "A": "245 UM",
+            "B": "157 UM",
+            "C": "254 UM",
+            "D": "175 UM"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2018 - Examen.pdf_pregunta105": {
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  Como se indicó anteriormente, para el haz de electrones de 18 MeV, la profundidad \na la que la dosis es el 50% del valor máximo, en agua, resu lta ser de 10 cm. ¿Cuál \nsería la profundidad de referencia a la que habría que hacer la dosimetría de \nreferencia de este haz?",
+        "opciones": {
+            "A": "6.032 cm",
+            "B": "6.218 cm",
+            "C": "6.038 cm",
+            "D": "5.852 cm"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta115": {
+        "pregunta": "CASO PRÁCTICO 2: \nSe va a solicitar la modificación de una instalación radiactiva de Medicina Nuclear \n(autorizada como de 2ª categoría) para la sustitución de un SPECT/CT por un \nequipo PET/CT y el uso de 18F, que no estaba autorizado hasta el momento, con \nuna actividad máxima de 9000 MBq. / ¿Cuál es la dosis efectiva semanal dentro de la sala de exploración, en un punto a \n2.5 m del paciente sometido a un estudio PET con 18F? Datos: Actividad \nadministrada por paciente = 740 MBq, número de pacientes /semana = 30, Tiempo \nde reposo = 1 hora, Tiempo de exploración = 30 min.",
+        "opciones": {
+            "A": "94.4 μSv",
+            "B": "103.3 μSv",
+            "C": "87.8 μSv",
+            "D": "129.2 μSv"
+        },
+        "respuesta_correcta": "C"
+    },
+    "SAS 2018 - Examen.pdf_pregunta126": {
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / En el puesto del operador del acelerador , con una cámara de ionización la tasa de \ndosis medida fue de 25 μSv/h. Al menos uno de los técnicos opera el acelerador \ndurante el turno completo. Los cálculos de la barrera se realizaron con una carga de \ntrabajo semanal de 800 Gy/sem. ¿Hasta qué valor habría que reducir la carga de \ntrabajo semanal para que el operador no supere los nuevos valores de dosis \nefectivas anuales cuando entre en vigor en nuestro país la Directiva 2013/59 \nEuratom? (año laboral 2000 horas/año)",
+        "opciones": {
+            "A": "320 Gy/sem",
+            "B": "185Gy/sem",
+            "C": "230 Gy/sem",
+            "D": "10 Gy /h"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta78": {
+        "pregunta": "10 g de Ir -191 se someten a un flujo de 10E23 neutrones s-1. ¿Qué actividad de Ir -\n198 se obtendrá en un año? La probabilidad de activación del Ir -191es 910 barns \n(910 x 10-24 cm2), el número de Avogadro es 6.022 x 10E23 y el período de \nsemidesintegración del Iridio es 74 días: (ANULADA)",
+        "opciones": {
+            "A": "2.775 x 10E14 Bq",
+            "B": "2.775 x 10E18 Bq",
+            "C": "2.775 x 10E10 Bq",
+            "D": "2.775 x 10E28 Bq"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta83": {
+        "pregunta": "Una sala de adquisición de PET comparte una pared con una sala donde se utiliza \nuna gammacámara para adquirir imágenes con Tc-99m, llegándose a contabilizar \nun fondo de 592000 cuentas por minuto cuando el detector-colimador apunta a la \ncitada barrera. ¿Qué espesor de plomo es necesario para reducir la tasa de fondo \nde 511KeV a 1000 cuentas por minuto?",
+        "opciones": {
+            "A": "39 mm de plomo que corresponde a un factor de atenuación de 0,0017",
+            "B": "2.7 cm de plomo que corresponde a un factor de atenuación de 0.017",
+            "C": "5 mm de plomo que corresponde a un factor de atenuación de 0.17",
+            "D": "16 mm de plomo que corresponden a un factor de atenuación de 0.06"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta91": {
+        "pregunta": "¿Cuál es la actividad acumulada en el riñón por la inyección de 100MBq de un \ncoloide marcado con Tc-99m, considerando que el 60% del coloide inyectado queda \nindefinidamente en el riñón? (T1/2=6 h):",
+        "opciones": {
+            "A": "1.29·10^6 MBq·s",
+            "B": "1.87·10^6 MBq·s",
+            "C": "360 MBq·h",
+            "D": "600 MBq·h"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta125": {
+        "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / Si detrás de la puerta de la habitación tenemos una mampara móvil de 4 cm de \nplomo, ¿cuál será la atenuación que proporciona la mampara? (capa \nhemirreductora del plomo=4mm):",
+        "opciones": {
+            "A": "Atenúa el 90.8 % de la radiación indidente",
+            "B": "Atenúa el 99.9% de la radiación indidente",
+            "C": "Atenúa el 85.3 % de la radiación indidente",
+            "D": "Atenúa el 95.6 % de la radiación indidente"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta127": {
+        "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / La tasa de dosis equivalente, si la paciente se acaba de tomar la cápsula de I-131 de \n3.7GBq y estamos a un metro de ella: (La constante específica del I-131 es 7.64·10^-5 \n (mSv·m^2/MBq·h)):",
+        "opciones": {
+            "A": "0.283 mSv/h",
+            "B": "2.83·10^-4 mSv/h",
+            "C": "0.283 μSv/h",
+            "D": "48.42 μSv/h"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta128": {
+        "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / ¿y si interponemos la mampara de plomo anteriormente mencionada? Nota:(emite 0.283 mSv/h y se interponen 4 cm de Pb, CHR Pb = 4 mm)",
+        "opciones": {
+            "A": "27.6 μSv/h",
+            "B": "0.276 μSv/h",
+            "C": "2.76·10^-6 mSv/h",
+            "D": "0.138 μSv/h"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta129": {
+        "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / ¿Será suficiente para el personal expuesto o habrá que reforzar el blindaje? Nota:(tras la mampara llegan 0.276 μSv/h)  (el \nlímite operacional que vamos a utilizar es 3/10 del límite anual de dosis y el tiempo \nestimado de permanencia en esta zona: 1/4 del tiempo total de trabajo, unas 625 \nhoras/año):",
+        "opciones": {
+            "A": "La dosis anual en ese puesto de trabajo es de 0.173 mSv/año, es suficiente la \nmampara utilizada",
+            "B": "La dosis anual en ese puesto de trabajo es de 1.73·10-3 mSv/año, es suficiente la \nprotección de la mampara",
+            "C": "La dosis anual en ese puesto de trabajo es de 17.3 mSv/año, habría que aumentar el \nespesor de la mampara utilizada",
+            "D": "La dosis anual en ese puesto de trabajo es de 0.086 mSv/año, es suficiente la \nmampara utilizada"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta140": {
+        "pregunta": "CASO IV: \nAspectos a tener en cuenta en el diseño de un servicio de medicina nuclear con \npacientes ambulatorios, es decir, sin habitación de ingreso para tratamientos con \nradionúclidos. / En un recinto de la instalación, blindado con 35 mm de plomo, se almacenan 100 \nMbq de Co-57 y 100 MBq de Fe-59. A 0.5 m se sitúa un profesional expuesto que \npasa en este puesto trabajo 500 h/año. ¿Cuál es el la dosis anual que recibe este \ntrabajador? (Co-57: CHR=7mm de Pb y K=1.65·10^-4 mSv·m^2/MBq·h; Fe-59: \nCHR=9.3mm de Pb y K=1.79·10^-4 mSv·m^2/MBq·h):",
+        "opciones": {
+            "A": "0.91 mSv/año",
+            "B": "3.67 mSv/año",
+            "C": "1.83 mSv/año",
+            "D": "0.46 mSv/año"
+        },
+        "respuesta_correcta": "B"
+    },
+    "SAS 2015 - Examen.pdf_pregunta149": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nAl finalizar la sesión número 20 se produce una avería que impide el tratamiento \ndurante 2 días. ¿Cuál será la nueva dosis por sesión (referida al PTV1) si se quiere \nmantener el overall time? Suponer que el coeficiente para el tumor es alfa/beta = \n10 Gy. Asimismo, suponer despreciable el parámetro de proliferación tisular \ntumoral:",
+        "opciones": {
+            "A": "2.77 Gy",
+            "B": "2.50 Gy",
+            "C": "2.43 Gy",
+            "D": "2.65 Gy"
+        },
+        "respuesta_correcta": "A"
+    },
+    "SAS 2015 - Examen.pdf_pregunta150": {
+        "pregunta": "CASO V: \nSe prescribe un tratamiento radioterápico para un carcinoma de laringe \nsupraglótico T2N3. Se han contorneado los siguientes volúmenes: PTV1, que es la \npropia laringe supraglótica, más las cadenas ganglionares cervicales, que se \ncontornean por separado y se denominan PTV2 a la derecha y PTV3 a la izquierda, \nrespectivamente. La prescripción es de 69 Gy al PTV1, 60 Gy a PTV2 y 54 Gy a \nPTV3. Se contornean como órganos de riesgo principales, la médula y ambas \nparótidas. \nEl Servicio de Radiofísica propone un tratamiento concomitante de los tres \nvolúmenes a razón de 2.3, 2.0 y 1.8 Gy por fracción, respectivamente, en 30 \nsesiones, con IMRT mediante la técnica step&shoot y optimizado mediante \nplanificación inversa. \n//\nSuponiendo que el cambio en la dosis por sesión afecta también a la médula \nincrementando su dosis a partir de la interrupción en un 10% ¿cuál sería la nueva \ndosis biológica efectiva (DBE) total con el nuevo fraccionamiento? Suponer que la \ndosis física prevista para este órgano de riesgo en ausencia de la interrupción era 45 Gy y que su coeficiente alfa/beta = 2 Gy. Suponer también despreciable el \nparámetro de proliferación tisular tumoral:",
+        "opciones": {
+            "A": "50.41 Gy",
+            "B": "76.59 Gy",
+            "C": "62.53 Gy",
+            "D": "84.30 Gy"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta2": {
+        "pregunta": "Durante un control de calidad periódico se ha obtenido un valor de 111550 cps para la tasa de cuentas incidentes para la que se produce una pérdida del 20% en las cuentas observadas. ¿Cuál es la resolución temporal del sistema",
+        "opciones": {
+            "A": "1 μs.",
+            "B": "2 μs.",
+            "C": "5 μs.",
+            "D": "10 μs."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta7": {
+        "pregunta": ". En un equipo de HDR Flexitron, se instaló una fuente de Ir -192 con \nun valor de TKRA de 44250 cGy.cm2.h-1, pasados 90 días se sustituyó, \n¿con qué valor de TKRA se retiró la fuente? Señalar la respuesta que \nmás se aproxime:",
+        "opciones": {
+            "A": "20000 cGy.cm2.h-1",
+            "B": "30000 cGy.cm2.h-1",
+            "C": "19000 cGy.cm2.h-1",
+            "D": "21000 cGy.cm2.h-1"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta9": {
+        "pregunta": ". En un detector de panel plano la función respuesta viene dada por \nVP = 200.K. Si la desviación estándar para una ROI d e una imagen sin \nlinealizar es 100, la desviación estándar de esta misma ROI en la \nimagen linealizada será de:",
+        "opciones": {
+            "A": "2",
+            "B": "100",
+            "C": "0,5",
+            "D": "200"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta14": {
+        "pregunta": ". En un control de mamografía se obtienen para disparos idénticos, \nobtenidos según describe el apartado MD016 del PECCRD2011,  un \nespesor umbral de 0,84 m y RCR de 10. Si el espesor umbral \nlimitante p ara el disco de 0,1 mm  es de 1, 68 m, el valor límite de la \nRCR es de:",
+        "opciones": {
+            "A": "5",
+            "B": "8,4",
+            "C": "10",
+            "D": "16,8"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta18": {
+        "pregunta": ". En una imagen radiológica los valores promedio de píxel de objeto y \nfondo son respectivamente de 50 y 100. El contraste local es:",
+        "opciones": {
+            "A": "1",
+            "B": "2",
+            "C": "0,5",
+            "D": "2,5"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Navarra 2020 - EXAMEN.pdf_pregunta52": {
+        "pregunta": ". Siguiendo la metodología del informe NCRP -151, en el diseño del \nblindaje de una barrera primaria para fotones de energía nominal \nde 6MV, se calcula que la transmisión que debe tener una barrera \nprimaria es de 10-5. Si empleamos hormigón convencional, ¿Cuál \nresulta ser su espesor mínimo suficiente? (NCRP151 -TABLE B.2 —\nPrimary -barrie r TVLs for ordinary concrete (2, 35 g cm–3): Energy \n6MV; TVL 1=37c m, TVL e=33cm):",
+        "opciones": {
+            "A": "165 cm.",
+            "B": "169 cm.",
+            "C": "185 cm.",
+            "D": "175 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta1": {
+        "pregunta": ". Disponemos de un dosímetro de área colocado en un pasillo con habitaciones de \ntratamientos metabólicos que registra una tasa de exposición de 7 mR/min. ¿Cuál es su \nequivalente en unidades del sistema internacional? (R: Roentgen):",
+        "opciones": {
+            "A": "0,06132 mGy/min.",
+            "B": "0,006132 mGy/min.",
+            "C": "0,6132 mGy/min.",
+            "D": "6,132 mGy/min."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta6": {
+        "pregunta": ". El número de capas hemirreductoras para reducir la tasa de dosis de un isótopo \nradiactivo de 64 mSv/h a 2 mSv/h es:",
+        "opciones": {
+            "A": "6.",
+            "B": "5.",
+            "C": "4.",
+            "D": "Depende del radionúclido."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta15": {
+        "pregunta": "En el cálculo del blindaje de una barrera primaria de un acelerador lineal para RX, se calcula que la \ntransmisión que debe tener la barrera para que la zona sea considerada como de libre acceso es \nde 10-4. Si empleamos hormigón normal, con un valor de capa decimorreductora de 45 cm, ¿qué \nespesor mínimo es necesario?:",
+        "opciones": {
+            "A": "150 cm.",
+            "B": "180 cm.",
+            "C": "210 cm.",
+            "D": "240 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta21": {
+        "pregunta": ". En los estudios de angiografía el espesor del paciente se relaciona con la tasa de \ndosis del equipo. Así para mantener constante la dosis que alcanza el detector, para un \nmedio homogéneo de 20 cm y atenuación similar al agua, la dosis a la entrada del \npaciente, es aproximadamente:",
+        "opciones": {
+            "A": "El 150% si el espesor es 24 cm.",
+            "B": "El 200% si el espesor es 25 cm.",
+            "C": "El 300% si el espesor es 25 cm.",
+            "D": "El 400% si el espesor es 26 cm."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta24": {
+        "pregunta": ". ¿Cuál es la tasa de dosis asociada a una fuente puntual de 1 mCi de F-18 a un metro \nde distancia sin barreras interpuestas según la AAPM TG 108, PET and PET/CT Shielding?:",
+        "opciones": {
+            "A": "1,5 μSv/h.",
+            "B": "15 μSv/h.",
+            "C": "53 μSv/h.",
+            "D": "5,3 μSv/h."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta27": {
+        "pregunta": ". La etiqueta del bulto que contiene un generador de Mo-99/Tc-99m con una actividad \nde 104 GBq indica un índice de transporte típico de:",
+        "opciones": {
+            "A": "0,5.",
+            "B": "1,0.",
+            "C": "2,6.",
+            "D": "12."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta33": {
+        "pregunta": ". En un tratamiento de Cabeza y Cuello con radioterapia externa se prescribe una dosis \na PTV (α/β=10) de 70 Gy con un fraccionamiento estándar (35 fracciones de 2Gy). La \ndosis límite en la mandíbula ( α/β=2) es de 70 Gy. La conformación del plan indica que la \nisodosis máxima en mandíbula es del 80%. Cuando se llevan administradas 25 sesiones, \nse decide aumentar el fraccionamiento para acelerar el fin del tratamiento a causa de \nuna operación programada para el paciente. Según el modelo LQ, ¿cuál de los siguientes \nesquemas de fraccionamiento para las sesiones restantes presenta un mayor efecto \nbiológico en tumor sin superar la restricción de dosis en mandíbula planteada?:",
+        "opciones": {
+            "A": "8 fracción de 2.5 Gy.",
+            "B": "5 fracciones de 4 Gy.",
+            "C": "4 fracciones de 5 Gy.",
+            "D": "2 fracciones de 10 Gy."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta45": {
+        "pregunta": ". Un vial de 30 ml contiene 120 mCi de Tc-99m a las 9:00 am. ¿Qué volumen se \nnecesita para tener 5 mCi de Tc-99m a las 15:00 horas?:",
+        "opciones": {
+            "A": "6.0 ml.",
+            "B": "2.5 ml.",
+            "C": "1.0 ml.",
+            "D": "0.6 ml."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta60": {
+        "pregunta": ". La profundidad aproximada en agua necesaria para que un haz de radiación gamma \nde 6 MeV alcance el equilibrio electrónico transitorio es de:",
+        "opciones": {
+            "A": "0.5 cm.",
+            "B": "1.5 cm.",
+            "C": "3.5 cm.",
+            "D": "5.5 cm."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta69": {
+        "pregunta": ". En un tratamiento de radioembolización hepática con Itrio-90 se establece que la \ndosis óptima para administrar al paciente es de 7 μg de microesferas a una hora \ndeterminada del día. Debido a problemas con la disponibilidad de la sala, la intervención \nse suspende y se decide retrasar 2 días exactamente utilizando el mismo radiofármaco. ¿\nQué cantidad sería necesaria para mantener la dosis de prescripción en la nueva fecha?:",
+        "opciones": {
+            "A": "11.76 μg.",
+            "B": "14.05 μg.",
+            "C": "16.17 μg.",
+            "D": "18.25 μg."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta73": {
+        "pregunta": ". La carga de trabajo de una sala de rayos X con 30 pacientes diarios, dos películas por \npaciente, con una técnica de 125 kVp y 5 mAs por película, 5 días por semana es:",
+        "opciones": {
+            "A": "15 mA min/sem.",
+            "B": "25 mA min/sem.",
+            "C": "50 mA min/sem.",
+            "D": "100 mA min/sem."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta88": {
+        "pregunta": "La incorrecta recolección de carga en cámaras de ionización por efectos de recombinación \nrequiere el uso de factores de corrección, ks. Según la aproximación propuesta en el código \ndosimétrico IAEA TRS-398, ¿cuál es el valor de ks si con una polarización V1=420 V se recolecta \nuna carga de 210 pC y con una polarización de V2= 140 V se recolecta una carga de 200 pC?:",
+        "opciones": {
+            "A": "1.005",
+            "B": "1.025",
+            "C": "1.015",
+            "D": "1.01"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta108": {
+        "pregunta": ". ¿Cuál es el mínimo espesor de plomo necesario para bloquear más del 95% de la \ndosis en un haz \nde electrones de 8 MeV?:",
+        "opciones": {
+            "A": "5 mm.",
+            "B": "3 mm.",
+            "C": "2 mm.",
+            "D": "4 mm."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Murcia 2017-2018 - Modelo A.pdf_pregunta128": {
+        "pregunta": ". Un tratamiento de radioterapia se ha planificado con RX de 6 MV para administrar 60 \nGy al PTV (volumen tumoral) con un fraccionamiento de 3.0 Gy por sesión. Un tejido sano \npróximo recibe el 50% de la dosis total prescrita al PTV. En esta situación, la dosis \nefectiva biológica (BED, Biological Effective Dose) del tejido sano, cuyo cociente alfa/beta \nes de 3, es, según el modelo cuadrático lineal:",
+        "opciones": {
+            "A": "45 Gy3.",
+            "B": "60 Gy3.",
+            "C": "75 Gy3.",
+            "D": "90 Gy3."
+        },
+        "respuesta_correcta": "A"
+    },
+"Murcia 2017-2018 - Modelo A.pdf_pregunta146": {
+        "pregunta": "De un total de 40 alumnos presentados a una oposición, el tribunal debe seleccionar únicamente a \n2 alumnos. Sabiendo que la nota es una variable que sigue una distribución normal cuya media es \n4.0 y desviación típica 1.5, ¿qué nota aproximada debe elegir el tribunal?:",
+        "opciones": {
+            "A": "9",
+            "B": "8",
+            "C": "7",
+            "D": "6"
+        },
+        "respuesta_correcta": "C"
+    },
+  "Extremadura_2021_pregunta89": {
+    "pregunta": "Se inyectan en el torrente sanguíneo 1 MBq de glóbulos rojos marcadas con 51Cr. Se toma una alícuota de sangre después de un período de equilibrio (10 minutos) y contiene 0,2 kBq/mL. ¿Cuál es el volumen de distribución de los glóbulos rojos en sangre? Suponer que la fracción total de volumen de sangre ocupado por glóbulos rojos es 0,4.",
+    "opciones": {
+      "A": "2000 mL.",
+      "B": "5000 mL.",
+      "C": "1000 mL.",
+      "D": "12500 mL."
+    },
+    "respuesta_correcta": "A"
+  },
+  "Extremadura_2021_pregunta102": {
+    "pregunta": "A igualdad de otros factores ¿cuál de estos esquemas de irradiación tendrá un efecto mayor en una población de células con α/β = 2 Gy?",
+    "opciones": {
+      "A": "20 fracciones de 1 Gy.",
+      "B": "10 fracciones de 2 Gy.",
+      "C": "4 fracciones de 4 Gy.",
+      "D": "1 fracción de 8 Gy."
+    },
+    "respuesta_correcta": "C"
+  },
+"Canarias 2010 - Examen.pdf_pregunta009": {
+    "pregunta": "El radium (Ra-226), isótopo radiactivo muy utilizado en los inicios de las técnicas radioterápicas, es uno de los radionúclidos de una cadena de desintegración natural cuyo origen es:",
+    "opciones": {
+        "A": "Torio 234",
+        "B": "Uranio 238",
+        "C": "Plutonio 238",
+        "D": "Actinio 234"
+    },
+    "respuesta_correcta": "B"
+},
+"Canarias 2010 - Examen.pdf_pregunta047": {
+    "pregunta": "Un contador de centelleo de NaI(TI) tiene una tasa de contaje para fondo(espectro completo) de 200 cpm. La sensibilidad para el contaje del isotopo de 131 para ese contador es de 25 cpm/Bq. ¿Cuál es la mínima actividad detectable de 131I empleando medidas de 2 minutos de contaje?",
+    "opciones": {
+        "A": "0,08 Bq",
+        "B": "1,2 Bq",
+        "C": "8,2 Bq",
+        "D": "15,4 Bq"
+    },
+    "respuesta_correcta": "B"
+},
+"Canarias 2010 - Examen.pdf_pregunta052": {
+    "pregunta": "Un equipo IC tiene una resolución límite de 2 pl/cm. La resolución del sistema es:",
+    "opciones": {
+        "A": "0,2 cm",
+        "B": "0,1 cm",
+        "C": "0,5 cm",
+        "D": "0,25 cm"
+    },
+    "respuesta_correcta": "D"
+},
+"Canarias 2010 - Examen.pdf_pregunta053": {
+    "pregunta": "Si en un estudio de tiroides se le suministra al paciente 0.6 MBq de Yodo-131 (periodo de 8.02 días). Si la vida media biológica es de 15 días, ¿cuál es la actividad que queda en el paciente después de 10 días?",
+    "opciones": {
+        "A": "0.159",
+        "B": "0.300",
+        "C": "0.250",
+        "D": "0.0"
+    },
+    "respuesta_correcta": "A"
+},
+"Canarias 2010 - Examen.pdf_pregunta054": {
+    "pregunta": "¿Cuánta memoria se necesita (en MB) para almacenar una imagen radiográfica de 1kx1k con 256 escalas de grises?",
+    "opciones": {
+        "A": "0.1",
+        "B": "0.25",
+        "C": "0.5",
+        "D": "1"
+    },
+    "respuesta_correcta": "D"
+},
+"Canarias 2010 - Examen.pdf_pregunta063": {
+    "pregunta": "Un contador se prepara para detenerse después de 10000 cuentas o 10 minutos, lo que \nocurra primero. ¿Cuál es la desviación estándar si la tasa de cuentas es de 2000 c/min?",
+    "opciones": {
+        "A": "125",
+        "B": "100",
+        "C": "50",
+        "D": "1"
+    },
+    "respuesta_correcta": "B"
+},
+"Canarias 2010 - Examen.pdf_pregunta127": {
+    "pregunta": "¿Cuál es, aproximadamente, la máxima fracción de energía que un muon puede transmitir a \nun electrón en una colisión simple? (mµ=207me)",
+    "opciones": {
+        "A": "11 %",
+        "B": "7%",
+        "C": "4%",
+        "D": "2 %"
+    },
+    "respuesta_correcta": "D"
+},
+"Ceuta 2021.pdf_pregunta4": {
+  "pregunta": "El número de capas hemirreductoras para reducir la tasa de dosis tras una barrera de un isótopo radiactivo de 32 mSv/h a 4 mSv/h es:",
+  "opciones": {
+    "A": "3.",
+    "B": "Depende del radionucleido.",
+    "C": "2.",
+    "D": "1."
+  },
+  "respuesta_correcta": "A"
+}
+
+}
