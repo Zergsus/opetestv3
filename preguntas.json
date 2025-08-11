@@ -5380,9 +5380,9 @@
         "respuesta_correcta": "D"
     },
     "SAS 2018 - Examen.pdf_pregunta84": {
-        "pregunta": ". La dosis en la superficie de entrada (DS",
+        "pregunta": ". La dosis en la superficie de entrada (DSA) se calcula como:",
         "opciones": {
-            "A": "se calcula como:  \nA) DSE (Gy) ≈ 1.35 / ESAK (Gy)",
+            "A": "DSE (Gy) ≈ 1.35 / ESAK (Gy)",
             "B": "DSE (Gy) ≈ 1.35 ·  ESAK (Gy)",
             "C": "DSE (Gy) ≈ 1.65 ·  ESAK (Gy)",
             "D": "DSE (Gy) ≈ 1.65 / ESAK (Gy)"
@@ -5400,7 +5400,7 @@
         "respuesta_correcta": "B"
     },
     "SAS 2018 - Examen.pdf_pregunta86": {
-        "pregunta": ". Según la ICRP -103, el coeficiente no minal de riesgo ajustado al detrimento (10-2  \nSv-1), total y para adultos, para efectos estocásticos después de la exposición a \ntasa de dosis baja es:",
+        "pregunta": ". Según la ICRP -103, el coeficiente nominal de riesgo ajustado al detrimento (10-2  \nSv-1), total y para adultos, para efectos estocásticos después de la exposición a \ntasa de dosis baja es:",
         "opciones": {
             "A": "4,2",
             "B": "5,6",
@@ -5600,9 +5600,9 @@
         "respuesta_correcta": "C"
     },
     "SAS 2018 - Examen.pdf_pregunta106": {
-        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /   Según el TRS -483, un campo se considerará pequeño si se cumple una de estas \ncond iciones (Señala la respuesta CORRECT",
+        "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /   Según el TRS -483, un campo se considerará pequeño si se cumple una de estas \ncond iciones (Señala la respuesta CORRECTA)",
         "opciones": {
-            "A": "A) Hay pérdida de equilibrio lateral de partículas cargadas en los bordes del campo, el sistema \nde colimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el \ntamaño del detector es mayor que e l tamaño de campo",
+            "A": "Hay pérdida de equilibrio lateral de partículas cargadas en los bordes del campo, el sistema \nde colimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el \ntamaño del detector es mayor que e l tamaño de campo",
             "B": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación está formado por láminas no convergentes en el eje del haz o el tamaño del \ndetector es menor que el tamaño de campo",
             "C": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz o el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en los bordes del haz",
             "D": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el tamaño \ndel detector es similar o mayor que el tamaño de campo"
@@ -5613,7 +5613,7 @@
         "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /  La participación del radiofísico en este proceso, según el R.D. 1566/98 por el que \nse establecen los criterios de  calidad en Radioterapia será:",
         "opciones": {
             "A": "actuar como responsable de la determinación del estado de referencia inicial del acelerador \ny emitir un informe con la descripción de las pruebas realizadas que remitirá al explotador \nde la instalación radiactiva",
-            "B": "recibi r el informe de la empresa suministradora sobre las pruebas realizadas y resultados \nobtenidos que garanticen que el equipo cumple con las características ofertadas.",
+            "B": "recibir el informe de la empresa suministradora sobre las pruebas realizadas y resultados \nobtenidos que garanticen que el equipo cumple con las características ofertadas.",
             "C": "actuar como responsable de la aceptación y determinación del estado de referencia inicia l \ndel acelerador y emitir un informe con las pruebas de aceptación, que remitirá al \nresponsable de la unidad asistencial de radioterapia",
             "D": "exclusivamente, la realización de las medidas necesarias para la puesta en marcha de los \nsistemas de planificación y de cálculo. No será necesaria su presencia cuando la empresa \nsuministradora realice las pruebas para garantizar el funcionamiento del equipo"
         },
@@ -5800,7 +5800,7 @@
         "respuesta_correcta": "D"
     },
     "SAS 2018 - Examen.pdf_pregunta126": {
-        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / En el puesto del operador del acelerador , con una cámara de ionización la tasa de \ndosis medida fue de 25 μSv/h. Al menos uno de los técnicos opera el acelerador \ndurante el turno completo. Los cálculos de la barrera se realizaron con una carga de \ntrabajo semanal de 800 Gy/sem. ¿Hasta qué valor ha bría que reducir la carga de \ntrabajo semanal para que el operador no supere los nuevos valores de dosis \nefectivas anuales cuando entre en vigor en nuestro país la Directiva 2013/59 \nEuratom? (año laboral 2000 horas/año)",
+        "pregunta": "CASO PRÁCTICO 3 \nEn la ampliación de una unidad de tratamiento de oncología radioterápica, se \nbarajan varias opciones para la construcción de un bunker para una nueva unidad. \nTeniendo en cuenta que ya se está trabajando en las instalaciones, a efectos del \nestudio de seguridad de la nueva instalación hay factores a tener en cuenta / En el puesto del operador del acelerador , con una cámara de ionización la tasa de \ndosis medida fue de 25 μSv/h. Al menos uno de los técnicos opera el acelerador \ndurante el turno completo. Los cálculos de la barrera se realizaron con una carga de \ntrabajo semanal de 800 Gy/sem. ¿Hasta qué valor habría que reducir la carga de \ntrabajo semanal para que el operador no supere los nuevos valores de dosis \nefectivas anuales cuando entre en vigor en nuestro país la Directiva 2013/59 \nEuratom? (año laboral 2000 horas/año)",
         "opciones": {
             "A": "320 Gy/sem",
             "B": "185Gy/sem",
@@ -5874,7 +5874,7 @@
         "opciones": {
             "A": "1 μGy m2 h–1",
             "B": "103 μGy cm2 h–1",
-            "C": "2,78 10-2μGy cm2 s–1",
+            "C": "2,78 10-2 μGy cm2 s–1",
             "D": "100 mGy  cm2 h–1"
         },
         "respuesta_correcta": "A"
@@ -7277,7 +7277,7 @@
             "C": "0.283 μSv/h",
             "D": "48.42 μSv/h"
         },
-        "respuesta_correcta": "C"
+        "respuesta_correcta": "A"
     },
     "SAS 2015 - Examen.pdf_pregunta128": {
         "pregunta": "CASO III: \nPaciente mujer con 35 años y cáncer diferenciado de tiroides, recibe tratamiento \ncon I-131 administrándosele 3.7GBq, quedando hospitalizada. Se le da el alta a las \n48 horas. \nConvive con un hijo de 15 meses, su pareja de la misma edad y su madre de 63 \naños. \nTrabaja en una guardería y quiere volverse a quedar embarazada. \n / ¿y si interponemos la mampara de plomo anteriormente mencionada?",
@@ -7415,7 +7415,7 @@
             "A": "En el centro de masas del volumen de mayor dosis",
             "B": "En el centro de la médula",
             "C": "En la cadena homolateral",
-            "D": "En el plano donde empiezan a aparecer los hombros y el cambio morfológico es"
+            "D": "En el plano donde empiezan a aparecer los hombros y el cambio morfológico es máximo"
         },
         "respuesta_correcta": "D"
     },
@@ -7830,10 +7830,10 @@
         "respuesta_correcta": "D"
     },
     "Navarra 2020 - EXAMEN.pdf_pregunta30": {
-        "pregunta": ". En el código de Práctica TRS -483, se incluyen factores de corrección \npara  el cálculo de los factores campo (Output Factors), con el \npropósito de seleccionar estos factores, ¿Cómo se propone \ndeterminar el cuadrado equivalente? (A y B corresponden a las \nanchuras a mitad de altura, FWHM, del campo dosimétrico en la \nprofundidad de medida, co n la condición 0,7 < A/B < 1,4)",
+        "pregunta": ". En el código de Práctica TRS -483, se incluyen factores de corrección \npara  el cálculo de los factores campo (Output Factors), con el \npropósito de seleccionar estos factores, ¿Cómo se propone \ndeterminar el cuadrado equivalente? (A y B corresponden a las \nanchuras a mitad de altura, FWHM, del campo dosimétrico en la \nprofundidad de medida, con la condición 0,7 < A/B < 1,4)",
         "opciones": {
-            "A": "Media geométrica, S clin = raíz(A.",
-            "B": "b) Media aritmética, S clin = (A+B)/2",
+            "A": "Media geométrica, S clin = raíz(A.B)",
+            "B": "Media aritmética, S clin = (A+B)/2",
             "C": "Fórmula de Sterling, S clin = 2(A.B)/(A+B)",
             "D": "Sclin = 1,77raíz(A.B)"
         },
@@ -8800,7 +8800,7 @@
         "respuesta_correcta": "C"
     },
     "Murcia 2017-2018 - Modelo A.pdf_pregunta73": {
-        "pregunta": ". La carga de trabajo de una sala de rayos X con 30 pacientes diarios, dos películas por \npaciente, con una técnica de 125 kVp y 5 más por película, 5 días por semana es:",
+        "pregunta": ". La carga de trabajo de una sala de rayos X con 30 pacientes diarios, dos películas por \npaciente, con una técnica de 125 kVp y 5 mAs por película, 5 días por semana es:",
         "opciones": {
             "A": "15 mA min/sem.",
             "B": "25 mA min/sem.",
@@ -17829,5 +17829,6 @@
 
 
 }
+
 
 
