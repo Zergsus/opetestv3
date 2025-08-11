@@ -20,6 +20,7 @@ temas = {
     "Protones": "preguntas_protones.json",
     "Temario Comun": "preguntas_comunes.json",
     "Resto": "preguntas_resto.json",
+    "Problemas numéricos": "preguntas_numericas.json",
 }
 
 tema_elegido = st.selectbox("Selecciona un tema:", list(temas.keys()))
