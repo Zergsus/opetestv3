@@ -414,7 +414,7 @@
         "opciones": {
             "A": "la pendiente es mayor en los tejidos de respuesta tardía",
             "B": "el cociente alfa/beta de los tejidos de respuesta tardía es alto",
-            "C": "el cociente alfa/beta de l os tejidos de respuesta precoz es bajo",
+            "C": "el cociente alfa/beta de los tejidos de respuesta precoz es bajo",
             "D": "la pendiente es mayor en los tejidos de respuesta precoz"
         },
         "respuesta_correcta": "A"
@@ -595,7 +595,7 @@
             "A": "No suelen ser equipos muy estables.",
             "B": "En general, se trata de cámaras de ionización en las que el gas está presurizado para \naumentar su eficiencia.",
             "C": "Son equipos utilizados para medir la dosis de una muestra contenida generalmente en \nuna jeringa o en un vial en la etapa de preparación del radiofármaco que debe ser \nadministrado.",
-            "D": "Estos sistemas no están calibrados para l os diferentes radionucleidos utilizados."
+            "D": "Estos sistemas no están calibrados para los diferentes radionucleidos utilizados."
         },
         "respuesta_correcta": "B"
     },
@@ -665,7 +665,7 @@
             "A": "A) Es la magnitud recomendada por ICRU para caracterizar fuentes emisoras de \nradiación gamma.",
             "B": "Es la magnitud reco mendada para caracterizar fuentes beta.",
             "C": "Está definida como la actividad de una fuente puntual y desnuda del mismo \nradionucleido que produjera la misma tasa de kerma en aire a 1 m desde la fuente.",
-            "D": "Es el kerma en aire en el seno de aire, en un punto de l espacio correspondiente a la"
+            "D": "Es el kerma en aire en el seno de aire, en un punto del espacio correspondiente a la"
         },
         "respuesta_correcta": "A"
     },
@@ -790,7 +790,7 @@
         "respuesta_correcta": "A"
     },
     "SAS 2023.pdf_pregunta80": {
-        "pregunta": "Según el real decreto 1029/2022, por el que se aprueba el Reglamento sobre \nprotección de la salud contra los riesgos derivados de la exposición a las \nradiaciones ionizantes, son l ímites anuales de dosis para el público:",
+        "pregunta": "Según el real decreto 1029/2022, por el que se aprueba el Reglamento sobre \nprotección de la salud contra los riesgos derivados de la exposición a las \nradiaciones ionizantes, son límites anuales de dosis para el público:",
         "opciones": {
             "A": "1 mSv de dosis efectiva, 150 mSv en cristalino y 100 mSv para la piel",
             "B": "1 mSv de dosis efectiva, 50 mSv en cristalino y 50 mSv para la piel",
@@ -810,7 +810,7 @@
         "respuesta_correcta": "C"
     },
     "SAS 2023.pdf_pregunta82": {
-        "pregunta": "Transcurrido e l plazo de un mes, sin que se inste la subsanación, la declaración de \nla instalación de rayos X, presentada en el organismo competente de la Comunidad \nAutónoma:",
+        "pregunta": "Transcurrido el plazo de un mes, sin que se inste la subsanación, la declaración de \nla instalación de rayos X, presentada en el organismo competente de la Comunidad \nAutónoma:",
         "opciones": {
             "A": "Se entenderá inscrita en el registro de la Comunidad Autónoma y se podrá poner en \nservicio  la instalación",
             "B": "No se podrá poner en servicio hasta que el órgano competente de la comunidad \nautónoma le notifique la inscripción de la misma en el registro",
@@ -980,7 +980,7 @@
         "respuesta_correcta": "A"
     },
     "SAS 2023.pdf_pregunta99": {
-        "pregunta": "Son valores de los factores de ponderación para l a radiación",
+        "pregunta": "Son valores de los factores de ponderación para la radiación",
         "opciones": {
             "A": "1 para fotones y protones",
             "B": "1 para electrones y 10 para protones",
@@ -1243,7 +1243,7 @@
         "pregunta": "En el tomógrafo computarizado TC de radioterapia, hacemos controles periódicos  \nde la curva de calibración de conversión de números CT a densidad electrónica. Se \nrecomienda cambiar la curva de calibración si la densidad electrónica relativa al \nagua varía más de:",
         "opciones": {
             "A": "0,1 en cualquier punto de la curva.",
-            "B": "0,1 en la parte central de l a curva y 0.5 en los extremos.",
+            "B": "0,1 en la parte central de la curva y 0.5 en los extremos.",
             "C": "0,5 en cualquier punto de la curva.",
             "D": "0,5 en la parte central de la curva y 0,1 en los extremos."
         },
@@ -1350,7 +1350,7 @@
         "respuesta_correcta": "C"
     },
     "SAS 2023.pdf_pregunta137": {
-        "pregunta": "Durante el tratamiento, el paciente ha estado ingresado en una habitación para \nhospitalización que  debe tener unos blindajes estructurales necesarios para que \nno se superen los límites de dosis legalmente establecidos para los trabajadores \nexpuestos de l a instalación o personas del público que puedan situarse en las \ndiferentes zonas anexas. Los blindajes típicos serán del orden de:",
+        "pregunta": "Durante el tratamiento, el paciente ha estado ingresado en una habitación para \nhospitalización que  debe tener unos blindajes estructurales necesarios para que \nno se superen los límites de dosis legalmente establecidos para los trabajadores \nexpuestos de la instalación o personas del público que puedan situarse en las \ndiferentes zonas anexas. Los blindajes típicos serán del orden de:",
         "opciones": {
             "A": "Entre 2 o 3 cm de hormigón y disponer de mamparas móviles con blindaje equivalente \na 2 cm de plomo.",
             "B": "Entre 20 o 30 cm de hormigón y disponer de mamparas móviles con blindaje \nequivalente a 5 cm de plomo.",
@@ -1600,7 +1600,7 @@
         "respuesta_correcta": "B"
     },
     "SAS 2022_radiofisica_examen.pdf_pregunta9": {
-        "pregunta": "Múltiples estudios realizados en los últimos veinte años nos han permitido conocer \nde manera bastante fiable la frecuencia y distribución de los efectos adversos asociados a la asistencia sanitaria. Una revisión y síntesis de los mismos se muestra en la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud Período 2015 -2020 (publicado por el MSSSI en 2016), donde se indica que l a \nfrecuencia en nuestro país - con cifras muy similares a las de países de nuestro \nentorno-  se sitúa:",
+        "pregunta": "Múltiples estudios realizados en los últimos veinte años nos han permitido conocer \nde manera bastante fiable la frecuencia y distribución de los efectos adversos asociados a la asistencia sanitaria. Una revisión y síntesis de los mismos se muestra en la Estrategia de Seguridad del Paciente del Sistema Nacional de Salud Período 2015 -2020 (publicado por el MSSSI en 2016), donde se indica que la \nfrecuencia en nuestro país - con cifras muy similares a las de países de nuestro \nentorno-  se sitúa:",
         "opciones": {
             "A": "En torno al 5% de los pacientes atendidos en hospitales (hospitalización y urgencias) y al 1-2% de los pacientes atendidos en centros de atención prim aria.",
             "B": "En torno al 2% de los pacientes atendidos en hospitales (hospitalización y urgencias) y al 9-10% de los pacientes atendidos en centros de atención primaria.",
@@ -1790,7 +1790,7 @@
         "respuesta_correcta": "B"
     },
     "SAS 2022_radiofisica_examen.pdf_pregunta29": {
-        "pregunta": "Según el modelo lineal -cuadrático, modelo L -Q, los efectos tardíos o crónicos \nsobre los tejidos sanos suelen tener:",
+        "pregunta": "Según el modelo lineal -cuadrático, modelo L-Q, los efectos tardíos o crónicos \nsobre los tejidos sanos suelen tener:",
         "opciones": {
             "A": "Un valor del cociente alfa/beta alto, del orden de 10 Gy.",
             "B": "Un valor del cociente alfa/beta bajo, del orden o menores de 3 Gy.",
@@ -1884,7 +1884,7 @@
         "opciones": {
             "A": "Presentan fenómenos de remanencia.",
             "B": "Necesitan ajustes y requieren calentamiento.",
-            "C": "Operan a voltajes muchos más bajos que l as cámaras de TV convencionales.",
+            "C": "Operan a voltajes muchos más bajos que las cámaras de TV convencionales.",
             "D": "Son sensibles a campos magnéticos externos ."
         },
         "respuesta_correcta": "C"
@@ -2210,7 +2210,7 @@
         "respuesta_correcta": "A"
     },
     "SAS 2022_radiofisica_examen.pdf_pregunta71": {
-        "pregunta": "Según l a IS-16 del Consejo de Seguridad Nuclear sobre períodos de tiempo de \narchivado de documentos, los registros correspondientes al almacenamiento de los \nresiduos radiactivos para su decaimiento y su retirada por una empresa autorizada \ndeberán mantenerse:",
+        "pregunta": "Según la IS-16 del Consejo de Seguridad Nuclear sobre períodos de tiempo de \narchivado de documentos, los registros correspondientes al almacenamiento de los \nresiduos radiactivos para su decaimiento y su retirada por una empresa autorizada \ndeberán mantenerse:",
         "opciones": {
             "A": "Hasta la clausura de la instalación radiactiva.",
             "B": "Al menos un año desde su retirada por la empresa autorizada.",
@@ -2424,7 +2424,7 @@
         "opciones": {
             "A": "Sí incluye la radiación retrodispersada.",
             "B": "Es igual a la dosis absorbida en aire en la superfi cie de entra da del paciente.",
-            "C": "No incluye l a radiación retrodispersada.",
+            "C": "No incluye la radiación retrodispersada.",
             "D": "Es mayor que la dosis absorbida en aire en la superficie de entrada del paciente."
         },
         "respuesta_correcta": "C"
@@ -2750,7 +2750,7 @@
         "respuesta_correcta": "C"
     },
     "SAS 2022_radiofisica_examen.pdf_pregunta126": {
-        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / La fuente principa l de radiación dispersa, generada en el cabezal de un acelerador \ncon filtro aplanador, presente en un haz de fotones , es debida a:",
+        "pregunta": "CASO PRÁCTICO 3: \nSupongamos una paciente que viene al hospital a realizarse un tratamiento de \nradioterapia en la zona de la cabeza. Una vez realizado el TC de planificación, se somete \na la paciente al tratamiento de radioterapia en un acelerador de electrones. Se usan \nfotones de 6 MV, seguido de una sobreimpresión con un haz de electrones. / La fuente principal de radiación dispersa, generada en el cabezal de un acelerador \ncon filtro aplanador, presente en un haz de fotones , es debida a:",
         "opciones": {
             "A": "El colimador primario.",
             "B": "Las mordazas y/o multiláminas.",
@@ -3283,7 +3283,7 @@
         "pregunta": "Se clasificarán como trabajadores expuestos al  radón aquellos que",
         "opciones": {
             "A": "puedan recibir una dosis una dosis efectiva anual debida al radón superior a 6 mSv por \naño oficial y el promedio anual de concentración de este elemento sea superior a 300 \nBq/m3",
-            "B": "puedan recibir una dosis una dosis efectiva anua l debida al radón superior a 1 mSv por \naño oficial y el promedio anual de concentración de este elemento sea superior a 200 \nBq/m3",
+            "B": "puedan recibir una dosis una dosis efectiva anual debida al radón superior a 1 mSv por \naño oficial y el promedio anual de concentración de este elemento sea superior a 200 \nBq/m3",
             "C": "puedan recibir una dosis una dosis efectiva anual debida al radón superior a 6 mSv por \naño oficial y el promedio anual de c oncentración de este elemento sea superior a 200 \nBq/m3",
             "D": "puedan recibir una dosis una dosis efectiva anual debida al radón superior a 1 mSv por \naño oficial y el promedio anual de concentración de este elemento sea superior a 300 \nBq/m3"
         },
@@ -3960,7 +3960,7 @@
         "respuesta_correcta": "C"
     },
     "SAS 2023 ROCIO.pdf_pregunta94": {
-        "pregunta": "A efectos de p rotección radiológica, y tras realizar una evaluación previa para \ndeterminar la naturaleza y magnitud del riesgo radiológico para los trabajadores \nexpuestos, el titular de la práctica identificará, delimitará y clasificará todos los \nlugares de trabajo en l os que exista la posibilidad de recibir dosis efectivas \nsuperiores a:",
+        "pregunta": "A efectos de p rotección radiológica, y tras realizar una evaluación previa para \ndeterminar la naturaleza y magnitud del riesgo radiológico para los trabajadores \nexpuestos, el titular de la práctica identificará, delimitará y clasificará todos los \nlugares de trabajo en los que exista la posibilidad de recibir dosis efectivas \nsuperiores a:",
         "opciones": {
             "A": "20 mSv",
             "B": "6 mSv",
@@ -4094,13 +4094,13 @@
         "opciones": {
             "A": "tenga un volumen de extracción mínimo de 100 m3/hora",
             "B": "la extracción se realice desde las zonas con menor actividad hacia las de mayor \nactividad",
-            "C": "Solo funcione mientras e l paciente se encuentre ingresado.",
+            "C": "Solo funcione mientras el paciente se encuentre ingresado.",
             "D": "la extracción se realice desde las zonas con mayor actividad hacia las de mayor \nactividad"
         },
         "respuesta_correcta": "B"
     },
     "SAS 2023 ROCIO.pdf_pregunta108": {
-        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / Si durante el funcionamiento de la instalación se produce un cambio en la \ntitularidad del hospital en que se encuentra l a instalación sin producirse \nmodificación en el funcionamiento ni en las cantidades autorizadas de los isótopos \nutilizados en el tratamiento:",
+        "pregunta": "CASO PRACTICO 1: \nEn una instalación de Medicina Nuclear, se diseña un área de tratamiento metabólico \ncon una habitación de tratamiento, una de residuos y una pequeña sala para la \nrecepción de los radiofármacos empleados en el tratamiento.Si la actividad máxima que \nse espera recibir, para I-131, es de 7.4 GBq y la constante de tasa de kerma para este \nisótopo es de 5.65*10-5 mSv*m2 / (MBq*h). / Si durante el funcionamiento de la instalación se produce un cambio en la \ntitularidad del hospital en que se encuentra la instalación sin producirse \nmodificación en el funcionamiento ni en las cantidades autorizadas de los isótopos \nutilizados en el tratamiento:",
         "opciones": {
             "A": "Se requerirá una nueva autorización del Ministerio de Industria siguiendo los mismos \ntrámites que en la autor ización inicial.",
             "B": "Se requerirá solamente la autorización expresa por parte del Consejo de Seguridad \nNuclear antes de que se produzca el cambio.",
@@ -4750,7 +4750,7 @@
         "respuesta_correcta": "B"
     },
     "SAS 2018 - Examen.pdf_pregunta20": {
-        "pregunta": ". Según la IS -28 del Consejo de Seguridad Nuclear, sobre las especificaciones \ntécnicas de funcionamiento que deben cumplir l as instalaciones radiactivas de \nsegunda y tercera categoría, para el establecimiento del programa de \ncalibraciones y verificaciones de los sistemas de detección y medida de las \nradiaciones ionizantes se podrá tomar como base las recomendaciones \ncontenidas en:",
+        "pregunta": ". Según la IS -28 del Consejo de Seguridad Nuclear, sobre las especificaciones \ntécnicas de funcionamiento que deben cumplir las instalaciones radiactivas de \nsegunda y tercera categoría, para el establecimiento del programa de \ncalibraciones y verificaciones de los sistemas de detección y medida de las \nradiaciones ionizantes se podrá tomar como base las recomendaciones \ncontenidas en:",
         "opciones": {
             "A": "los informes TRS -398 o TG -51",
             "B": "la norma DIN 6847",
@@ -4810,7 +4810,7 @@
         "respuesta_correcta": "B"
     },
     "SAS 2018 - Examen.pdf_pregunta27": {
-        "pregunta": ". La interacción fundamental a l a hora de formación de la imagen con rayos x es el \nefecto fotoeléctrico, ya que la dependencia típica (en el rango de energía utilizado \nen diagnóstico) de la sección eficaz de interacción, en función del número atómico \ndel material, Z, y la energía de la r adiación, E, es proporcional a:",
+        "pregunta": ". La interacción fundamental a la hora de formación de la imagen con rayos x es el \nefecto fotoeléctrico, ya que la dependencia típica (en el rango de energía utilizado \nen diagnóstico) de la sección eficaz de interacción, en función del número atómico \ndel material, Z, y la energía de la r adiación, E, es proporcional a:",
         "opciones": {
             "A": "Z4/E3",
             "B": "E4/Z3",
@@ -5602,7 +5602,7 @@
     "SAS 2018 - Examen.pdf_pregunta106": {
         "pregunta": "CASO PRÁCTICO 1: \nEn un hospital se ha instalado un acelerador lineal que dispone de dos energías de \nfotones (6 y 15 MV), ambas con posibilidad también de trabajar en modo FFF, y tres \nenergías de electrones (6, 12 y 18 MeV). Se pretende implementar también técnicas \nde SBRT y Radiocirugía y se encuentra en proceso de aceptación y calibración de \ntodos sus haces /   Según el TRS -483, un campo se considerará pequeño si se cumple una de estas \ncond iciones (Señala la respuesta CORRECTA)",
         "opciones": {
-            "A": "Hay pérdida de equilibrio lateral de partículas cargadas en los bordes del campo, el sistema \nde colimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el \ntamaño del detector es mayor que e l tamaño de campo",
+            "A": "Hay pérdida de equilibrio lateral de partículas cargadas en los bordes del campo, el sistema \nde colimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el \ntamaño del detector es mayor que el tamaño de campo",
             "B": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación está formado por láminas no convergentes en el eje del haz o el tamaño del \ndetector es menor que el tamaño de campo",
             "C": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz o el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en los bordes del haz",
             "D": "Hay pérdida de equilibrio lateral de partículas cargadas en el eje del haz, el sistema de \ncolimación ocluye parcialmente la fuente primaria de fotones en el eje del haz o el tamaño \ndel detector es similar o mayor que el tamaño de campo"
@@ -5614,7 +5614,7 @@
         "opciones": {
             "A": "actuar como responsable de la determinación del estado de referencia inicial del acelerador \ny emitir un informe con la descripción de las pruebas realizadas que remitirá al explotador \nde la instalación radiactiva",
             "B": "recibir el informe de la empresa suministradora sobre las pruebas realizadas y resultados \nobtenidos que garanticen que el equipo cumple con las características ofertadas.",
-            "C": "actuar como responsable de la aceptación y determinación del estado de referencia inicia l \ndel acelerador y emitir un informe con las pruebas de aceptación, que remitirá al \nresponsable de la unidad asistencial de radioterapia",
+            "C": "actuar como responsable de la aceptación y determinación del estado de referencia inicial \ndel acelerador y emitir un informe con las pruebas de aceptación, que remitirá al \nresponsable de la unidad asistencial de radioterapia",
             "D": "exclusivamente, la realización de las medidas necesarias para la puesta en marcha de los \nsistemas de planificación y de cálculo. No será necesaria su presencia cuando la empresa \nsuministradora realice las pruebas para garantizar el funcionamiento del equipo"
         },
         "respuesta_correcta": "C"
@@ -7994,7 +7994,7 @@
         "opciones": {
             "A": "El tamaño de campo en cualquiera de sus ejes, definido como \nla anchura a mitad de altura (FWHM) a la profundidad de \nmedida, sea menor de 3 cm.",
             "B": "Se dan estas tres condiciones: pérdida de equilibrio \nelectrónico lateral en el eje; oclusión parcial de la fuente \nprimaria por el sistema de colimación; tamaño del detector \nsimilar o mayor que el tamaño de campo.",
-            "C": "El volumen de l detector es m ayor de 0, 125 cm3.",
+            "C": "El volumen del detector es m ayor de 0, 125 cm3.",
             "D": "Exista pérdida de equilibrio electrónico lateral en el eje del \ncampo."
         },
         "respuesta_correcta": "D"
@@ -8020,7 +8020,7 @@
         "respuesta_correcta": "A"
     },
     "Navarra 2020 - EXAMEN.pdf_pregunta49": {
-        "pregunta": ". Según se recoge en el informe ICRU 83, diferentes autores proponen \nfórmulas para el cálculo del margen CTV -PTV. ¿Mediante qué \nexpresión se indica que el margen resultante permite que la dosis \nmínima en el CTV sea de l 95% para el 90% de pacientes?",
+        "pregunta": ". Según se recoge en el informe ICRU 83, diferentes autores proponen \nfórmulas para el cálculo del margen CTV -PTV. ¿Mediante qué \nexpresión se indica que el margen resultante permite que la dosis \nmínima en el CTV sea del 95% para el 90% de pacientes?",
         "opciones": {
             "A": "Margen por Stroom: M = 2Σ + 0, 7σ.",
             "B": "Margen por van Herk: M = 2, 5Σ + 0, 7σ.",
@@ -17829,6 +17829,7 @@
 
 
 }
+
 
 
 
