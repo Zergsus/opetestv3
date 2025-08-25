@@ -1,0 +1,1134 @@
+{
+{
+    "Comunes 2025_pregunta1": {
+        "pregunta": "¿Cuáles son los valores superiores que propugna el Estatuto de Autonomía de Andalucía (Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía) en su artículo 1.2?",
+        "opciones": {
+            "A": "La libertad, la justicia, la igualdad y el pluralismo político para todos los andaluces.",
+            "B": "La solidaridad, la igualdad entre mujeres y hombres, y la justa distribución de riquezas y oportunidades entre todos los andaluces.",
+            "C": "La paz y la justicia para todos los andaluces.",
+            "D": "La igualdad, la equidad, el bienestar y la paz social para todos los andaluces."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta2": {
+        "pregunta": "¿En qué año fue aprobada y publicada en el BOE la vigente Constitución Española?",
+        "opciones": {
+            "A": "1978.",
+            "B": "1979.",
+            "C": "1976.",
+            "D": "1981."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta3": {
+        "pregunta": "Según el artículo 20 de la Ley General de Sanidad, dedicado a la atención a la salud mental, ¿cuál de las siguientes respuestas es correcta?",
+        "opciones": {
+            "A": "Se considerarán de modo especial aquellos problemas referentes a la psiquiatría infantil y psicogeriatría.",
+            "B": "La atención a los problemas de salud mental de la población se realizará en el ámbito especializado, potenciando los recursos asistenciales a nivel hospitalario.",
+            "C": "La hospitalización de los pacientes por procesos que así lo requieran se realizará en las unidades psiquiátricas de los hospitales básicos o comarcales, o en centros psiquiátricos monográficos.",
+            "D": "Los aspectos de prevención primaria y la atención a los problemas psicosociales que acompañan a la pérdida de salud en general estarán a cubiertos por los servicios sociales, no por los servicios de salud mental y de atención psiquiátrica."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta4": {
+        "pregunta": "La Ley 1/2024, de 21 de junio, de creación del Instituto de Salud de Andalucía, establece que esta agencia administrativa asumirá las funciones, personal y medios de la Fundación Pública Andaluza Progreso y Salud, de la Escuela Andaluza de Salud Pública, y de una parte de la organización administrativa de la actual Consejería de Salud y Consumo. ¿De cuál?",
+        "opciones": {
+            "A": "De la Secretaría General Técnica.",
+            "B": "De la Secretaría General de Salud Pública e I+D+i en Salud.",
+            "C": "De la Dirección General de Salud Pública y Ordenación Farmacéutica.",
+            "D": "Del Servicio Andaluz de Salud."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta5": {
+        "pregunta": "¿Cómo se denomina la situación o estado del paciente, que faculta al médico para actuar profesionalmente sin informar antes al paciente, cuando por razones objetivas el conocimiento de su propia situación pueda perjudicar su salud de manera grave?",
+        "opciones": {
+            "A": "Conspiración de silencio.",
+            "B": "Necesidad terapéutica.",
+            "C": "Terapia compasiva.",
+            "D": "Estado terminal."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta6": {
+        "pregunta": "Según el artículo 68 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal declarado en situación de suspensión firme de funciones:",
+        "opciones": {
+            "A": "La suspensión firme determinará la pérdida del puesto de trabajo cuando exceda de seis meses.",
+            "B": "Podrá ejercer funciones limitadas dependiendo de ámbito de aplicación de la suspensión.",
+            "C": "La suspensión firme por sanción disciplinaria no podrá exceder de diez años.",
+            "D": "Ninguna de las opciones es correcta."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta7": {
+        "pregunta": "¿Qué órgano desarrollará las actividades de planificación, diseño de los programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud según la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": {
+            "A": "El Instituto de Salud Carlos III.",
+            "B": "La Agencia Española de Medicamentos y Productos Sanitarios.",
+            "C": "La Comisión de Recursos Humanos.",
+            "D": "El Consejo Interterritorial del Sistema Nacional de Salud."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta8": {
+        "pregunta": "¿Cuál es el objeto principal de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": {
+            "A": "Establecer el marco legal para la investigación biomédica.",
+            "B": "Garantizar la equidad, calidad y participación social en el Sistema Nacional de Salud.",
+            "C": "Regular la financiación de la sanidad privada.",
+            "D": "Proveer formación especializada en salud pública."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta9": {
+        "pregunta": "Señale la opción INCORRECTA en relación a los tipos de errores en investigación clínica:",
+        "opciones": {
+            "A": "El error aleatorio en un estudio de investigación es debido al azar.",
+            "B": "El error aleatorio se puede minimizar aumentando el tamaño de la muestra.",
+            "C": "El error sistemático se puede evitar con un diseño epidemiológico adecuado.",
+            "D": "El error sistemático se puede minimizar aumentando el tamaño de la muestra."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta10": {
+        "pregunta": "¿Qué porcentaje de estándares de los tres grupos debe cumplir una Unidad de Gestión para obtener la certificación 'Excelente' según el Manual de Estándares para Unidades de Gestión Clínica de la Agencia de Calidad Sanitaria de Andalucía?",
+        "opciones": {
+            "A": "El 100% de los estándares del grupo I, 80% de los del grupo II y un cumplimiento mayor del 60% de los estándares del grupo III.",
+            "B": "El 80% de los estándares del grupo I, 70% del grupo II, y un cumplimiento mayor del 50% de los estándares del grupo III.",
+            "C": "El 100% de los estándares del grupo I y del grupo II, y un cumplimiento mayor del 70% de los estándares del grupo III.",
+            "D": "El 100% de los estándares del grupo I, 100% del grupo II y un cumplimiento mayor del 40% de los estándares del grupo III."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta11": {
+        "pregunta": "Según la Ley 2/2010, de 8 de abril, de derechos y garantías de la dignidad de la persona en el proceso de la muerte, 'la retirada o no instauración de una medida de soporte vital o de cualquier otra intervención que, dado el mal pronóstico de la persona en términos de cantidad y calidad de vida futuras, constituye, a juicio de los profesionales sanitarios implicados, algo fútil, que solo contribuye a prolongar en el tiempo una situación clínica carente de expectativas razonables de mejoría', se denomina:",
+        "opciones": {
+            "A": "Supresión de las medidas de soporte vital.",
+            "B": "Eutanasia.",
+            "C": "Limitación del esfuerzo terapéutico.",
+            "D": "Sedación paliativa."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta12": {
+        "pregunta": "La prestación de la ayuda para morir según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, se podrá realizar en:",
+        "opciones": {
+            "A": "Centros sanitarios públicos.",
+            "B": "Centros sanitarios privados o concertados.",
+            "C": "En el domicilio del paciente.",
+            "D": "Todas las opciones anteriores son ciertas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta13": {
+        "pregunta": "¿Qué debe incluir la solicitud de reclamación de responsabilidad patrimonial que realicen los interesados en el Servicio Andaluz de Salud?",
+        "opciones": {
+            "A": "Una declaración jurada de los hechos sin necesidad de pruebas.",
+            "B": "Las lesiones producidas, la presunta relación de causalidad entre éstas y el funcionamiento del servicio público y la evaluación económica de la responsabilidad patrimonial.",
+            "C": "Solo el informe médico y la descripción de los daños.",
+            "D": "No es preciso aportar documentación, salvo la identificación del interesado."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta14": {
+        "pregunta": "¿Qué plazo tiene la Administración para resolver y notificar al interesado una reclamación de responsabilidad patrimonial?",
+        "opciones": {
+            "A": "3 meses.",
+            "B": "6 meses.",
+            "C": "9 meses.",
+            "D": "12 meses."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta15": {
+        "pregunta": "Según la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, la formación de Especialistas en Ciencias de la Salud será incompatible con:",
+        "opciones": {
+            "A": "Cualquier actividad formativa, si ésta se desarrolla dentro de la jornada laboral de la relación laboral especial del residente.",
+            "B": "Actividad formativa organizada por la Comisión de Formación Continuada, esté dentro o fuera de la jornada laboral de la relación laboral especial del residente.",
+            "C": "Actividad formativa impartida por empresas privadas.",
+            "D": "Ninguna de las respuestas anteriores es correcta."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta16": {
+        "pregunta": "En la gestión hospitalaria, ¿qué sistema de clasificación agrupa a los pacientes en categorías basadas en diagnósticos y procedimientos similares con parecido consumo de recursos?",
+        "opciones": {
+            "A": "Grupos Relacionados por el Diagnóstico (GRD).",
+            "B": "Índice de Severidad de la Enfermedad.",
+            "C": "Sistema de Clasificación de Pacientes (PCS).",
+            "D": "Escala de Comorbilidad de Charlson."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta17": {
+        "pregunta": "En relación a las Unidades de Gestión Clínica, señale la respuesta INCORRECTA:",
+        "opciones": {
+            "A": "Son unidades orgánicas sin personalidad jurídica propia, con autonomía para la organización y gestión de los recursos humanos y materiales que se les asignen.",
+            "B": "Le corresponde prestar la asistencia sanitaria propia de su ámbito y nivel asistencial.",
+            "C": "Podrán constituirse por uno o varios Equipos de Atención Primaria, o por uno o varios Servicios o Secciones de un Hospital o Complejo Asistencial.",
+            "D": "Dependerán orgánicamente de la Delegación de Salud de la que dependa el Centro o Institución Sanitaria en el que se constituyan."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta18": {
+        "pregunta": "¿Cómo se calcula el valor predictivo negativo de una prueba diagnóstica?",
+        "opciones": {
+            "A": "Dividiendo el número de verdaderos positivos entre la suma de verdaderos positivos y falsos negativos.",
+            "B": "Dividiendo el número de verdaderos negativos entre la suma de verdaderos negativos y falsos negativos.",
+            "C": "Dividiendo el número de verdaderos positivos entre la suma de verdaderos positivos y falsos positivos.",
+            "D": "Dividiendo el número de verdaderos negativos entre la suma de verdaderos negativos y falsos positivos."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta19": {
+        "pregunta": "Las variables que no pueden tener valores intermedios o fraccionarios entre dos números enteros se denominan:",
+        "opciones": {
+            "A": "Variables cualitativas ordinales.",
+            "B": "Variables cuantitativas continuas.",
+            "C": "Variables cuantitativas discretas.",
+            "D": "Variables cualitativas policotómicas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta20": {
+        "pregunta": "Según la Ley de investigación biomédica (Ley 14/2007, de 3 de julio), en el caso de la investigación con células y tejidos destinados a su aplicación en el ser humano, los datos para garantizar la trazabilidad deben conservarse durante al menos:",
+        "opciones": {
+            "A": "Cinco años.",
+            "B": "Diez años.",
+            "C": "Veinte años.",
+            "D": "Treinta años."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta21": {
+        "pregunta": "La herramienta que ofrece un marco para evaluar la calidad de las guías de práctica clínica, proporciona una estrategia metodológica para su desarrollo y establece qué información y cómo debe de ser presentada en las guías se denomina:",
+        "opciones": {
+            "A": "Sistema GRADE.",
+            "B": "Instrumento AGREE II.",
+            "C": "Clasificación SING.",
+            "D": "Sistema APACHE."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta22": {
+        "pregunta": "El 'conjunto de estrategias que ordenan las intervenciones más adecuadas para la prevención y el manejo de un problema y de sus factores determinantes con el fin de conseguir una reducción en la carga de enfermedad en la población y una mejora de la calidad de vida de las personas afectadas por un problema de salud', es la definición de:",
+        "opciones": {
+            "A": "Proceso Asistencial Integrado.",
+            "B": "Plan Integral de Salud.",
+            "C": "Plan de Cuidados Estandarizados.",
+            "D": "Guía de Práctica Clínica."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta23": {
+        "pregunta": "¿Qué principio de la Bioética hace referencia a minimizar la posibilidad de realizar un daño o un perjuicio innecesario cuando una actuación no está adecuadamente compensada con los potenciales beneficios que ésta pueda tener?",
+        "opciones": {
+            "A": "No maleficencia.",
+            "B": "Beneficencia.",
+            "C": "Autonomía.",
+            "D": "Justicia."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta24": {
+        "pregunta": "¿Cuál de las siguientes es una enfermedad de declaración obligatoria urgente?",
+        "opciones": {
+            "A": "Gripe.",
+            "B": "Carbunco.",
+            "C": "Anisakiasis.",
+            "D": "Brucelosis."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta25": {
+        "pregunta": "Cuando hablamos de perspectiva de género, ¿a qué nos referimos?",
+        "opciones": {
+            "A": "A que las mujeres viven más años que los hombres y con una mayor calidad de vida.",
+            "B": "A la existencia de un obstáculo invisible que impide el progreso profesional de las mujeres, sobre todo cuando se acercan a la cumbre.",
+            "C": "A una herramienta conceptual que busca mostrar que las diferencias entre mujeres y hombres se dan no solo por su determinación biológica, sino también por las diferencias culturales asignadas a los seres humanos.",
+            "D": "Que existen diferencias exclusivamente biológicas entre hombres y mujeres."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta26": {
+        "pregunta": "De acuerdo con el Protocolo Andaluz para la Actuación Sanitaria ante la Violencia de Género del Servicio Andaluz de Salud, ¿cuál de las siguientes actividades forma parte de las actividades de prevención que pueden realizar los servicios sanitarios?",
+        "opciones": {
+            "A": "Llevar a cabo sesiones clínicas multidisciplinares sobre casos reales que hayan sido abordados en el centro o servicio.",
+            "B": "Colaborar con el entorno escolar para favorecer modelos coeducativos eficaces como forma de prevención de la violencia hacia las mujeres.",
+            "C": "Incluir, en las actividades de educación para la salud y en los grupos de educación maternal, contenidos de sensibilización y prevención de la violencia contra las mujeres.",
+            "D": "Todas las anteriores son actividades de prevención que pueden realizar los servicios sanitarios."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta27": {
+        "pregunta": "En relación a la acreditación de profesionales de la Agencia de Calidad Sanitaria de Andalucía, 'el conjunto de comportamientos observables y medibles, que ponen de manifiesto la presencia de una competencia', se denomina:",
+        "opciones": {
+            "A": "Evidencia.",
+            "B": "Buena práctica.",
+            "C": "Prueba.",
+            "D": "Habilidad."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta28": {
+        "pregunta": "¿Cuál de los siguientes NO es un recurso para obtener información en Ciencias de la Salud?",
+        "opciones": {
+            "A": "Biblioteca Cochrane Plus.",
+            "B": "CINAHL (Cumulative index to nursing and allied health literature).",
+            "C": "OCTOPUS.",
+            "D": "MEDLINE."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta29": {
+        "pregunta": "Diraya es el sistema informático que el Sistema Sanitario Público Andaluz utiliza como soporte de la información y gestión de la atención sanitaria. Todos los siguientes son componentes de Diraya, EXCEPTO:",
+        "opciones": {
+            "A": "Historia de Salud.",
+            "B": "Base de datos de usuarios (BDU).",
+            "C": "Módulo de acceso centralizado de operadores (MACO).",
+            "D": "Base Poblacional de Salud (BPS)."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta30": {
+        "pregunta": "Los plazos máximos de respuesta para la atención sanitaria, recogidos en el Decreto 96/2004, de 9 de marzo, por el que se establece la garantía de plazo de respuesta en procesos asistenciales, primeras consultas de asistencia especializada y procedimientos diagnósticos en el Sistema Sanitario Público de Andalucía, son los siguientes:",
+        "opciones": {
+            "A": "Procesos asistenciales: 45 días. Primeras consultas de asistencia especializada: 60 días. Y procedimientos diagnósticos: 30 días.",
+            "B": "Procesos Asistenciales: el plazo establecido para cada proceso en el Anexo I del Decreto, existiendo algunos sujetos a garantía de 30 días y otros a 60 días. Primeras consultas de asistencia especializada: 60 días. Y procedimientos diagnósticos: 30 días.",
+            "C": "Procesos asistenciales: 30 días. Primeras consultas de asistencia especializada: 30 días. Y procedimientos diagnósticos: 30 días.",
+            "D": "Procesos asistenciales: 60 días. Primeras consultas de asistencia especializada: 60 días. Y procedimientos diagnósticos: 60 días."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta31": {
+        "pregunta": "Según la Orden de 12 de noviembre de 2015, que regula el Sistema de Vigilancia Epidemiológica en la Comunidad Autónoma de Andalucía, ¿cuál sería una enfermedad de declaración obligatoria urgente?",
+        "opciones": {
+            "A": "Shigellosis.",
+            "B": "Leptospirosis.",
+            "C": "Botulismo.",
+            "D": "Criptosporidiasis."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta32": {
+        "pregunta": "¿Cómo se denomina la probabilidad de que un individuo se beneficie de la aplicación de una intervención sanitaria (tratamiento, tecnología, programa o política) para la resolución de un problema de salud determinado bajo condiciones reales de intervención?",
+        "opciones": {
+            "A": "Eficacia.",
+            "B": "Efectividad.",
+            "C": "Eficiencia.",
+            "D": "Equidad."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta33": {
+        "pregunta": "¿Cuál de los siguientes epígrafes NO está incluido en el apartado de Material y Métodos de un Protocolo de Investigación en Salud?",
+        "opciones": {
+            "A": "Criterios de inclusión y exclusión de participantes.",
+            "B": "Cálculo del tamaño muestral.",
+            "C": "Objetivos.",
+            "D": "Diseño del estudio."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta34": {
+        "pregunta": "¿Cómo se define la 'competencia profesional', según la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud?",
+        "opciones": {
+            "A": "La actitud del profesional sanitario para seleccionar los conocimientos, habilidades y aptitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le planteen.",
+            "B": "La aptitud del profesional sanitario para integrar y aplicar los conocimientos, habilidades y actitudes asociados a las buenas prácticas de su profesión para resolver los problemas que se le plantean.",
+            "C": "La capacidad del profesional sanitario para identificar los conocimientos, habilidades, actitudes y comportamientos asociados a las buenas prácticas de su profesión y analizar los problemas que se le planteen.",
+            "D": "La habilidad del profesional sanitario para interpretar los conocimientos y actitudes asociados a las buenas prácticas de su profesión."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta35": {
+        "pregunta": "¿Qué entidad es responsable de coordinar la homologación y el reconocimiento del desarrollo profesional, según la Ley 44/2003, de ordenación de las profesiones sanitarias?",
+        "opciones": {
+            "A": "Los colegios profesionales nacionales.",
+            "B": "Las universidades y centros educativos.",
+            "C": "El Consejo Interterritorial del Sistema Nacional de Salud.",
+            "D": "Los sindicatos sanitarios."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta36": {
+        "pregunta": "Según Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál de los siguientes es un requisito INCORRECTO para recibir la prestación de ayuda a morir?",
+        "opciones": {
+            "A": "Tener la nacionalidad española o residencia legal en España o certificado de empadronamiento que acredite un tiempo de permanencia en territorio español de al menos 6 meses.",
+            "B": "Prestar consentimiento informado previamente a recibir la prestación de ayuda para morir. Dicho consentimiento se incorporará a la historia clínica del paciente.",
+            "C": "Haber formulado dos solicitudes de manera voluntaria y por escrito, o por otro medio que permita dejar constancia, y que no sea el resultado de ninguna presión externa, dejando una separación de al menos quince días naturales entre ambas.",
+            "D": "Sufrir una enfermedad grave e incurable o un padecimiento grave, crónico e imposibilitante."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta37": {
+        "pregunta": "La protección de las personas físicas en relación con el tratamiento de datos personales es un derecho fundamental que está reconocido y protegido en la vigente Constitución Española, concretamente en su artículo:",
+        "opciones": {
+            "A": "16.",
+            "B": "18.",
+            "C": "20.",
+            "D": "26."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta38": {
+        "pregunta": "Según la Ley para la igualdad efectiva de mujeres y hombres (Ley Orgánica 3/2007, de 22 de marzo), el órgano colegiado de consulta y asesoramiento, con el fin esencial de servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad de trato y de oportunidades entre mujeres y hombres, y la lucha contra la discriminación por razón de sexo, se denomina:",
+        "opciones": {
+            "A": "La Comisión Interministerial de Igualdad entre Mujeres y Hombres.",
+            "B": "Las Unidades Ministeriales de Igualdad.",
+            "C": "El Consejo de Participación de la Mujer.",
+            "D": "El Instituto Nacional de la Mujer."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta39": {
+        "pregunta": "El Comité de Seguridad y Salud (CSS) es el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos. Se constituirá en todas las empresas o centros de trabajo que cuenten:",
+        "opciones": {
+            "A": "Con 25 o más trabajadores.",
+            "B": "Con 50 o más trabajadores.",
+            "C": "Con 75 o más trabajadores.",
+            "D": "Con 100 o más trabajadores."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta40": {
+        "pregunta": "El personal estatutario del Servicio Andaluz de Salud que se encuentre en situación de excedencia voluntaria por interés particular:",
+        "opciones": {
+            "A": "No devengara retribuciones, ni les será computable el tiempo que permanezca en tal situación a efectos de ascensos, trienios y derechos en el régimen de seguridad social que les sea de aplicación.",
+            "B": "No devengara retribuciones, pero sí les será computable el tiempo que permanezca en tal situación a efectos solo de trienios.",
+            "C": "No devengara retribuciones, pero sí les será computable el tiempo que permanezca en tal situación a efectos de ascensos, trienios y derechos en el régimen de seguridad social que les sea de aplicación.",
+            "D": "Devengara sólo las retribuciones del nivel de carrera profesional alcanzado."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta41": {
+        "pregunta": "Según la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud (SNS), son principios generales de la misma recogidos en su artículo 2 todos los siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "El aseguramiento parcial y público del SNS por parte del Estado.",
+            "B": "La prestación de una atención integral a la salud, comprensiva tanto de su promoción como de la prevención de enfermedades, de la asistencia y de la rehabilitación, procurando un alto nivel de calidad, en los términos previstos en esta ley y en la Ley General de Salud Pública.",
+            "C": "La igualdad de oportunidades y la libre circulación de los profesionales en el conjunto del SNS.",
+            "D": "La colaboración entre los servicios sanitarios públicos y privados en la prestación de servicios a los usuarios del SNS."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta42": {
+        "pregunta": "Las Administraciones Públicas de Andalucía, en el establecimiento de las políticas y el desarrollo de las actuaciones para mejorar la salud de la ciudadanía, y en los términos previstos en la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, se regirán por los siguientes principios, EXCEPTO:",
+        "opciones": {
+            "A": "La protección de la salud de la ciudadanía.",
+            "B": "Principio de solidaridad.",
+            "C": "Principio de transparencia.",
+            "D": "Principio de suficiencia."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta43": {
+        "pregunta": "El ejercicio del derecho a la segunda opinión médica está reconocido a las personas residentes en Andalucía, con aseguramiento sanitario público y que cumplan, además, ¿con cuál de los siguientes requisitos?",
+        "opciones": {
+            "A": "Que no se requiera un tratamiento urgente o inmediato.",
+            "B": "No haber efectuado anteriormente, la persona solicitante o su representante, otra solicitud de segunda opinión médica para el mismo proceso asistencial.",
+            "C": "La enfermedad o el tratamiento propuesto para la persona solicitante le ha sido diagnosticado en cualquier centro dependiente del Servicio Andaluz de Salud.",
+            "D": "Todas las respuestas anteriores son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta44": {
+        "pregunta": "La Ley 44/2003 de ordenación de profesiones sanitarias, establece que para el ejercicio de una profesión serán requisitos imprescindibles:",
+        "opciones": {
+            "A": "Los Especialistas en Ciencias de la Salud precisaran al menos cuatro años de ejercicio profesional, para obtener un nuevo título de especialista, en la especialidad del mismo tronco que la que posean.",
+            "B": "No prestar servicios conjuntos en dos o más centros, aun cuando mantengan su vinculación a uno solo de ellos.",
+            "C": "Estar colegiado en una profesión titulada o algunas actividades propias de ésta.",
+            "D": "El consentimiento del titular, para la consulta de los datos de carácter personal por el Registro Estatal de Profesionales Sanitarios."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta45": {
+        "pregunta": "De los siguientes términos aplicados en salud, ¿cuál es el que relaciona los máximos beneficios obtenidos con el mínimo coste?",
+        "opciones": {
+            "A": "Eficacia.",
+            "B": "Eficiencia.",
+            "C": "Case-mix.",
+            "D": "Efectividad."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta46": {
+        "pregunta": "La herramienta que integra los objetivos anuales del Servicio Andaluz de Salud, enmarcados en el planteamiento de una sanidad pública gestionada con los profesionales, basada en los resultados en salud y orientada a prestar la mejor asistencia posible a los pacientes, de las siguientes opciones es:",
+        "opciones": {
+            "A": "El Contrato Programa.",
+            "B": "El Acuerdo de Gestión.",
+            "C": "El Programa de Salud.",
+            "D": "La Unidad de Gestión."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta47": {
+        "pregunta": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la responsabilidad concurrente de las Administraciones Públicas:",
+        "opciones": {
+            "A": "Intervienen varias administraciones en la producción del daño.",
+            "B": "La administración competente asumirá la totalidad de la cuantía de la indemnización.",
+            "C": "La administración pública competente no precisará consultar a las restantes administraciones.",
+            "D": "La administración pública competente deberá consultar a las restantes administraciones para que, en un plazo de 30 días, expongan cuanto consideren procedente."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta48": {
+        "pregunta": "Según la vigente Estrategia de formación del Sistema Sanitario Público de Andalucía 2022-2025, se plantean cinco 'Líneas maestras'. Señale la que NO corresponda a una de ellas:",
+        "opciones": {
+            "A": "Entrenamiento en espacios sanitarios y socio-sanitarios para la formación en nuevas técnicas asistenciales mediante la práctica real.",
+            "B": "Innovación docente para el desarrollo de nuevas competencias y la mejora continua de las competencias y capacidades propias de la profesión a través de la personalización y la flexibilidad.",
+            "C": "Co-creación para el desarrollo de las actividades formativas haciendo partícipes a los profesionales, las sociedades científicas y otros agentes de los procesos formativos.",
+            "D": "Colaboración público-privada para mejorar el rendimiento y eficiencia, la experiencia de los profesionales y aportar valor a los procesos, permitiendo un acceso igualitario y equitativo a la sanidad."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta49": {
+        "pregunta": "En el Servicio Andaluz de Salud, el sistema de contabilidad analítica de gestión, que integra datos de costes, actividad y profesionales, se conoce por:",
+        "opciones": {
+            "A": "DIRAYA.",
+            "B": "SIGLO.",
+            "C": "GERHONTE.",
+            "D": "COAN."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta50": {
+        "pregunta": "El Contrato Programa 2025 entre el Servicio Andaluz de Salud y sus centros sanitarios e instituciones sanitarias que le están adscritas, se estructura en torno a tres perspectivas fundamentales que guían sus objetivos estratégicos y marcan la hoja de ruta para los próximos años. ¿Cuáles son estas tres perspectivas?",
+        "opciones": {
+            "A": "Accesibilidad, resultados en salud y eficiencia.",
+            "B": "Investigación e innovación, seguridad clínica y eficiencia.",
+            "C": "Responsabilidad corporativa, transparencia y acreditación de la calidad.",
+            "D": "Excelencia, control del gasto y resultados asistenciales."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta51": {
+        "pregunta": "Una medida del esfuerzo terapéutico, que se calcula en los estudios de intervención como el recíproco de la reducción absoluta del riesgo, se conoce por:",
+        "opciones": {
+            "A": "Riesgo relativo porcentual (RR%).",
+            "B": "Odds ratio ajustado (ORa).",
+            "C": "Regresión con riesgos proporcionales (RRp) de Cox.",
+            "D": "Número (de pacientes) necesario para tratar (NNT)."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta52": {
+        "pregunta": "La investigación cualitativa es un tipo de investigación cuya finalidad es proporcionar una mayor comprensión, significados e interpretación subjetiva que el hombre da a sus creencias, motivaciones y actividades culturales, a través de diferentes diseños de investigación, entre cuyas características más sobresalientes se encuentran todas las siguientes, EXCEPTO:",
+        "opciones": {
+            "A": "La tarea primordial del investigador es entender e interpretar el mundo de los participantes en base a sus experiencias y visiones del entorno donde se desenvuelven.",
+            "B": "El investigador y los participantes interactúan de manera constante y dinámica durante todas las etapas de la investigación.",
+            "C": "Los objetivos del estudio se establecen a priori y determinan el tamaño muestral, a criterio del investigador, para reducir la variabilidad que podría generarse -durante el desarrollo del estudio- de la interacción del investigador con los sujetos significantes.",
+            "D": "La investigación cualitativa no parte de supuestos verificables o hipótesis, ni de variables medibles cuantitativamente, ya que analiza información de carácter subjetiva que no es posible detectar a través de los sentidos y la inducción (afecto, valores culturales y motivaciones, entre otros)."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta53": {
+        "pregunta": "¿Cuál de los siguientes es un apartado del 'Protocolo de Investigación', documento que debe enviarse preceptivamente para su análisis y aprobación a un Comité de Ética de la Investigación (CEI) previo al desarrollo de cualquier investigación con seres humanos o sus muestras biológicas?",
+        "opciones": {
+            "A": "Resultados.",
+            "B": "Cronograma y plan de trabajo.",
+            "C": "Discusión.",
+            "D": "Todos los anteriores son apartados de un Protocolo de Investigación."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta54": {
+        "pregunta": "La aplicación corporativa informática no asistencial del SAS que permite a los profesionales gestionar los pedidos del material necesario en los centros de consumo, se denomina:",
+        "opciones": {
+            "A": "GIRO.",
+            "B": "SIGLO.",
+            "C": "SICATA.",
+            "D": "ATHOS."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta55": {
+        "pregunta": "¿A qué hace referencia el Principio Bioético de Justicia?",
+        "opciones": {
+            "A": "A un Principio fundamental de la Bioética que procura el reparto equitativo de los beneficios y las cargas, facilitando un acceso no discriminatorio, adecuado y suficiente de las personas y comunidades a los recursos disponibles, y un uso eficiente de los mismos.",
+            "B": "A un Principio fundamental de la Bioética que se define como la obligación de no producir daño y prevenirlo.",
+            "C": "A un Principio fundamental de la Bioética que defiende que las personas y las comunidades gestionen su propia vida y tomen decisiones respecto a su salud y su enfermedad de manera informada.",
+            "D": "A un Principio de 'segunda generación', ya que se caracteriza por fomentar la participación de la ciudadanía en la toma de decisiones que afectan a su salud."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta56": {
+        "pregunta": "En la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, se recoge que las actuaciones de promoción de salud se dirigirán a todas las etapas de la vida de las personas, e irán destinadas a promover la salud física y mental, mejorando la competencia de las personas y acondicionando sus entornos. Señale la INCORRECTA en relación a estas actuaciones:",
+        "opciones": {
+            "A": "Fomentar la recuperación de la trayectoria vital de las personas, de la propia estima y del valor social de la persona, en relación con las personas que vean truncado su proyecto de vida por sufrir un problema mental o físico.",
+            "B": "La actividad física pueda ser equilibrada y se fomente la lactancia materna.",
+            "C": "El envejecimiento sea activo y se fomente la autonomía de las personas.",
+            "D": "Diagnóstico precoz de las enfermedades congénitas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta57": {
+        "pregunta": "La Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, contempla varias medidas en el ámbito de la salud, entre las que se encuentra:",
+        "opciones": {
+            "A": "Prohibición de terapias de conversión.",
+            "B": "Medidas de protección contra el ciberacoso.",
+            "C": "Deporte, actividad física y educación deportiva.",
+            "D": "Protección frente a la discriminación de las familias LGTBI."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta58": {
+        "pregunta": "La herramienta para la gestión de los planes de formación continuada de profesionales del Servicio Andaluz de Salud es:",
+        "opciones": {
+            "A": "PortalEIR.",
+            "B": "SISEP.",
+            "C": "GESFORMA.",
+            "D": "Campus Virtual de Docencia de la Escuela Andaluza de Salud Pública."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta59": {
+        "pregunta": "Para comenzar el Proceso de Certificación de Competencias Profesionales establecido por la Agencia de Calidad Sanitaria de Andalucía, es necesario:",
+        "opciones": {
+            "A": "Un certificado que indique que el profesional realiza las funciones correspondientes a la Intervención Avanzada de su puesto de trabajo.",
+            "B": "Estar en activo en el centro de trabajo donde se desarrollan las competencias.",
+            "C": "Llevar al menos doce meses ininterrumpidos en el mismo puesto de trabajo en el que se desarrollan las competencias.",
+            "D": "Que el puesto de trabajo disponga de una sistemática de trabajo acreditada por la comisión de calidad del centro."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta60": {
+        "pregunta": "Una de las herramientas que se utiliza en el ámbito hospitalario para la gestión de la complejidad de la casuística, es:",
+        "opciones": {
+            "A": "Cálculo de costes.",
+            "B": "Case-Mix.",
+            "C": "GRD (grupos relacionados por diagnóstico).",
+            "D": "Estancias medias."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta61": {
+        "pregunta": "En el Servicio Andaluz de Salud, el registro administrativo que contiene un conjunto de variables clínicas, demográficas y administrativas que resumen lo acontecido a un usuario en un episodio de asistencia hospitalaria, se denomina:",
+        "opciones": {
+            "A": "BDU Andalucía.",
+            "B": "OUTPUTS.",
+            "C": "INPUTS.",
+            "D": "CMBD Andalucía."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta62": {
+        "pregunta": "Según la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, los titulares del derecho a la protección a la salud y a la atención sanitaria son:",
+        "opciones": {
+            "A": "Todas las personas con nacionalidad española y las personas extranjeras que tengan establecida su residencia en el territorio español.",
+            "B": "Todas las personas con nacionalidad española y las personas extranjeras que pernocten en España.",
+            "C": "Todas las personas con nacionalidad española y las personas extranjeras.",
+            "D": "Solo las personas con nacionalidad española."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta63": {
+        "pregunta": "Según el Decreto 77/2008 de 4 de marzo, de ordenación administrativa y funcional de los servicios de salud mental en el ámbito del Servicio Andaluz de Salud, ¿cuál de los siguientes dispositivos se corresponden a los descritos en la estructura de atención especializada en salud mental?",
+        "opciones": {
+            "A": "Unidad de Salud Mental Comunitaria.",
+            "B": "Unidad de Hospitalización de Salud Mental.",
+            "C": "Hospital de Día de Salud Mental.",
+            "D": "Todos son dispositivos de atención especializada de Salud Mental."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta64": {
+        "pregunta": "¿Qué derecho fundamental reconoce el artículo 15 de la Constitución Española?",
+        "opciones": {
+            "A": "Derecho a la educación.",
+            "B": "Derecho a la vida.",
+            "C": "Derecho al trabajo.",
+            "D": "Derecho a la libertad religiosa."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta65": {
+        "pregunta": "Según la Ley 14/1986, de 25 de abril, General de Sanidad, ¿cuál es la unidad básica del sistema sanitario público en el ámbito territorial?",
+        "opciones": {
+            "A": "El municipio.",
+            "B": "El distrito sanitario.",
+            "C": "El área de salud.",
+            "D": "La provincia sanitaria."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta66": {
+        "pregunta": "¿A partir de qué edad puede un menor prestar por sí mismo su consentimiento al tratamiento de datos personales, según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales?",
+        "opciones": {
+            "A": "13 años.",
+            "B": "14 años.",
+            "C": "16 años.",
+            "D": "18 años."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta67": {
+        "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, ¿cuál es uno de los principios básico de la acción preventiva?",
+        "opciones": {
+            "A": "Fomentar la actividad sindical en el entorno laboral.",
+            "B": "Adoptar medidas que antepongan la protección individual a la colectiva.",
+            "C": "Evitar los riesgos en su origen y evaluar los que no se puedan evitar.",
+            "D": "Priorizar los intereses económicos de la empresa sobre la seguridad laboral."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta68": {
+        "pregunta": "Respecto al acceso a la historia clínica, ¿quién tiene derecho a acceder a la misma según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica?",
+        "opciones": {
+            "A": "Solo el médico responsable y el director del centro.",
+            "B": "Cualquier familiar del paciente.",
+            "C": "El paciente y el personal sanitario directamente implicado en su proceso.",
+            "D": "Todas las opciones anteriores son correctas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta69": {
+        "pregunta": "¿Qué derecho individual se reconoce al personal estatutario en el artículo 17 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud?",
+        "opciones": {
+            "A": "El derecho a solicitar traslado a cualquier Comunidad Autónoma sin oposición.",
+            "B": "El derecho a la promoción interna y desarrollo profesional.",
+            "C": "El derecho a rechazar los turnos rotatorios por razones personales.",
+            "D": "El derecho a negociar directamente con la Administración condiciones salariales individuales."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Comunes 2025_pregunta70": {
+        "pregunta": "¿Qué herramienta utiliza la Agencia de Calidad Sanitaria de Andalucía (ACSA) para gestionar la autoevaluación de las Unidades de Gestión, donde se pueden recoger las evidencias positivas, las áreas de mejora y los documentos que dan respuesta a los estándares?",
+        "opciones": {
+            "A": "EVal.",
+            "B": "SISQual.",
+            "C": "Mejora_P.",
+            "D": "ME_jora C."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta71": {
+        "pregunta": "¿Cuál es uno de los objetivos principales del escenario denominado 'Ciudadanía' en el Plan de Calidad?",
+        "opciones": {
+            "A": "Adecuar las plantillas de profesionales a la demanda de servicios sanitarios de la población.",
+            "B": "Reducir costes en los servicios sanitarios.",
+            "C": "Mejorar la Atención Hospitalaria y la Atención Primaria de Salud.",
+            "D": "Promover la participación activa y la autonomía de la persona en su salud."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta72": {
+        "pregunta": "Según el Artículo 16 de la Ley 4/2023, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, ¿qué se establece sobre el acceso a técnicas de reproducción asistida para mujeres lesbianas o bisexuales?",
+        "opciones": {
+            "A": "Acceso exclusivo a mujeres con pareja.",
+            "B": "Acceso individual simultáneo a los dos miembros de la pareja.",
+            "C": "Restricciones en casos de fertilidad.",
+            "D": "Acceso en igualdad de condiciones con el resto de mujeres."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta73": {
+        "pregunta": "Según la Estrategia de Formación del Sistema Sanitario Público de Andalucía (SSPA) 2022-2025, ¿cuál de las siguientes es una línea maestra definida en la misma?",
+        "opciones": {
+            "A": "Rediseño de actividades formativas.",
+            "B": "Potenciación de los proveedores de formación del SSPA.",
+            "C": "Acuerdos con la Comisión de Formación Continuada de las Profesiones Sanitarias.",
+            "D": "Entrenamiento, como espacio seguro."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta74": {
+        "pregunta": "Según los manuales para la acreditación de competencias profesionales del SSPA, para obtener una certificación de nivel experto, un profesional debe cumplir la siguiente relación de estándares:",
+        "opciones": {
+            "A": "Un 70% de estándares del grupo I (incluyendo todos los obligatorios) y un 50% del grupo II.",
+            "B": "Un 80% de estándares del grupo I (incluyendo todos los obligatorios) y un 60% del grupo II.",
+            "C": "Un 70% de estándares del grupo I (incluyendo todos los obligatorios) y un 70% del grupo II.",
+            "D": "Un 70% de estándares del grupo I (incluyendo todos los obligatorios)."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta75": {
+        "pregunta": "En un paciente diagnosticado de insuficiencia cardíaca, la prescripción de ejercicio físico para mejorar su capacidad funcional, se considera una medida de prevención:",
+        "opciones": {
+            "A": "Primaria.",
+            "B": "Secundaria.",
+            "C": "Terciaria.",
+            "D": "Cuaternaria."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta76": {
+        "pregunta": "El término “indicador de salud” hace referencia a (señale la opción INCORRECTA):",
+        "opciones": {
+            "A": "Una característica relacionada con la salud de un individuo o de una población.",
+            "B": "En salud pública y en planificación sanitaria los indicadores de salud de la población son utilizados para poner de manifiesto la magnitud de un problema de salud.",
+            "C": "No permiten reflejar el cambio en el nivel de salud de una población a lo largo del tiempo.",
+            "D": "Sirven para mostrar diferencias en la salud entre diferentes poblaciones."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta77": {
+        "pregunta": "Al seleccionar los sujetos participantes en una investigación cualitativa, estaría justificado emplear uno de los siguientes métodos de muestreo:",
+        "opciones": {
+            "A": "Muestreo nominado.",
+            "B": "Muestreo aleatorio simple.",
+            "C": "Muestreo sistemático con arranque aleatorio.",
+            "D": "Muestreo aleatorio estratificado."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Comunes 2025_pregunta78": {
+        "pregunta": "¿Qué entidad u órgano es responsable de coordinar los Comités de Ética de la Investigación (CEIs) en Andalucía?",
+        "opciones": {
+            "A": "La Consejería de Salud y Consumo.",
+            "B": "La Agencia Española del Medicamento.",
+            "C": "El Comité de Bioética de Andalucía.",
+            "D": "La Fundación Pública Andaluza Progreso y Salud."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Comunes 2025_pregunta79": {
+        "pregunta": "¿Cuál de los siguientes diseños de investigación es más adecuado para establecer relaciones causales entre variables?",
+        "opciones": {
+            "A": "Estudios descriptivos transversales.",
+            "B": "Estudios de casos y controles.",
+            "C": "Estudios de cohortes retrospectivos.",
+            "D": "Ensayos clínicos aleatorizados."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Comunes 2025_pregunta80": {
+        "pregunta": "Según el portal GuiaSalud, donde se encuentra el Catálogo de Guías de Práctica Clínica del Sistema Nacional de Salud, al 'conjunto de recomendaciones basadas en una revisión sistemática de la evidencia y en la evaluación de los riesgos y beneficios de las diferentes alternativas, con el objetivo de optimizar la atención sanitaria a los pacientes' es lo que se conoce como:",
+        "opciones": {
+            "A": "Guía de Práctica Clínica.",
+            "B": "Vía Clínica.",
+            "C": "Procedimiento Normalizado de Trabajo.",
+            "D": "Guía de Actuación Compartida."
+        },
+        "respuesta_correcta": "A"
+    },
+"Comunes 2025_pregunta81": {
+    "pregunta": "¿Cuál de los siguientes apartados NO está incluido en la descripción del Proceso Asistencial Integrado (PAI)?",
+    "opciones": {
+        "A": "Las competencias profesionales específicas.",
+        "B": "Las expectativas específicas de las personas destinatarias.",
+        "C": "Los Indicadores de calidad.",
+        "D": "El documento de implantación del PAI."
+    },
+    "respuesta_correcta": "D"
+},
+
+"Comunes 2025_pregunta82": {
+    "pregunta": "¿Cuál de las siguientes opciones se considera una característica de un Plan Integral de Salud?",
+    "opciones": {
+        "A": "Tiene como fin conseguir la reducción en la carga de enfermedad y mejorar la calidad de vida de las personas afectadas por un problema de salud.",
+        "B": "No incluyen las intervenciones para la prevención del problema de salud.",
+        "C": "Puede ser aplicable en cualquier población que presente el mismo problema de salud.",
+        "D": "Sólo incluye las estrategias a desarrollar en el ámbito de la salud."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta83": {
+    "pregunta": "¿Cuál de las siguientes afirmaciones NO es correcta en relación a la hipótesis de un estudio de investigación?",
+    "opciones": {
+        "A": "La hipótesis alternativa (H1) establece que existen diferencias reales entre los grupos comparados.",
+        "B": "Para el contraste de hipótesis, la hipótesis nula (H0) en general se establece con el propósito de ser rechazada.",
+        "C": "Los estudios descriptivos no requieren formulación de hipótesis.",
+        "D": "Cometemos un error tipo I cuando no encontramos diferencias entre H0 y H1 cuando realmente las hay."
+    },
+    "respuesta_correcta": "D"
+},
+
+"Comunes 2025_pregunta84": {
+    "pregunta": "Dentro de las variables que hemos recogido se encuentra el nivel socioeconómico de los sujetos de estudio, establecido en 5 estratos atendiendo a los ingresos anuales: muy bajo, bajo, medio, alto y muy alto. ¿Qué tipo de variable sería atendiendo a esta escala de medición?",
+    "opciones": {
+        "A": "Variable cuantitativa continua.",
+        "B": "Variable cualitativa ordinal.",
+        "C": "Variable cuantitativa discreta.",
+        "D": "Variable cualitativa nominal."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta85": {
+    "pregunta": "Una clave fundamental del movimiento de la Práctica Basada en la Evidencia es:",
+    "opciones": {
+        "A": "La Colaboración Cochrane.",
+        "B": "La Declaración de Ginebra.",
+        "C": "El Código de Hammurabi.",
+        "D": "El Código de Ginebra."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta86": {
+    "pregunta": "Según el Artículo 1 de la Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud (SNS), ¿cuál es el objeto principal de esta ley?",
+    "opciones": {
+        "A": "Establecer medidas para la privatización de los servicios sanitarios.",
+        "B": "Establecer el marco legal para las acciones de coordinación y cooperación de las Administraciones Públicas Sanitarias, en el ejercicio de sus respectivas competencias, de modo que se garantice la equidad, la calidad y la participación social en el SNS, así como la colaboración activa de éste en la reducción de las desigualdades en salud.",
+        "C": "Garantizar únicamente la financiación pública de todos los servicios sanitarios en España.",
+        "D": "Regular la gestión de hospitales privados en el territorio nacional."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta87": {
+    "pregunta": "¿Cuál es uno de los principios que rigen las actuaciones en Salud Pública, según la Ley 16/2011 de Andalucía?",
+    "opciones": {
+        "A": "La intervención sanitaria sin respetar el consentimiento informado de las personas.",
+        "B": "La equidad.",
+        "C": "La exclusión de los servicios de prevención para personas mayores de 65 años.",
+        "D": "La participación exclusiva de entidades privadas en programas de Salud Pública."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta88": {
+    "pregunta": "¿Cuál es el objetivo principal de la Agencia de Calidad Sanitaria de Andalucía (ACSA)?",
+    "opciones": {
+        "A": "Fiscalizar los gastos de los hospitales andaluces.",
+        "B": "Regular la formación de todos los profesionales sanitarios en Andalucía.",
+        "C": "Promover la mejora continua de la calidad en los servicios sanitarios y sociales de Andalucía.",
+        "D": "Controlar exclusivamente los servicios privados de salud en Andalucía."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta89": {
+    "pregunta": "¿Cuál de los siguientes es un derecho de los usuarios del Sistema Sanitario Público de Andalucía?",
+    "opciones": {
+        "A": "Derecho a elegir el tratamiento sin ninguna valoración médica.",
+        "B": "Derecho a recibir información adecuada y comprensible sobre su salud.",
+        "C": "Derecho a exigir medicamentos sin prescripción médica.",
+        "D": "Derecho a evitar las listas de espera."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta90": {
+    "pregunta": "¿En qué artículo de la vigente Constitución Española se reconoce el derecho a la responsabilidad patrimonial de las Administraciones Públicas?",
+    "opciones": {
+        "A": "Artículo 104.",
+        "B": "Artículo 106.",
+        "C": "Artículo 120.",
+        "D": "Artículo 149."
+    },
+    "respuesta_correcta": "B"
+},
+"Comunes 2025_pregunta91": {
+    "pregunta": "¿Quién certifica las competencias de los profesionales sanitarios en Andalucía, según el Modelo de Acreditación de Competencias Profesionales del SSPA?",
+    "opciones": {
+        "A": "El Ministerio de Sanidad.",
+        "B": "La Junta de Andalucía.",
+        "C": "La Agencia de Calidad Sanitaria de Andalucía (ACSA).",
+        "D": "El Consejo General de Colegios Oficiales de Médicos."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta92": {
+    "pregunta": "¿Qué diferencia principal existe entre “eficacia” y “eficiencia” en Economía de la Salud?",
+    "opciones": {
+        "A": "La eficacia se centra en el coste, mientras que la eficiencia en los resultados.",
+        "B": "No hay ninguna diferencia; ambos términos son sinónimos.",
+        "C": "La eficacia se aplica solo a hospitales, y la eficiencia a clínicas.",
+        "D": "No hay ninguna diferencia; ambos términos son sinónimos."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta93": {
+    "pregunta": "¿Cuál es la función principal de los \"Acuerdos de Gestión\" en el ámbito sanitario?",
+    "opciones": {
+        "A": "Regular los contratos de personal sanitario.",
+        "B": "Establecer objetivos de rendimiento y mejorar la calidad de los servicios de salud.",
+        "C": "Limitar el acceso a los servicios de salud.",
+        "D": "Aumentar los gastos administrativos."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta94": {
+    "pregunta": "En el Conjunto Mínimo Básico de Datos (CMBD) de Hospitalización: (Señale en esta pregunta la respuesta INCORRECTA)",
+    "opciones": {
+        "A": "Se recoge información al alta de los episodios de los pacientes ingresados.",
+        "B": "Puede incluir episodios de 0 días de estancia.",
+        "C": "Un ingreso no implica la admisión de un paciente en una unidad de hospitalización convencional con la consiguiente ocupación de una cama.",
+        "D": "Se considera que un paciente genera una estancia cuando permanece en este ámbito a la hora censal (00:00 horas)."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta95": {
+    "pregunta": "Un estudio de investigación se considera \"de tipo analítico\" cuando:",
+    "opciones": {
+        "A": "Su finalidad es evaluar una presunta relación entre un factor (de exposición, de riesgo o de protección) y un efecto, respuesta o resultado.",
+        "B": "No busca evaluar una presunta relación causa-efecto.",
+        "C": "Sus datos son utilizados con finalidades puramente descriptivas.",
+        "D": "Utiliza herramientas de análisis estadístico para describir qué ocurre, dónde y cuándo."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta96": {
+    "pregunta": "¿Qué tipo de muestra es más común en la investigación cualitativa?",
+    "opciones": {
+        "A": "Muestra probabilística aleatoria.",
+        "B": "Muestra por conveniencia.",
+        "C": "Muestra intencional o por criterios.",
+        "D": "Muestra estratificada proporcional."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta97": {
+    "pregunta": "¿Cuál es la función principal de los Biobancos según la Ley 14/2007, de investigación biomédica?",
+    "opciones": {
+        "A": "Supervisar la ética en la investigación.",
+        "B": "Proporcionar muestras biológicas para investigación.",
+        "C": "Almacenar resultados de proyectos científicos.",
+        "D": "Garantizar la financiación de estudios biomédicos."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta98": {
+    "pregunta": "¿Qué documento establece los pasos necesarios para desarrollar un proyecto de investigación en el ámbito sanitario?",
+    "opciones": {
+        "A": "El protocolo de investigación.",
+        "B": "La memoria económica del proyecto.",
+        "C": "El informe de viabilidad.",
+        "D": "La publicación final."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta99": {
+    "pregunta": "El Artículo 61 de la Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía, se refiere a la cartera de servicios de salud pública, y en su punto 1. recuerda que la cartera de servicios del SSPA será aprobada por:",
+    "opciones": {
+        "A": "El Consejo de Gobierno de la Junta de Andalucía a propuesta de la Consejería competente en materia de salud, tras el estudio de las necesidades de salud de la población y los criterios científicos relevantes de aplicación.",
+        "B": "El Presidente de la Junta de Andalucía, según su criterio.",
+        "C": "La Dirección Gerencia del SAS, tras el estudio de las necesidades de salud de la población y los criterios científicos relevantes de aplicación.",
+        "D": "El Consejo de Gobierno de la Junta de Andalucía a propuesta de la Consejería competente en materia de salud, tras el estudio presupuestario relevante de aplicación."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta100": {
+    "pregunta": "De acuerdo con la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, ¿en cuál de las siguientes situaciones NO es necesario el consentimiento del interesado para el tratamiento de sus datos personales?",
+    "opciones": {
+        "A": "Cuando el tratamiento es necesario para proteger intereses vitales del interesado o de otra persona física.",
+        "B": "Cuando el tratamiento se realiza para el cumplimiento de una obligación legal aplicable al responsable del tratamiento.",
+        "C": "Cuando el tratamiento se basa exclusivamente en el interés legítimo del responsable, sin realizar análisis de proporcionalidad.",
+        "D": "Cuando el tratamiento tiene como base la ejecución de un contrato con el interesado, pero incluye cesión a terceros para finalidades comerciales no relacionadas."
+    },
+    "respuesta_correcta": "B"
+},
+"Comunes 2025_pregunta101": {
+    "pregunta": "¿A qué siglas corresponde la expresión TIC (o TICs)?",
+    "opciones": {
+        "A": "Teoría Integral Corporativa.",
+        "B": "Tecnologías de la Información y las Comunicaciones.",
+        "C": "Tecnología Informática Corporativa.",
+        "D": "Tecnologías de la Informática y Ciberseguridad."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta102": {
+    "pregunta": "El Artículo 43 de la Constitución Española reconoce el derecho a la protección de la salud. Señale la respuesta que corresponda a la redacción correcta de parte de su contenido:",
+    "opciones": {
+        "A": "Compete a los poderes públicos organizar y tutelar la salud privada a través de medidas preventivas y de las prestaciones concertadas. Una ley orgánica establecerá los derechos y deberes de todos al respecto.",
+        "B": "Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.",
+        "C": "Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. El gobierno establecerá los derechos y deberes de todos al respecto.",
+        "D": "Compete al poder judicial organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta103": {
+    "pregunta": "Según el artículo 57 de la Ley 14/1986, de 25 de abril, General de Sanidad, las Áreas de Salud contarán, como mínimo, con una serie de órganos de gestión, dirección y participación. Señale el que es correcto:",
+    "opciones": {
+        "A": "De participación: El Consejo de Dirección de Área.",
+        "B": "De dirección: El Consejo de Salud de Área.",
+        "C": "De gestión: El Gerente de Área.",
+        "D": "De dirección: El Gerente de Área."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta104": {
+    "pregunta": "El Artículo 127 del Estatuto de Autonomía de Andalucía regula la disolución del Parlamento. Señale la respuesta correcta sobre lo recogido textualmente en el citado articulado legal:",
+    "opciones": {
+        "A": "El Presidente de la Junta, bajo su exclusiva responsabilidad, podrá decretar la disolución del Parlamento.",
+        "B": "El decreto de disolución no fijará la fecha de las elecciones.",
+        "C": "La disolución no podrá tener lugar cuando esté en trámite una cuestión de confianza.",
+        "D": "No procederá nueva disolución antes de que haya transcurrido un año desde la anterior, salvo lo dispuesto en el artículo 118.3 del Estatuto de Autonomía."
+    },
+    "respuesta_correcta": "D"
+},
+
+"Comunes 2025_pregunta105": {
+    "pregunta": "Según el Artículo 34 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la indemnización procedente de la responsabilidad patrimonial de las Administraciones Públicas:",
+    "opciones": {
+        "A": "En ningún caso podrá sustituirse por una compensación en especie.",
+        "B": "Podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado.",
+        "C": "Sólo podrá ser abonada mediante pagos periódicos, y como máximo en doce mensualidades.",
+        "D": "Sólo podrá sustituirse por una compensación en especie y, salvo casos excepcionales, en pagos periódicos."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta106": {
+    "pregunta": "El artículo 2 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud (SNS), establece los principios generales. Indique cuál de las siguientes respuestas NO corresponde a uno de estos principios:",
+    "opciones": {
+        "A": "El aseguramiento universal y único por parte del Estado.",
+        "B": "La prestación de los servicios a los usuarios del SNS en condiciones de igualdad efectiva y calidad, evitando especialmente toda discriminación entre mujeres y hombres en las actuaciones sanitarias.",
+        "C": "La financiación pública del SNS, de acuerdo con el vigente sistema de financiación autonómica.",
+        "D": "La igualdad de oportunidades y la libre circulación de los profesionales en el conjunto del SNS."
+    },
+    "respuesta_correcta": "A"
+},
+
+"Comunes 2025_pregunta107": {
+    "pregunta": "Indique cuál es la Ley que en su artículo 1 dispone: “El objeto de esta ley es establecer el marco legal para las acciones de coordinación y cooperación de las Administraciones públicas sanitarias, en el ejercicio de sus respectivas competencias, de modo que se garantice la equidad, la calidad y la participación social en el Sistema Nacional de Salud, así como la colaboración activa de éste en la reducción de las desigualdades en salud.”",
+    "opciones": {
+        "A": "Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+        "B": "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.",
+        "C": "Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.",
+        "D": "Ley 14/1986, de 25 de abril, General de Sanidad."
+    },
+    "respuesta_correcta": "B"
+},
+
+"Comunes 2025_pregunta108": {
+    "pregunta": "En el artículo 56.2 de la Ley 14/1986 (LGS), se definen las 'Áreas de Salud' como:",
+    "opciones": {
+        "A": "La delimitación geográfica sanitaria más básica que sirve de referencia para la planificación y organización del trabajo de los Equipos de Atención Primaria.",
+        "B": "Las estructuras fundamentales del sistema sanitario, encargadas de las prestaciones sanitarias de atención primaria y atención especializada de la Comunidad Autónoma.",
+        "C": "Las estructuras fundamentales del sistema sanitario, responsabilizadas de la gestión unitaria de los centros y establecimientos del Servicio de Salud de la Comunidad Autónoma en su demarcación territorial y de las prestaciones sanitarias y programas sanitarios a desarrollar por ellos.",
+        "D": "Las estructuras fundamentales del sistema sanitario, responsabilizadas de la gestión unitaria de los centros y establecimientos de las Áreas de Gestión Sanitarias de la provincia en su demarcación territorial y de las prestaciones sanitarias y programas sanitarios a desarrollar por ellos."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Comunes 2025_pregunta109": {
+    "pregunta": "La misión de AETSA (Agencia de Evaluación de Tecnologías Sanitarias de Andalucía) es apoyar la toma de decisiones relacionadas con el uso de las tecnologías sanitarias. ¿En qué estructura de la Consejería de Salud y Consumo o de sus entes instrumentales se integra este servicio administrativo?",
+    "opciones": {
+        "A": "En la Dirección General de Gestión Económica y Servicios del SAS.",
+        "B": "En la Dirección General de Asistencia Sanitaria y Resultados en Salud del SAS.",
+        "C": "En la Secretaria General de Planificación Asistencial y Consumo de la Consejería de Salud y Consumo.",
+        "D": "En la Secretaria General de Salud Pública e I+D+i en Salud de la Consejería de Salud y Consumo."
+    },
+    "respuesta_correcta": "D"
+},
+
+"Comunes 2025_pregunta110": {
+    "pregunta": "El sistema de clasificación de pacientes que clasifica a los pacientes hospitalarios en grupos homogéneos, en los que los pacientes incluidos en cada uno de ellos son clínicamente similares, y con parecido consumo de recursos, se denomina:",
+    "opciones": {
+        "A": "INIHOS.",
+        "B": "CIE-10-MC.",
+        "C": "CMBD.",
+        "D": "GRD."
+    },
+    "respuesta_correcta": "D"
+}
+
+
+}
+
+}
