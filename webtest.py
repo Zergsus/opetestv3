@@ -16,6 +16,7 @@ temas = {
     "SAS 2022": "SAS 2022.json",
     "SAS 2018": "SAS 2018.json",
     "SAS 2023 Rocio": "SAS 2023Rocio.json",
+    "Comunes 2025": "comunes2025.json",
     "Protección Radiológica": "preguntas_proteccion_radiologica.json",
     "Dosimetría Física": "preguntas_dosimetria_fisica.json",
     "Radiobiología": "preguntas_radiobiologia.json",
