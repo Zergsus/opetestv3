@@ -1284,8 +1284,8 @@
         "opciones": {
             "A": "V20 ≤ 4 -10 % y Dosis media (MLD)  ≤ 8Gy, con fraccionamiento convencional.",
             "B": "V20 ≤ 50 -55 % y Dosis media (MLD)  ≤ 30 -35 Gy, c on fraccionamiento convencional.",
-            "C": "V20 ≤ 20 -25 % y Dosis media (ML",
-            "D": "≤ 15 -20 Gy, con fraccionamiento convencional."
+            "C": "V20 ≤ 20 -25 % y Dosis media (MLD) ≤ 15 -20 Gy, con fraccionamiento convencional.",
+            "D": "V20 ≤ 30-35 % y Dosis media (MLD)  ≤ 20-23 Gy, con fraccionamiento convencional. "
         },
         "respuesta_correcta": "D"
     },
@@ -18955,6 +18955,7 @@
 }
 
 }
+
 
 
 
